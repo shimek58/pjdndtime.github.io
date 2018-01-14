@@ -21,8 +21,8 @@
   line-height: 50px;
 }
 .menu {
-  width: 90%;
-  max-width: 80%;
+  width: 93%;
+  max-width: 93%;
   margin: 0 auto;
 }
 .menu a, .menu a:visited {
@@ -107,6 +107,6 @@ a.sitename, a:visited.sitename {
 
 @media only screen and (max-width: 220px) {
   .sitename, .show, .hide {
-    font-size: 14px;
+    font-size: 10px;
   }
 }
