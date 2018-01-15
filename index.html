@@ -3,8 +3,8 @@
 <title>Pete and Jeremy's DnDTime</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="greedynav.css" rel="stylesheet" type="text/css" >
+<script src="greedynav.js"></script>
 <link rel="icon" type="image/png" href="/Graphics/favicon.png">
 
 <!-- Fonts created by /u/Solbera on Reddit -->
@@ -129,36 +129,21 @@
 <div style="position:center; overflow-x: hidden; height:100%;">
 
 <!-- Navbar -->
-<div class="w3-top">
-  <div class="w3-bar w3-black w3-card">
-    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="show_div_element('welcome'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Welcome</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-hide-small" onclick="show_div_element('queue'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('welcome'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Player Queue</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-hide-small" onclick="show_div_element('shop'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('welcome'); hide_div_element('faq');">Bartholomew's Shop</a>
-	<div class="w3-dropdown-hover w3-hide-small">
-      		<button class="w3-padding-large w3-button" title="More">More <i class="fa fa-caret-down"></i></button>     
-      		<div class="w3-dropdown-content w3-bar-block w3-card-4">
-			<a href="#" class="w3-bar-item w3-button w3-padding-large w3-hide-small" onclick="show_div_element('about'); hide_div_element('welcome'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">About the Stream</a>
-			<a href="#" class="w3-bar-item w3-button w3-padding-large w3-hide-small" onclick="show_div_element('playing'); hide_div_element('about'); hide_div_element('welcome'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Playing in DnDTime</a>
-			<a href="#" class="w3-bar-item w3-button w3-padding-large w3-hide-small" onclick="show_div_element('roster'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('welcome'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Hero Roster</a>
-			<a href="#" class="w3-bar-item w3-button w3-padding-large w3-hide-small" onclick="show_div_element('items'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('welcome'); hide_div_element('shop'); hide_div_element('faq');">Item Codex</a>
-			<a href="#" class="w3-bar-item w3-button w3-padding-large w3-hide-small" onclick="show_div_element('faq'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('welcome');">FAQ</a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Navbar on small screens -->
-<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-    <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="show_div_element('welcome'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Welcome</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="show_div_element('queue'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('welcome'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Player Queue</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="show_div_element('shop'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('welcome'); hide_div_element('faq');">Bartholomew's Shop</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="show_div_element('about'); hide_div_element('welcome'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">About the Stream</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="show_div_element('playing'); hide_div_element('about'); hide_div_element('welcome'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Playing in DnDTime</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="show_div_element('roster'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('welcome'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Hero Roster</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="show_div_element('items'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('welcome'); hide_div_element('shop'); hide_div_element('faq');">Item Codex</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="show_div_element('faq'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('welcome');">FAQ</a>
-</div>
+<nav class='greedy'>
+  <h1><img src="/Graphics/DnDTime-Logo.png"></h1>
+  <ul class='links'>
+	<li><a href="#" onclick="show_div_element('welcome'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Welcome</a></li>
+	<li><a href="#" onclick="show_div_element('queue'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('welcome'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Player Queue</a></li>
+	<li><a href="#" onclick="show_div_element('shop'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('welcome'); hide_div_element('faq');">Bartholomew's Shop</a></li>
+	<li><a href="#" onclick="show_div_element('about'); hide_div_element('welcome'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">About the Stream</a></li>
+	<li><a href="#" onclick="show_div_element('playing'); hide_div_element('about'); hide_div_element('welcome'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Playing in DnDTime</a></li>
+	<li><a href="#" onclick="show_div_element('roster'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('welcome'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('faq');">Hero Roster</a></li>
+	<li><a href="#" onclick="show_div_element('items'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('welcome'); hide_div_element('shop'); hide_div_element('faq');">Item Codex</a></li>
+	<li><a href="#" onclick="show_div_element('faq'); hide_div_element('about'); hide_div_element('playing'); hide_div_element('queue'); hide_div_element('roster'); hide_div_element('items'); hide_div_element('shop'); hide_div_element('welcome');">FAQ</a></li>
+  </ul>
+  <button>MENU</button>
+  <ul class='hidden-links hidden'></ul>
+</nav>
 
 <!-- Title Area & Audio Player -->
 <br><br>
@@ -863,22 +848,6 @@ See the "Playing in DnDTime" page of this website.
 </footer>
 
 <script>
-// Used to toggle the menu on small screens when clicking on the menu button
-function myFunction() {
-    var x = document.getElementById("navDemo");
-    if (x.className.indexOf("w3-show") == -1) {
-        x.className += " w3-show";
-    } else { 
-        x.className = x.className.replace(" w3-show", "");
-    }
-}
-// When the user clicks anywhere outside of the modal, close it
-var modal = document.getElementById('ticketModal');
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
 // Show div pages elements
     function show_div_element(id) {
        var x = document.getElementById(id);
@@ -889,8 +858,7 @@ window.onclick = function(event) {
     function hide_div_element(id) {
        var x = document.getElementById(id);
           x.style.display = 'none';
-    }
-	
+    }	
 </script>
 
 </div>
