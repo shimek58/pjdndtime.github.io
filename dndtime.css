@@ -1,0 +1,132 @@
+/* Fonts created by /u/Solbera on Reddit */
+	@font-face {
+	font-family: "NodestoCaps";
+	src: url("/Fonts/Nodesto%20Caps%20Condensed%20Bold.woff2") format("woff2"), url("/Fonts/Nodesto%20Caps%20Condensed%20Bold.woff") format("woff");
+	}
+	@font-face {
+	font-family: "MrEavesSmallCaps";
+	src: url("/Fonts/Mr%20Eaves%20Small%20Caps.woff2") format("woff2"), url("/Fonts/Mr%20Eaves%20Small%20Caps.woff") format("woff");
+	}
+	@font-face {
+	font-family: "BookInsanity";
+	src: url("/Fonts/BookinsanityRemakeRegular.woff2") format("woff2"), url("/Fonts/BookinsanityRemakeRegular.woff") format("woff");
+	}
+	@font-face {
+	font-family: "ZatannaMisdirection";
+	src: url("/Fonts/Zatanna%20Misdirection.woff2") format("woff2"), url("/Fonts/Zatanna%20Misdirection.woff") format("woff");
+	}
+	@font-face {
+	font-family: "ScalySansCapsBold";
+	src: url("/Fonts/Scaly%20Sans%20Caps%20Bold.woff2") format("woff2"), url("/Fonts/Scaly%20Sans%20Caps%20Bold.woff") format("woff");
+	}
+	@font-face {
+	font-family: "ScalySansBold";
+	src: url("/Fonts/Scaly%20Sans%20Bold.woff2") format("woff2"), url("/Fonts/Scaly%20Sans%20Bold.woff") format("woff");
+	}
+	@font-face {
+	font-family: "ScalySans";
+	src: url("/Fonts/Scaly%20Sans.woff2") format("woff2"), url("/Fonts/Scaly%20Sans.woff") format("woff");
+	}
+	.TitleFont {
+	font-family:NodestoCaps;
+	font-weight:normal;
+	font-size: calc(24px + 5.0vw);
+	text-align: center;
+	color:white;
+	text-shadow: 1px 1px 2px #000000,-1px 1px 2px #000000,1px -1px 2px #000000,-1px -1px 2px #000000;
+	}
+	.HeadFont {
+	font-family:MrEavesSmallCaps;
+	font-weight:bold;
+	font-size: calc(24px + 0.9vw);
+	text-align: left;
+	color: #58180d;
+	border-bottom: 2px solid #cdb376;
+	display: inline-block;
+	line-height: 0.8;
+	}
+	.SubHeadFont {
+	font-family:MrEavesSmallCaps;
+	font-weight:bold;
+	font-size: calc(20px + 0.8vw);
+	text-align: left;
+	color: #58180d;
+	}
+	.BodyFont {
+	font-family:BookInsanity;
+	font-weight:normal;
+	font-size: calc(14px + 0.4vw);
+	text-align: left;
+	color: black;
+	}
+	.TableTitleFont {
+	font-family:ScalySansCapsBold;
+	font-weight:normal;
+	font-size: calc(11pt + .6vw);
+	text-align: left;
+	color: black;
+	}
+	table {
+		width:100%;
+	}
+	table, th, td {
+		border-collapse: collapse;
+	}
+	th, td {
+		padding: 5px;
+		font-family:ScalySans;
+		font-weight:normal;
+		font-size: calc(8.5pt + .4vw);
+		text-align: left;
+		color: black;
+	}
+	table tr:nth-child(even) {
+		background-color:#e3e5bd;
+	}
+	table th {
+		font-family:ScalySansBold;
+		font-weight:bold;
+		font-size: calc(8.5pt + .4vw);
+		text-align: left;
+		color: black;
+	}
+	#audioplayer {
+		width: 325px;
+	}
+	hr {
+	height:2px;
+	border:none;
+	color:rgb(0,0,0);
+	background-color:rgb(0,0,0);
+	opacity:0.3;
+	}
+	
+/* W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes */
+/* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
+.w3-bar-block .w3-dropdown-hover,.w3-bar-block .w3-dropdown-click{width:100%}
+.w3-bar-block .w3-dropdown-hover .w3-dropdown-content,.w3-bar-block .w3-dropdown-click .w3-dropdown-content{min-width:100%}
+.w3-bar-block .w3-dropdown-hover .w3-button,.w3-bar-block .w3-dropdown-click .w3-button{width:100%;text-align:left;padding:8px 16px}
+.w3-bar{width:100%;overflow:hidden}.w3-center .w3-bar{display:inline-block;width:auto}
+.w3-bar .w3-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+.w3-bar .w3-dropdown-hover,.w3-bar .w3-dropdown-click{position:static;float:left}
+.w3-bar .w3-button{white-space:normal}
+.w3-bar-block .w3-bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
+.w3-bar-block.w3-center .w3-bar-item{text-align:center}.w3-block{display:block;width:100%}
+.w3-hide{display:none!important}.w3-show-block,.w3-show{display:block!important}.w3-show-inline-block{display:inline-block!important}
+@media (max-width:600px){.w3-modal-content{margin:0 10px;width:auto!important}.w3-modal{padding-top:30px}
+.w3-dropdown-hover.w3-mobile .w3-dropdown-content,.w3-dropdown-click.w3-mobile .w3-dropdown-content{position:relative}	
+.w3-hide-small{display:none!important}.w3-mobile{display:block;width:100%!important}.w3-bar-item.w3-mobile,.w3-dropdown-hover.w3-mobile,.w3-dropdown-click.w3-mobile{text-align:center}
+.w3-dropdown-hover.w3-mobile,.w3-dropdown-hover.w3-mobile .w3-btn,.w3-dropdown-hover.w3-mobile .w3-button,.w3-dropdown-click.w3-mobile,.w3-dropdown-click.w3-mobile .w3-btn,.w3-dropdown-click.w3-mobile .w3-button{width:100%}}
+@media (min-width:993px){.w3-modal-content{width:900px}.w3-hide-large{display:none!important}.w3-sidebar.w3-collapse{display:block!important}}
+@media (max-width:992px) and (min-width:601px){.w3-hide-medium{display:none!important}}
+.w3-top,.w3-bottom{position:fixed;width:100%;z-index:1}.w3-top{top:0}.w3-bottom{bottom:0}
+.w3-card,.w3-card-2{box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
+.w3-padding-small{padding:4px 8px!important}.w3-padding{padding:8px 16px!important}.w3-padding-large{padding:12px 24px!important}
+.w3-left{float:left!important}.w3-right{float:right!important}
+.w3-black,.w3-hover-black:hover{color:#fff!important;background-color:#000!important}
+.w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
+.w3-container,.w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}
+.w3-padding-64{padding-top:64px!important;padding-bottom:64px!important}
+.w3-opacity,.w3-hover-opacity:hover{opacity:0.60}.w3-opacity-off,.w3-hover-opacity-off:hover{opacity:1}
+.w3-light-grey,.w3-hover-light-grey:hover,.w3-light-gray,.w3-hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
+.w3-xlarge{font-size:24px!important}.w3-xxlarge{font-size:36px!important}.w3-xxxlarge{font-size:48px!important}.w3-jumbo{font-size:64px!important}
