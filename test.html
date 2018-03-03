@@ -64,12 +64,9 @@ PETE AND JEREMY'S DNDTIME
 <!-- Start Page content -->
 
 <iframe name="dndtime-iframe" src="welcome.html" width="100%" onload="resizeIframe(this)">
-	
-function resize() {
-  var height = document.getElementsByTagName("html")[0].scrollHeight;
-  window.parent.postMessage(["setHeight", height], "*"); 
-}
-	
+
+<body onLoad="resize();">
+
 </iframe>
 	
 <!-- End Page Content -->
@@ -109,7 +106,13 @@ window.addEventListener('message', function(e) {
       $iframe.height(data);
       break;
   }
-}, false);	
+}, false);
+	
+function resize() {
+  var height = document.getElementsByTagName("html")[0].scrollHeight;
+  window.parent.postMessage(["setHeight", height], "*"); 
+}
+
 	
 </div>
 </body>
