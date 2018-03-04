@@ -52,6 +52,9 @@
 	text-align: left;
 	color: #58180d;
 	}
+	.flikr {
+	min-height: 700px;
+	}
 	.BodyFont {
 	font-family:BookInsanity;
 	font-weight:normal;
