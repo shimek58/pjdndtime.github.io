@@ -83,7 +83,7 @@
                 }
             // Load Content
             function loadContent() {
-                var dynamicContent = window.location.hash; // Give the URL parameter a variable name
+                var dynamicContent = location.hash; // Give the URL parameter a variable name
                 var xhttp = new XMLHttpRequest();
                 xhttp.onreadystatechange = function() {
                     if (this.readyState == 4 && this.status == 200) {
