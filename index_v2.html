@@ -60,6 +60,7 @@
         <br>
         <br>
         <!-- Start Page content -->
+        <span id="welcome"></span><span id="about"></span><span id="fanart"></span><span id="faq"></span><span id="items"></span><span id="playing"></span><span id="signups"></span><span id="roster"></span><span id="shop"></span>
         <p id="DnDTimeAjaxObject">Only AJAX-supported browsers are supported.</p>
         <!-- End Page Content -->
         <!-- Footer -->
@@ -81,7 +82,7 @@
                         modal.style.display = "none";
                     }
                 }
-            // Load Content
+                // Load Content
             function loadContent() {
                 var dynamicContent = location.hash.substr(1); // Give the URL parameter a variable name
                 var xhttp = new XMLHttpRequest();
