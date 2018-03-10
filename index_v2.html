@@ -81,19 +81,9 @@
                         modal.style.display = "none";
                     }
                 }
-                // Parse URL for page name parameter
-            function getParameterByName(name, url) {
-                if (!url) url = window.location.href;
-                name = name.replace(/[\[\]]/g, "\\$&");
-                var regex = new RegExp("[#&]" + name + "(=([^&#]*)|&|#|$)"),
-                    results = regex.exec(url);
-                if (!results) return null;
-                if (!results[2]) return 'welcome';
-                return decodeURIComponent(results[2].replace(/\+/g, " "));
-            }
             // Load Content
             function loadContent() {
-                var dynamicContent = getParameterByName('pg'); // Give the URL parameter a variable name
+                var dynamicContent = window.location.hash; // Give the URL parameter a variable name
                 var xhttp = new XMLHttpRequest();
                 xhttp.onreadystatechange = function() {
                     if (this.readyState == 4 && this.status == 200) {
