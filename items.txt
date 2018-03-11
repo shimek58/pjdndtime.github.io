@@ -2,7 +2,7 @@
 
     <div class="HeadFont">
 
-        Item Codex
+        Bartholomew's Guide to All Things Arcane
 
     </div>
     <br>
