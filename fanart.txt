@@ -15,7 +15,7 @@
         <br>
         <br>
 
-        <iframe style="position: relative; top: 0; left: 0; width: 100%; height: 100%;" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/140250708@N07/&sort=2&by=user&theme=tiles_nested&scale=fit&limit=500&skin=default&autoplay=true" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe><div style="position: absolute; padding-bottom: 60%; overflow: auto; -webkit-overflow-scrolling:touch;"></div>
+        <iframe class="flickr" style="position: relative; top: 0; left: 0; width: 100%; height: 100%;" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/140250708@N07/&sort=2&by=user&theme=tiles_nested&scale=fit&limit=500&skin=default&autoplay=true" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe><div style="position: absolute; padding-bottom: 60%; overflow: auto; -webkit-overflow-scrolling:touch;"></div>
 
         <br>
         <br>
