@@ -1,0 +1,87 @@
+<div id="faq" display: none; style="margin-right: 7%; margin-left: 7%;">
+
+    <div class="HeadFont">
+
+        Frequently Asked Questions
+
+    </div>
+    <br>
+    <br>
+    <div class="BodyFont">
+
+        Confused about something in DnDTime? Check out our FAQ below. If you can't find what you need there, head over to our Discord Server and ask around!
+
+    </div>
+    <br>
+    <hr>
+    <br>
+    <div class="SubHeadFont">
+
+        How Do You Play Dungeons & Dragons?
+
+    </div>
+    <br>
+    <div class="BodyFont">
+
+        First of all, we're stoked that you decided to play some of your first games of Dungeons and Dragons (D&D or DnD) with us! For starters, the easiest way to learn to play in Pete and Jeremy's DnDTime is to watch one or two of our previous adventures. After that, check out the <a href="http://dnd.wizards.com/articles/features/basicrules">Fifth Edition Free Basic Rules</a>. It might seem like a lot to take in, but by taking 15 or 20 minutes to read the 'Step-by-Step Character Creation' section in Chapter 1, the 'Using Ability Scores' section in Chapter 7, and the 'Combat' section in Chapter 9, you'll quickly realize that D&D is easy to play! Check out our 'Playing in DnDTime' webpage. If you have trouble figuring things out, stop by our Discord Server and Pete, Jeremy, or one of the many friendly community members of DnDTime will be glad to help you out!
+
+    </div>
+    <br>
+    <hr>
+    <br>
+    <div class="SubHeadFont">
+
+        What Is Roll20?
+
+    </div>
+    <br>
+    <div class="BodyFont">
+
+        Roll20 is a free, browser-based, virtual tabletop, dice roller, and character sheet mangement program. For our purposes here at Pete and Jeremy's DnDTime, Roll20 is a character manager and dice roller. Roll20 has a built in character sheet template for 5th Edition D&D which does almost all of the math for you and makes it extremely easy to build a character. To make an account, just register on Roll20.net and then comment on our <a href="https://app.roll20.net/lfg/listing/77757/pete-and-jeremys-d-and-d-time">Roll20 Looking for Group Posting</a>. From there we can invite you to the game, and give you a character sheet and help you to build your character. If you're interested in a full list of things that Roll20 can do, check out youtube or Roll20's wiki-page.
+
+    </div>
+    <br>
+    <hr>
+    <br>
+    <div class="SubHeadFont">
+
+        How Do I Make A Character?
+
+    </div>
+    <br>
+    <div class="BodyFont">
+
+        See the above "How Do You Play Dungeons & Dragons?" section.
+
+    </div>
+    <br>
+    <hr>
+    <br>
+    <div class="SubHeadFont">
+
+        How Do I Level Up In DnDTime?
+
+    </div>
+    <br>
+    <div class="BodyFont">
+
+        See the "Playing in DnDTime" page of this website.
+
+    </div>
+    <br>
+    <hr>
+    <br>
+    <div class="SubHeadFont">
+
+        What Happens If My Charater Dies?
+
+    </div>
+    <br>
+    <div class="BodyFont">
+
+        See the "Playing in DnDTime" page of this website.
+
+    </div>
+    <br>
+    <br>
+</div>
