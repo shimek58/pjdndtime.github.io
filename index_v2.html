@@ -11,7 +11,7 @@
     <link href="dndtime.css" rel="stylesheet">
 </head>
 
-<body onload="setTimeout(loadContent, 200)">
+<body onload="setTimeout(loadWelcome)">
     <span id="welcome"></span><span id="about"></span><span id="fanart"></span><span id="faq"></span><span id="items"></span><span id="playing"></span><span id="signups"></span><span id="roster"></span><span id="shop"></span>
     <div style="margin: auto; overflow-x: hidden; height:100%;">
         <!-- Navbar -->
@@ -83,6 +83,18 @@
                     }
                 }
             // Load Content
+			function loadContent() {
+                var dynamicContent = location.hash.substr(1); // Give the URL parameter a variable name
+                var xhttp = new XMLHttpRequest();
+                xhttp.onreadystatechange = function() {
+                    if (this.readyState == 4 && this.status == 200) {
+                        document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
+                    }
+                };
+                xhttp.open("GET", "Welcome.txt", true);
+                xhttp.send();
+            }
+			// Load Content
 			function loadContent() {
                 var dynamicContent = location.hash.substr(1); // Give the URL parameter a variable name
                 var xhttp = new XMLHttpRequest();
