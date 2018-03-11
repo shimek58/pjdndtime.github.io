@@ -11,9 +11,8 @@
         This roster details every character to ever be played on Pete and Jeremy's DnDTime. You can find all sorts of interesting statistics and information regarding the player base or individual characters here!
 
         <br>
-        <br>
 
-        <iframe width="100%" height="100%" frameborder="0" src="roster.html"></iframe>
+        <iframe width="100%" height="525px" frameborder="0" src="roster.html"></iframe>
 
     </div>
     <br>
