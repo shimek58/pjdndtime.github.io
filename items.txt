@@ -13,7 +13,7 @@
 
         <br>
 
-        <iframe width="100%" height="525px" frameborder="0" src="items.html"></iframe>       
+        <iframe width="100%" height="600px" frameborder="0" src="items.html"></iframe>       
 
     </div>
     <br>
