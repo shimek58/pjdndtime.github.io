@@ -16,7 +16,6 @@
         <br>
 
         <div class="flickr" id="flickrembed"></div>
-        <script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=72157693585268365&sort=2&by=album&theme=tiles_nested&scale=fit&limit=500&skin=alexis&autoplay=true'></script>
 
         <br>
         <br>
