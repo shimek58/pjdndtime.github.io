@@ -9,7 +9,7 @@
     <br>
     <div class="BodyFont">
 
-        This ancient tome was written by Bartholomew the Wizard himsel. It details every magical item that has ever been pulled from Bartholomew's Big Bag Bonanza and the respective owners of those items.
+        This ancient tome was written by Bartholomew the Wizard himself. It details every magical item that has ever been pulled from Bartholomew's Big Bag Bonanza and the respective owners of those items.
 
         <br>
 
