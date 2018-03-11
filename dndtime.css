@@ -103,9 +103,6 @@
 	background-color:rgb(0,0,0);
 	opacity:0.3;
 	}
-	iframe { 
-	min-height: 100vh; 
-	}
 	body {
 	background-image: url("Graphics/Background.jpg");
 	}
