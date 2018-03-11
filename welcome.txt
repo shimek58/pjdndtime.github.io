@@ -1,4 +1,4 @@
-<div id="welcome" display: block; style="margin-right: 7%; margin-left: 7%;">
+<div display: block; style="margin-right: 7%; margin-left: 7%;">
 
     <div class="HeadFont">
 
