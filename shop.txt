@@ -235,7 +235,7 @@ Generally speaking, if you roll a 1, something terrible will happen.  If you rol
                     Consumable. This gem contains a mote of elemental energy. When you use an action to break the gem, a fire elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost.
                 </td>
                 <td>
-                    200 Bartholomew Bucks
+                    300 Bartholomew Bucks
                 </td>
             </tr>
             <tr>
@@ -274,14 +274,14 @@ Generally speaking, if you roll a 1, something terrible will happen.  If you rol
             </tr>
             <tr>
                 <th>
-                    Quaal's Feather Token, Swan Boat
+                    Shield of Missile Attraction
                 </th>
                 <td>
-                    Consumable. This tiny object looks like a feather.
-<br>Fan. If you are on a boat or ship, you can use an action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action.
+                    Requires Attunement. While holding this shield, you have resistance to damage from ranged weapon attacks.
+<br>Curse. This shield is cursed. Attuning to it curses you until you are targeted by the remove curse spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.
                 </td>
                 <td>
-                    400 Bartholomew Bucks
+                    1,200 Bartholomew Bucks
                 </td>
             </tr>
             <tr>
