@@ -235,7 +235,7 @@ Generally speaking, if you roll a 1, something terrible will happen.  If you rol
                     Consumable. This gem contains a mote of elemental energy. When you use an action to break the gem, a fire elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost.
                 </td>
                 <td>
-                    300 Bartholomew Bucks
+                    200 Bartholomew Bucks
                 </td>
             </tr>
             <tr>
