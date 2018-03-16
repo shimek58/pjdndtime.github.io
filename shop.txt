@@ -229,10 +229,21 @@ Generally speaking, if you roll a 1, something terrible will happen.  If you rol
             </tr>
             <tr>
                 <th>
-                    Weapon of Warning
+                    Elemental Gem, Red Corundum
                 </th>
                 <td>
-                    Weapon Enchantment. This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
+                    Consumable. This gem contains a mote of elemental energy. When you use an action to break the gem, a fire elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost.
+                </td>
+                <td>
+                    200 Bartholomew Bucks
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Ring of Swimming
+                </th>
+                <td>
+                    You have a swimming speed of 40 feet while wearing this ring.
                 </td>
                 <td>
                     600 Bartholomew Bucks
@@ -240,23 +251,10 @@ Generally speaking, if you roll a 1, something terrible will happen.  If you rol
             </tr>
             <tr>
                 <th>
-                    Boots of the Winterlands
+                    Stone of Good Luck
                 </th>
                 <td>
-                    Requires Attunement. These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
-                    <br> • You have resistance to cold damage.
-                    <br> • You ignore difficult terrain created by ice or snow.
-                    <br> • You can tolerate extreme cold temperatures without any additional protection. </td>
-                <td>
-                    600 Bartholomew Bucks
-                </td>
-            </tr>
-            <tr>
-                <th>
-                    Circlet of Blasting
-                </th>
-                <td>
-                    While wearing this circlet, you can use an action to cast the Scorching Ray spell with it. When you make the spell's attacks, you do so with an attack bonus of +5. The circlet can't be used this way again until the next dawn.
+                    Requires Attunement. While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
                 </td>
                 <td>
                     600 Bartholomew Bucks
@@ -264,10 +262,11 @@ Generally speaking, if you roll a 1, something terrible will happen.  If you rol
             </tr>
             <tr>
                 <th>
-                    Boots of Levitation
+                    Cape of the Mountebank
                 </th>
                 <td>
-                    Requires Attunement. While you wear these boots, you can use an action to cast the levitate spell on yourself at will.
+                    This cape smells faintly of brimstone. While wearing it, you can use it to cast the dimension door spell as an action. This property of the cape can't be used again until the next dawn.
+<br>When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
                 </td>
                 <td>
                     1,200 Bartholomew Bucks
@@ -275,11 +274,11 @@ Generally speaking, if you roll a 1, something terrible will happen.  If you rol
             </tr>
             <tr>
                 <th>
-                    Quaal's Feather Token, Bird
+                    Quaal's Feather Token, Swan Boat
                 </th>
                 <td>
                     Consumable. This tiny object looks like a feather.
-                    <br> You can use an action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a roc, but it obeys your simple commands and can't attack. It can carry up to 500 pounds while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day. with a one-hour rest for every 3 hours of flying), or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.
+<br>Fan. If you are on a boat or ship, you can use an action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action.
                 </td>
                 <td>
                     400 Bartholomew Bucks
@@ -287,12 +286,10 @@ Generally speaking, if you roll a 1, something terrible will happen.  If you rol
             </tr>
             <tr>
                 <th>
-                    Sun Blade
+                    Wings of Flying
                 </th>
                 <td>
-                    Requires Attunement. This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with shortswords or longswords, you are proficient with the sun blade.
-                    <br> You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra 1d8 radiant damage.
-                    <br> The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each."
+                    Requires Attunement. While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.
                 </td>
                 <td>
                     1,200 Bartholomew Bucks
