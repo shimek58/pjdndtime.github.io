@@ -1,1 +1,3 @@
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQS6hj_T_5HgPoGG-NeGl3Uo3YkwL31K_52EbZEquFw2Hs5JW-wWxdc6kXWEjvLwgDJ4KsGsj2hF5HF/pub?embedded=true"></iframe>
+<div style="margin-right: 7%; margin-left: 7%;">
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQS6hj_T_5HgPoGG-NeGl3Uo3YkwL31K_52EbZEquFw2Hs5JW-wWxdc6kXWEjvLwgDJ4KsGsj2hF5HF/pub?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</div>
