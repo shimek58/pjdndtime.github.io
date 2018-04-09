@@ -1,6 +1,4 @@
-<div style="margin-right: 7%; margin-left: 7%;">
-
-    <div class="HeadFont">
+ <div class="HeadFont">
 
         Trading Post
     </div>
@@ -22,4 +20,3 @@
     </div>
     <br>
     <br>
-</div>
