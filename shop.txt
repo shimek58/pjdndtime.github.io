@@ -1,6 +1,4 @@
-<div style="margin-right: 7%; margin-left: 7%;">
-
-    <div class="HeadFont">
+ <div class="HeadFont">
 
         Bartholomew's Shop
 
@@ -327,4 +325,3 @@ Generally speaking, if you roll a 1, something terrible will happen.  If you rol
     </div>
     <br>
     <br>
-</div>
