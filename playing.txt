@@ -1,6 +1,4 @@
-<div style="margin-right: 7%; margin-left: 7%;">
-
-    <div class="HeadFont">
+<div class="HeadFont">
 
         The Rules of DnDTime
 
@@ -126,4 +124,3 @@
     </div>
     <br>
     <br>
-</div>
