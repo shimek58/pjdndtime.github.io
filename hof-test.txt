@@ -4,10 +4,10 @@ Victorious the Paladin
 <br>
 <br>
 <div class="BodyFont">
-<div style="float: left; width: 0px; height: 55px"></div>
-<div style="float: left; clear: left"><iframe src="/misc/squad/secundus-statblock.html" width="100%" height="100%"
+<div style="float: left; width: 0px; height: 125px"></div>
+<div style="float: left; clear: left"><iframe src="/misc/squad/secundus-statblock.html" width="450px" height="625px"
   scrolling="no" frameborder="0" float="right"></iframe></div>
-Victorious, a nephew of Bartholomewís, spent his youth studying at the Academy of Light. It was his parentís greatest wish that he follow in their footsteps and become a Cleric as they had, but Victorious found the path of a Paladin more suited for a man of his impressive physique, and his somewhat less impressive intellect. He has, despite his change in career path, thrived at the academy, achieving such honors as Prom King, and captain of the ball game team, all while interning with his uncleís adventuring troupe. As Victorious continues forward, he endeavors to show the land of DnD Time what a, ìtotally righteous dude,î he really is.
+Victorious, a nephew of Bartholomew‚Äôs, spent his youth studying at the Academy of Light. It was his parent‚Äôs greatest wish that he follow in their footsteps and become a Cleric as they had, but Victorious found the path of a Paladin more suited for a man of his impressive physique, and his somewhat less impressive intellect. He has, despite his change in career path, thrived at the academy, achieving such honors as Prom King, and captain of the ball game team, all while interning with his uncle‚Äôs adventuring troupe. As Victorious continues forward, he endeavors to show the land of DnD Time what a, ‚Äútotally righteous dude,‚Äù he really is.
 <br>
 </div>
 <br>
