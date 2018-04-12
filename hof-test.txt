@@ -1,5 +1,7 @@
-<div class="HeadFont" style="text-align:center">
+<div class="HeadFont">
+<strong align="center">
 Hall of Fame - Kurogan, the Great and Powerful
+</strong>
 </div>
 <br>
 <br>
