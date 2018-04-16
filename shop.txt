@@ -1,327 +1,204 @@
- <div class="HeadFont">
-
-        Bartholomew's Shop
-
-    </div>
-    <br>
-    <br>
-    <div class="BodyFont">
-
-        Bartholomew's Shop offers a variety of magical goods and services ranging from weapons to potions and everything in-between!
-
-    </div>
-    <br>
-    <hr>
-    <br>
-    <div class="SubHeadFont">
-
-        Bartholomew's Big Bag Bonanza
-
-    </div>
-    <br>
-    <div class="BodyFont">
-
-        Throughout countless years of adventuring, Bartholomew's personal Bag of Holding has become quite the managerie of magical curios. For a price, you may reach into the bag and pull a random magic item from within. Bartholomew has used this bag for just about everything throughout his career, so you may find legendary weapons the likes of Zhjivjals, a blade forged of pure shadow by the legendary spirit smiths of Ysyk'Tor!... Or if luck is not on your side, you might just end up with Bartholomew's lunch. The Big Bag Bonanza houses hundreds of unique magical items, so try your luck today! Prices are shown below. You may not buy a pull from the bag above your adventuring tier.
-
-    </div>
-    <br>
-    <div class="TableTitleFont">
-
-        Big Bag Bonanza Prices
-
-    </div>
-    <table style="width:100%">
-        <tr>
-            <th></th>
-            <th>Story Tier</th>
-            <th>Fable Tier</th>
-            <th>Myth Tier</th>
-            <th>Legend Tier</th>
-        </tr>
-        <tr>
-            <th>Price</th>
-            <td>300 Bartholomew Bucks</td>
-            <td>600 Bartholomew Bucks</td>
-            <td>900 Bartholomew Bucks</td>
-            <td>1,200 Bartholomew Bucks</td>
-        </tr>
-        <tr>
-            <th>Chance</th>
-            <td>Roll 1d300</td>
-            <td>Roll 1d600</td>
-            <td>Roll 1d900</td>
-            <td>Roll 1d1000</td>
-        </tr>
-    </table>
-    <br>
-    <i style="font-size: calc(7pt + .2vw);">
-
-Generally speaking, if you roll a 1, something terrible will happen.  If you roll below a 10, you'll get some non-magical garbage like Bartholomew's Lunch.  If you roll between an 11 and 25, you'll get some unimpressive minor magical item.  If you roll between a 26 and 75, you'll get a random magical consumable. Between 75 and 300, lie items fit for a Storied Hero. Between 301 and 600 lie items fit for a Fabled Hero. Between 601 and 900 lie items fit for a Mythic Hero.  Above 900 lies legendary items of great and terrible power.
-
-</i>
-
-    <br>
-    <br>
-    <div class="BodyFont">
-
-        Interested in sharing your own creative spark with DnDTime? Check out <a href="https://docs.google.com/document/d/1jjJiZmwj6CgrepNULUkRL9pmDrRS-ZIpFllTMww5w-g/edit?usp=sharing">Bartholomew's Guide to Enchanting</a> and then <a href="https://docs.google.com/forms/d/e/1FAIpQLScm1Q5HW0q0y-kl1jzJU0EUOyHv8JOne9F6hoHaSDCE02jfiQ/viewform">Submit Your Own Item</a> for the Big Bag Bonanza! Not every item will make it in, but if an item you designed is pulled from the bag, you will be rewarded a 100 Bartholomew Bucks creators reward and credited on the stream for your creation.
-
-    </div>
-    <br>
-    <hr>
-    <br>
-    <div class="SubHeadFont">
-
-        Gameshow Time
-
-    </div>
-    <br>
-    <div class="BodyFont">
-
-        In an effort to make some extra money on the side, Bartholomew has decided to turn his shop into an exciting opt-in Gameshow! Whenever a player decides to purchase a pull from Bartholomew's Big Bag Bonanza, they get the opportunity to participate in one of the exciting activities below to recieve an discount on their purchase. Limit: One game per visit.
-
-        <br>
-        <br>
-
-        <b>You Time</b> - You take the stage! You have one minute to talk about your character(s), their backstories, their adventures, expiences, opinions, or just about whatever you want! You get a 25 Bartholomew Buck discount on your purchase for participating.
-
-        <br>
-        <br>
-
-        <b>Trivia Time</b> - Answer a trivia question about DnDTime's characters, adventures, or lore. Guess correctly for a 50 Bartholomew Buck discount on your purchase.
-
-        <br>
-        <br>
-
-        <b>Trash Time</b> - End up with a magic item you don't like? Toss it back here! You either be guaranteed one third of the item's value back (based on the items tier: Story, Fable, Myth, etc.) or can choose to roll and see if you get lucky! If choosing to roll, roll a d20. On a roll of 1, you get nothing back and lose the item, on a roll of 20, you get to pull from the bag for free and you keep the trash for next time!
-
-    </div>
-    <br>
-    <hr>
-    <br>
-    <div class="SubHeadFont">
-
-        Enchantments, Upgrades, and Glamour
-
-    </div>
-    <br>
-    <div class="BodyFont">
-
-        One of the many magical services that Bartholomew offers is to magically enhance your equipment. For a fee, your existing armor can be transmuted into armor of higher effectiveness.
-
-        <br>
-        <br>
-
-        <div class="TableTitleFont">
-
-            Armor Upgrade Prices
-
-        </div>
-        <table style="width:100%">
-            <tr>
-                <th>Armor Type</th>
-                <th>Base Armor</th>
-                <th>Upgraded Armor</th>
-            </tr>
-            <tr>
-                <th>Light Armor</th>
-                <td>Leather</td>
-                <td>Studded Leather</td>
-            </tr>
-            <tr>
-                <th>Medium Armor</th>
-                <td>Hide / Chain Shirt / Scale Mail</td>
-                <td>Breastplate / Half Plate</td>
-            </tr>
-            <tr>
-                <th>Heavy Armor</th>
-                <td>Chain Mail</td>
-                <td>Splint Mail</td>
-            </tr>
-            <tr>
-                <th>Upgrade Cost</th>
-                <td>Free!</td>
-                <td>200 Bartholomew Bucks</td>
-            </tr>
-        </table>
-
-        <br>
-        <br>
-
-        <b>Glamour</b> - Bartholomew also wields the power to magically 'glamour' your gear. For 100 Bartholomew Bucks, you can have your armor or weapons magically transmuted to visually appear however you so choose. Changes can include illusory effects, color style, accessories, etc. Glamouring an item makes it magical, but does not provide any inherent bonus to effectiveness; For example, a glamoured flaming sword only appears to be on fire and does not actually do any fire damage. No amount of glamouring will confound the discerning eye; No matter what you make your item look like, it will always be recognized for what it is (you can't make a sword look like a walking stick for example). If you choose to glamour an item and wish its appearance to show up on the Item Codex, Direct Message @DM Jeremy on Discord with a description of your glamour.
-
-        <br>
-        <br>
-
-        <b>Enchantment</b> - Of course, Bartholomew is a <u>very</u> powerful wizard, so he can enchant items to be more effective as well. For 400 Bartholomew Bucks, you can have your weapon transformed into a “+1” magical weapon. This weapon would provide you with a +1 bonus to your attack rolls, and damage rolls (including spell attacks). This enchantment comes with glamour for free, and costs 100 Bartholomew Bucks less if your items are already glamoured.
-
-    </div>
-    <br>
-    <hr>
-    <br>
-    <div class="SubHeadFont">
-
-        Potions and Other Consumables
-
-    </div>
-    <br>
-    <div class="BodyFont">
-
-        Bartholomew's potions of healing restore hit points to a character mid-adventure and come in an limitless variety of flavors. Some favorites include Cherry, Coffee, and Vanilla, however Bartholomew's favorite flavours tend to be more abstract like Enthusiasm or Taxes.
-
-        <br>
-        <br>
-        <div class="TableTitleFont">
-
-            Healing Potion Prices
-
-        </div>
-        <table style="width:100%">
-            <tr>
-                <th></th>
-                <th>Potion of Healing</th>
-                <th>Potion of Greater Healing</th>
-                <th>Potion of Superior Healing</th>
-            </tr>
-            <tr>
-                <th>Potency</th>
-                <td>Restores 2d4+2 Hit Points</td>
-                <td>Restores 4d4+4 Hit Points</td>
-                <td>Restores 8d4+8 Hit Points</td>
-            </tr>
-            <tr>
-                <th>Price</th>
-                <td>25 Bartholomew Bucks</td>
-                <td>75 Bartholomew Bucks</td>
-                <td>175 Bartholomew Bucks</td>
-            </tr>
-        </table>
-        <br> Bartholomew also offer more specialized potions for the inquiring adventurer. Such potions include the Potion of Growth and Diminution for 100 Bartholomew Bucks each and the Potion of Frost Giant Strength for a sum of 300 Bartholomew Bucks.
-
-    </div>
-    <br>
-    <hr>
-    <br>
-    <div class="SubHeadFont">
-
-        The Display Case
-
-    </div>
-    <br>
-    <div class="BodyFont">
-
-        Each month, a new set of classic Dungeons and Dragons items are made available for sale. These items are randomly selected and are priced at a premium based on their rarity.
-
-        <br>
-        <br>
-        <div class="TableTitleFont">
-
-            Items on Display this Month
-
-        </div>
-        <table style="width:100%">
-            <tr>
-                <th>Item</th>
-                <th>Description</th>
-                <th>Price</th>
-            </tr>
-            <tr>
-                <th>
-                    Elemental Gem, Red Corundum
-                </th>
-                <td>
-                    Consumable. This gem contains a mote of elemental energy. When you use an action to break the gem, a fire elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost.
-                </td>
-                <td>
-                    200 Bartholomew Bucks
-                </td>
-            </tr>
-            <tr>
-                <th>
-                    Ring of Swimming
-                </th>
-                <td>
-                    You have a swimming speed of 40 feet while wearing this ring.
-                </td>
-                <td>
-                    600 Bartholomew Bucks
-                </td>
-            </tr>
-            <tr>
-                <th>
-                    Stone of Good Luck
-                </th>
-                <td>
-                    Requires Attunement. While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
-                </td>
-                <td>
-                    600 Bartholomew Bucks
-                </td>
-            </tr>
-            <tr>
-                <th>
-                    Cape of the Mountebank
-                </th>
-                <td>
-                    This cape smells faintly of brimstone. While wearing it, you can use it to cast the dimension door spell as an action. This property of the cape can't be used again until the next dawn.
-<br>When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
-                </td>
-                <td>
-                    1,200 Bartholomew Bucks
-                </td>
-            </tr>
-            <tr>
-                <th>
-                    Shield of Missile Attraction
-                </th>
-                <td>
-                    Requires Attunement. While holding this shield, you have resistance to damage from ranged weapon attacks.
-<br>Curse. This shield is cursed. Attuning to it curses you until you are targeted by the remove curse spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.
-                </td>
-                <td>
-                    1,200 Bartholomew Bucks
-                </td>
-            </tr>
-            <tr>
-                <th>
-                    Wings of Flying
-                </th>
-                <td>
-                    Requires Attunement. While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.
-                </td>
-                <td>
-                    1,200 Bartholomew Bucks
-                </td>
-            </tr>
-        </table>
-    </div>
-    <br>
-    <hr>
-    <br>
-    <div class="SubHeadFont">
-
-        Bartholomew's Choice
-
-    </div>
-    <br>
-    <div class="BodyFont">
-
-        Little known fact, Bartholomew loves money. Rumor has it that if you give him a big enough pile of it (lets say 5,000 Bartholomew Bucks) and provide him a sentimental item which is special to your character, he will use his near-limitless magic to transform the item into a legendary artifact of awesome power...
-
-    </div>
-    <br>
-    <hr>
-    <br>
-    <div class="SubHeadFont">
-
-        The Back Room...
-
-    </div>
-    <br>
-    <div class="BodyFont">
-
-        A large iron door stands, somewhat out of place, against the back wall of Bartholomew's Shop. Chains wrap around it, sealing it shut. Behind it is rumored to lie the most dangerous artifacts known to man. Artifacts of untold power and wonder. Some say that Bartholomew might be willing to let a powerful enough hero inside to look around... for a price.
-
-    </div>
-    <br>
-    <br>
+<div class="HeadFont">
+	Bartholomew's Shop
+</div><br>
+<br>
+<div class="BodyFont">
+	Bartholomew's Shop offers a variety of magical goods and services ranging from weapons to potions and everything in-between!
+</div><br>
+<hr>
+<br>
+<div class="SubHeadFont">
+	Bartholomew's Big Bag Bonanza
+</div><br>
+<div class="BodyFont">
+	Throughout countless years of adventuring, Bartholomew's personal Bag of Holding has become quite the managerie of magical curios. For a price, you may reach into the bag and pull a random magic item from within. Bartholomew has used this bag for just about everything throughout his career, so you may find legendary weapons the likes of Zhjivjals, a blade forged of pure shadow by the legendary spirit smiths of Ysyk'Tor!... Or if luck is not on your side, you might just end up with Bartholomew's lunch. The Big Bag Bonanza houses hundreds of unique magical items, so try your luck today! Prices are shown below. You may not buy a pull from the bag above your adventuring tier.
+</div><br>
+<div class="TableTitleFont">
+	Big Bag Bonanza Prices
+</div>
+<table style="width:100%">
+	<tr>
+		<th></th>
+		<th>Story Tier</th>
+		<th>Fable Tier</th>
+		<th>Myth Tier</th>
+		<th>Legend Tier</th>
+	</tr>
+	<tr>
+		<th>Price</th>
+		<td>300 Bartholomew Bucks</td>
+		<td>600 Bartholomew Bucks</td>
+		<td>900 Bartholomew Bucks</td>
+		<td>1,200 Bartholomew Bucks</td>
+	</tr>
+	<tr>
+		<th>Chance</th>
+		<td>Roll 1d300</td>
+		<td>Roll 1d600</td>
+		<td>Roll 1d900</td>
+		<td>Roll 1d1000</td>
+	</tr>
+</table><br>
+<i style="font-size: calc(7pt + .2vw);">Generally speaking, if you roll a 1, something terrible will happen. If you roll below a 10, you'll get some non-magical garbage like Bartholomew's Lunch. If you roll between an 11 and 25, you'll get some unimpressive minor magical item. If you roll between a 26 and 75, you'll get a random magical consumable. Between 75 and 300, lie items fit for a Storied Hero. Between 301 and 600 lie items fit for a Fabled Hero. Between 601 and 900 lie items fit for a Mythic Hero. Above 900 lies legendary items of great and terrible power.</i><br>
+<br>
+<div class="BodyFont">
+	Interested in sharing your own creative spark with DnDTime? Check out <a href="https://docs.google.com/document/d/1jjJiZmwj6CgrepNULUkRL9pmDrRS-ZIpFllTMww5w-g/edit?usp=sharing">Bartholomew's Guide to Enchanting</a> and then <a href="https://docs.google.com/forms/d/e/1FAIpQLScm1Q5HW0q0y-kl1jzJU0EUOyHv8JOne9F6hoHaSDCE02jfiQ/viewform">Submit Your Own Item</a> for the Big Bag Bonanza! Not every item will make it in, but if an item you designed is pulled from the bag, you will be rewarded a 100 Bartholomew Bucks creators reward and credited on the stream for your creation.
+</div><br>
+<hr>
+<br>
+<div class="SubHeadFont">
+	Gameshow Time
+</div><br>
+<div class="BodyFont">
+	In an effort to make some extra money on the side, Bartholomew has decided to turn his shop into an exciting opt-in Gameshow! Whenever a player decides to purchase a pull from Bartholomew's Big Bag Bonanza, they get the opportunity to participate in one of the exciting activities below to recieve an discount on their purchase. Limit: One game per visit.<br>
+	<br>
+	<b>You Time</b> - You take the stage! You have one minute to talk about your character(s), their backstories, their adventures, expiences, opinions, or just about whatever you want! You get a 25 Bartholomew Buck discount on your purchase for participating.<br>
+	<br>
+	<b>Trivia Time</b> - Answer a trivia question about DnDTime's characters, adventures, or lore. Guess correctly for a 50 Bartholomew Buck discount on your purchase.<br>
+	<br>
+	<b>Trash Time</b> - End up with a magic item you don't like? Toss it back here! You either be guaranteed one third of the item's value back (based on the items tier: Story, Fable, Myth, etc.) or can choose to roll and see if you get lucky! If choosing to roll, roll a d20. On a roll of 1, you get nothing back and lose the item, on a roll of 20, you get to pull from the bag for free and you keep the trash for next time!
+</div><br>
+<hr>
+<br>
+<div class="SubHeadFont">
+	Enchantments, Upgrades, and Glamour
+</div><br>
+<div class="BodyFont">
+	One of the many magical services that Bartholomew offers is to magically enhance your equipment. For a fee, your existing armor can be transmuted into armor of higher effectiveness.<br>
+	<br>
+	<div class="TableTitleFont">
+		Armor Upgrade Prices
+	</div>
+	<table style="width:100%">
+		<tr>
+			<th>Armor Type</th>
+			<th>Base Armor</th>
+			<th>Upgraded Armor</th>
+		</tr>
+		<tr>
+			<th>Light Armor</th>
+			<td>Leather</td>
+			<td>Studded Leather</td>
+		</tr>
+		<tr>
+			<th>Medium Armor</th>
+			<td>Hide / Chain Shirt / Scale Mail</td>
+			<td>Breastplate / Half Plate</td>
+		</tr>
+		<tr>
+			<th>Heavy Armor</th>
+			<td>Chain Mail</td>
+			<td>Splint Mail</td>
+		</tr>
+		<tr>
+			<th>Upgrade Cost</th>
+			<td>Free!</td>
+			<td>200 Bartholomew Bucks</td>
+		</tr>
+	</table><br>
+	<br>
+	<b>Glamour</b> - Bartholomew also wields the power to magically 'glamour' your gear. For 100 Bartholomew Bucks, you can have your armor or weapons magically transmuted to visually appear however you so choose. Changes can include illusory effects, color style, accessories, etc. Glamouring an item makes it magical, but does not provide any inherent bonus to effectiveness; For example, a glamoured flaming sword only appears to be on fire and does not actually do any fire damage. No amount of glamouring will confound the discerning eye; No matter what you make your item look like, it will always be recognized for what it is (you can't make a sword look like a walking stick for example). If you choose to glamour an item and wish its appearance to show up on the Item Codex, Direct Message @DM Jeremy on Discord with a description of your glamour.<br>
+	<br>
+	<b>Enchantment</b> - Of course, Bartholomew is a <u>very</u> powerful wizard, so he can enchant items to be more effective as well. For 400 Bartholomew Bucks, you can have your weapon transformed into a “+1” magical weapon. This weapon would provide you with a +1 bonus to your attack rolls, and damage rolls (including spell attacks). This enchantment comes with glamour for free, and costs 100 Bartholomew Bucks less if your items are already glamoured.
+</div><br>
+<hr>
+<br>
+<div class="SubHeadFont">
+	Potions and Other Consumables
+</div><br>
+<div class="BodyFont">
+	Bartholomew's potions of healing restore hit points to a character mid-adventure and come in an limitless variety of flavors. Some favorites include Cherry, Coffee, and Vanilla, however Bartholomew's favorite flavours tend to be more abstract like Enthusiasm or Taxes.<br>
+	<br>
+	<div class="TableTitleFont">
+		Healing Potion Prices
+	</div>
+	<table style="width:100%">
+		<tr>
+			<th></th>
+			<th>Potion of Healing</th>
+			<th>Potion of Greater Healing</th>
+			<th>Potion of Superior Healing</th>
+		</tr>
+		<tr>
+			<th>Potency</th>
+			<td>Restores 2d4+2 Hit Points</td>
+			<td>Restores 4d4+4 Hit Points</td>
+			<td>Restores 8d4+8 Hit Points</td>
+		</tr>
+		<tr>
+			<th>Price</th>
+			<td>25 Bartholomew Bucks</td>
+			<td>75 Bartholomew Bucks</td>
+			<td>175 Bartholomew Bucks</td>
+		</tr>
+	</table><br>
+	Bartholomew also offer more specialized potions for the inquiring adventurer. Such potions include the Potion of Growth and Diminution for 100 Bartholomew Bucks each and the Potion of Frost Giant Strength for a sum of 300 Bartholomew Bucks.
+</div><br>
+<hr>
+<br>
+<div class="SubHeadFont">
+	The Display Case
+</div><br>
+<div class="BodyFont">
+	Each month, a new set of classic Dungeons and Dragons items are made available for sale. These items are randomly selected and are priced at a premium based on their rarity.<br>
+	<br>
+	<div class="TableTitleFont">
+		Items on Display this Month
+	</div>
+	<table style="width:100%">
+		<tr>
+			<th>Item</th>
+			<th>Description</th>
+			<th>Price</th>
+		</tr>
+		<tr>
+			<th>Elemental Gem, Red Corundum</th>
+			<td>Consumable. This gem contains a mote of elemental energy. When you use an action to break the gem, a fire elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost.</td>
+			<td>200 Bartholomew Bucks</td>
+		</tr>
+		<tr>
+			<th>Ring of Swimming</th>
+			<td>You have a swimming speed of 40 feet while wearing this ring.</td>
+			<td>600 Bartholomew Bucks</td>
+		</tr>
+		<tr>
+			<th>Stone of Good Luck</th>
+			<td>Requires Attunement. While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.</td>
+			<td>600 Bartholomew Bucks</td>
+		</tr>
+		<tr>
+			<th>Cape of the Mountebank</th>
+			<td>This cape smells faintly of brimstone. While wearing it, you can use it to cast the dimension door spell as an action. This property of the cape can't be used again until the next dawn.<br>
+			When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.</td>
+			<td>1,200 Bartholomew Bucks</td>
+		</tr>
+		<tr>
+			<th>Shield of Missile Attraction</th>
+			<td>Requires Attunement. While holding this shield, you have resistance to damage from ranged weapon attacks.<br>
+			Curse. This shield is cursed. Attuning to it curses you until you are targeted by the remove curse spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.</td>
+			<td>1,200 Bartholomew Bucks</td>
+		</tr>
+		<tr>
+			<th>Wings of Flying</th>
+			<td>Requires Attunement. While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.</td>
+			<td>1,200 Bartholomew Bucks</td>
+		</tr>
+	</table>
+</div><br>
+<hr>
+<br>
+<div class="SubHeadFont">
+	Bartholomew's Choice
+</div><br>
+<div class="BodyFont">
+	Little known fact, Bartholomew loves money. Rumor has it that if you give him a big enough pile of it (lets say 5,000 Bartholomew Bucks) and provide him a sentimental item which is special to your character, he will use his near-limitless magic to transform the item into a legendary artifact of awesome power...
+</div><br>
+<hr>
+<br>
+<div class="SubHeadFont">
+	The Back Room...
+</div><br>
+<div class="BodyFont">
+	A large iron door stands, somewhat out of place, against the back wall of Bartholomew's Shop. Chains wrap around it, sealing it shut. Behind it is rumored to lie the most dangerous artifacts known to man. Artifacts of untold power and wonder. Some say that Bartholomew might be willing to let a powerful enough hero inside to look around... for a price.
+</div><br>
+<br>
