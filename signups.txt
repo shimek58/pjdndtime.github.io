@@ -1,26 +1,16 @@
- <div class="HeadFont">
-
-        Player Queue
-
-    </div>
-    <br>
-    <br>
-    <div class="BodyFont">
-
-        Register below for this week's episode of DnDTime. This queue will be open every week from Monday through Wednesday. On Thursday, the queue will close and we will contact the top twelve players in the queue who have the highest priorities and confirm their participation in Friday's games. These players will be contacted via direct message on our Discord Server. The first game each week will prioritize new players. Players gain priority points for every cumulative hour that they have watched the stream on Twitch.TV which is tracked via our friendly bot, Spectator. Each time a player participates in DnDTime, their current number of priority points is halved. This makes it accessible for new players to be able to jump into the rotation with relative ease.
-
-        <br>
-        <br> The queue resets weekly, so remember to enter each week that you are interested in playing!
-
-        <br>
-        <br> Flagrant attempts to abuse our system will result in disqualification from participating in DnDTime.
-
-        <br>
-        <br> If the form below does not load correctly for you, try this <a href="https://drive.google.com/open?id=1TOlMudQXcNlaqHsi9hnvsmXRfnaQ8ucUojsKYbKZhPg">direct link</a>.
-
-        <br>
-        <br>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeVdDbxlzNBk-kxR_U6zQP0ytLGk8z9q71gbLvLcVEcwc9t2g/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-    </div>
-    <br>
-    <br>
+<div class="HeadFont">
+	Player Queue
+</div><br>
+<br>
+<div class="BodyFont">
+	Register below for this week's episode of DnDTime. This queue will be open every week from Monday through Wednesday. On Thursday, the queue will close and we will contact the top twelve players in the queue who have the highest priorities and confirm their participation in Friday's games. These players will be contacted via direct message on our Discord Server. The first game each week will prioritize new players. Players gain priority points for every cumulative hour that they have watched the stream on Twitch.TV which is tracked via our friendly bot, Spectator. Each time a player participates in DnDTime, their current number of priority points is halved. This makes it accessible for new players to be able to jump into the rotation with relative ease.<br>
+	<br>
+	The queue resets weekly, so remember to enter each week that you are interested in playing!<br>
+	<br>
+	Flagrant attempts to abuse our system will result in disqualification from participating in DnDTime.<br>
+	<br>
+	If the form below does not load correctly for you, try this <a href="https://drive.google.com/open?id=1TOlMudQXcNlaqHsi9hnvsmXRfnaQ8ucUojsKYbKZhPg">direct link</a>.<br>
+	<br>
+	<iframe frameborder="0" height="800" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSeVdDbxlzNBk-kxR_U6zQP0ytLGk8z9q71gbLvLcVEcwc9t2g/viewform?embedded=true" width="100%">Loading...</iframe>
+</div><br>
+<br>
