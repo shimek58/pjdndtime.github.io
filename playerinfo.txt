@@ -5,5 +5,5 @@
 <div class="BodyFont">
 	Here you can view some basic information for players in Pete and Jeremy's DnDTime.
 	<br><br>
-	<iframe data-type="AwesomeTableView" frameborder="0" id="152408218849233" name="152408218849233" scrolling="no" src="https://view-awesome-table.com/-LABb2BSYUOf7RzR1PUW/view" style="height:100%; width:100%"></iframe>
+	<iframe data-type="AwesomeTableView" frameborder="0" id="152408218849233" name="152408218849233" scrolling="no" src="https://view-awesome-table.com/-LABb2BSYUOf7RzR1PUW/view" style="height:850px; width:100%"></iframe>
 </div>
