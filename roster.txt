@@ -1,9 +1,0 @@
-<div class="HeadFont">
-	Hero Roster
-</div><br>
-<br>
-<div class="BodyFont">
-	This roster details every character to ever be played on Pete and Jeremy's DnDTime. You can find all sorts of interesting statistics and information regarding the player base or individual characters here!
-	<br><br>
-	<iframe data-type="AwesomeTableView" frameborder="0" id="152408842913127" name="152408842913127" scrolling="no" src="https://view-awesome-table.com/-KqOjGQV5HbUOnpmi_tg/view" style="height:850px; width:100%"></iframe>
-</div>
