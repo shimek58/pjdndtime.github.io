@@ -3,7 +3,7 @@
 </div><br>
 <br>
 <div class="BodyFont">
-	Behold! The valiant heroes of Pete & Jeremy's DnDTime. Check up on your favorite heroes and their cool stuff below! Also be sure to check out the <b><a href="#hallofheroes">Hall of Heroes</a><b>! A page dedicated to our characters who have been able to reach the coveted Myth Tier within Pete & Jeremy's DnDTime.
+	Behold! The valiant heroes of Pete & Jeremy's DnDTime. Check up on your favorite heroes and their cool stuff below! Also be sure to check out the <strong><a href="#hallofheroes">Hall of Heroes</a></strong>! A page dedicated to our characters who have been able to reach the coveted Myth Tier within Pete & Jeremy's DnDTime.
 	<br><br>
 	<iframe data-type="AwesomeTableView" frameborder="0" id="152408218849233" name="152408218849233" scrolling="no" src="https://view-awesome-table.com/-LARAu0RS-8ylCqUQ0Gj/view" style="height:850px; width:100%">Loading...</iframe>
 </div>
