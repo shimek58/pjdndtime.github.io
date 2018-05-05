@@ -37,24 +37,51 @@
 <table style="width:100%">
 	<tr>
 		<th></th>
-		<th>Story Tier</th>
-		<th>Fable Tier</th>
-		<th>Myth Tier</th>
-		<th>Legend Tier</th>
+		<th colspan="3">Story Tier</th>
+		<th colspan="3">Fable Tier</th>
+		<th colspan="3">Myth Tier</th>
+		<th colspan="3">Legend Tier</th>
+	</tr>
+   	<tr>
+		<th>Character Level</th>
+		<td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td>8</td>
+        <td>9</td>
+        <td>10+</td>
+        <td></td>
+        <td></td>
+	</tr>
+	<tr>
+		<th>XP to Reach Level</th>
+		<td>0</td>
+        <td>1</td>
+        <td>3</td>
+        <td>6</td>
+        <td>10</td>
+        <td>15</td>
+        <td>21</td>
+        <td>28</td>
+        <td>36</td>
+        <td>45</td>
+        <td></td>
+        <td></td>
 	</tr>
 	<tr>
 		<th>Salary</th>
-		<td>100 Bartholomew Bucks</td>
-		<td>200 Bartholomew Bucks</td>
-		<td>300 Bartholomew Bucks</td>
-		<td>400 Bartholomew Bucks</td>
+		<th colspan="3">100 Bartholomew Bucks</td>
+		<th colspan="3">200 Bartholomew Bucks</td>
+		<th colspan="3">300 Bartholomew Bucks</td>
+		<th colspan="3">400 Bartholomew Bucks</td>
 	</tr>
-	<tr>
-		<th>Character Levels</th>
-		<td>1 - 3</td>
-		<td>4 - 6</td>
-		<td>7 - 9</td>
-		<td>10+</td>
+    <tr>
+		<th></th>
+		<th colspan="10"><i><small>Each character must complete a Boss Battle tier between each Tier to continue gaining XP and level up!</small></i></td>
 	</tr>
 </table><br>
 <hr>
