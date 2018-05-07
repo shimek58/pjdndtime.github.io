@@ -152,36 +152,36 @@
 			<th>Price</th>
 		</tr>
 		<tr>
-			<th>Elemental Gem, Red Corundum</th>
-			<td>Consumable. This gem contains a mote of elemental energy. When you use an action to break the gem, a fire elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost.</td>
-			<td>200 Bartholomew Bucks</td>
-		</tr>
-		<tr>
-			<th>Ring of Swimming</th>
-			<td>You have a swimming speed of 40 feet while wearing this ring.</td>
+			<th>Cap of Water Breathing</th>
+			<td>While wearing this cap underwater, you can speak its command word as an action to create a bubble of air around your head. It allows you to breathe normally underwater. This bubble stays with you until you speak the command word again, the cap is removed, or you are no longer underwater.</td>
 			<td>600 Bartholomew Bucks</td>
 		</tr>
 		<tr>
-			<th>Stone of Good Luck</th>
-			<td>Requires Attunement. While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.</td>
+			<th>Helm of Telepathy</th>
+			<td>Requires Attunement. While wearing this helm, you can use an action to cast the detect thoughts spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply — using a bonus action to do so — while your focus on it continues.<br>
+While focusing on a creature with detect thoughts, you can use an action to cast the suggestion spell (save DC 13) from the helm on that creature. Once used, the suggestion property can't be used again until the next dawn.</td>
 			<td>600 Bartholomew Bucks</td>
 		</tr>
 		<tr>
-			<th>Cape of the Mountebank</th>
-			<td>This cape smells faintly of brimstone. While wearing it, you can use it to cast the dimension door spell as an action. This property of the cape can't be used again until the next dawn.<br>
-			When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.</td>
+			<th>Flame Tongue</th>
+			<td>Requires Attunement. You can use a bonus action to speak this magic sword' command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</td>
 			<td>1,200 Bartholomew Bucks</td>
 		</tr>
 		<tr>
-			<th>Shield of Missile Attraction</th>
-			<td>Requires Attunement. While holding this shield, you have resistance to damage from ranged weapon attacks.<br>
-			Curse. This shield is cursed. Attuning to it curses you until you are targeted by the remove curse spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.</td>
+			<th>Ring of Resistance</th>
+			<td>When you purchase this ring, choose a damage type that is not bludgeoning, piercing or slashing. You have resistance to that damage type while wearing this ring.</td>
 			<td>1,200 Bartholomew Bucks</td>
 		</tr>
 		<tr>
-			<th>Wings of Flying</th>
-			<td>Requires Attunement. While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.</td>
-			<td>1,200 Bartholomew Bucks</td>
+			<th>Dwarven Plate</th>
+			<td>Requires Attunement. While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 feet.</td>
+			<td>1,800 Bartholomew Bucks</td>
+		</tr>
+		<tr>
+			<th>Carpet of Flying, 3 ft. x 5 ft.</th>
+			<td>You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.<br>
+A 3 ft. x 5 ft. carpet can carry up to 200 lb. at a fly speed of 80 feet. A carpet can carry up to twice this weight, but it flies at half speed if it carries more than its normal capacity.</td>
+			<td>1,800 Bartholomew Bucks</td>
 		</tr>
 	</table>
 </div><br>
