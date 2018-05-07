@@ -2,7 +2,7 @@
 	<strong align="center">Kurogan, the Great and Powerful</strong>
 </div><br>
 <br>
-<div style="float: left; clear: left; width: 900px; height: 950px; margin-top: -10px; overflow: hidden">
+<div style="float: right; clear: right; width: 900px; height: 950px; margin-top: -10px; overflow: hidden">
 	<iframe float="left" frameborder="0" height="100%" scrolling="no" src="/hof/kurogan-statblock.html" width="100%"></iframe>
 </div>
 <div class="BodyFont">
