@@ -5,5 +5,5 @@
 <div class="BodyFont">
 	Check out the awesome fanart drawn by members of the DnDTime community!<br>
 	If you've drawn something that you want to share, reach out to DM.Jeremy or DM.Pete on the DnDTime discord server!<br>
-	<iframe src="fanart.html" frameborder="0" height="height:525px" width="100%"></iframe>
+	<iframe src="fanart.html" frameborder="0" height="525px" width="100%"></iframe>
 </div>
