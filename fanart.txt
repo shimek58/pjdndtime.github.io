@@ -5,25 +5,5 @@
 <div class="BodyFont">
 	Check out the awesome fanart drawn by members of the DnDTime community!<br>
 	If you've drawn something that you want to share, reach out to DM.Jeremy or DM.Pete on the DnDTime discord server!<br>
-	<div data-nanogallery2='{
-        "userID": "140250708@N07",
-        "kind": "flickr",
-        "photoset": "none",
-        "thumbnailWidth": "200",
-        "thumbnailHeight": "auto",
-        "thumbnailBorderVertical": 1,
-        "thumbnailBorderHorizontal": 1,
-        "colorScheme": {
-          "thumbnail": {
-            "background": "rgba(0,0,0,0)"
-          }
-        },
-        "thumbnailLabel": {
-          "titleMultiLine": true
-        },
-        "thumbnailHoverEffect2": "imageScaleIn80|imageSepiaOff|labelAppear75",
-        "thumbnailAlignment": "center"
-      }'>
-
-    </div>
+	<iframe frameborder="0" height="525px" src="fanart.html" width="100%"></iframe>
 </div>
