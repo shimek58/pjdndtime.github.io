@@ -79,10 +79,10 @@
                              });
 </script> 
 <script>
-                            var xhttp = new XMLHttpRequest();
+                            var xhttp = new setInterval(XMLHttpRequest(), 5000);
                             xhttp.onreadystatechange = function() {
                                if (this.readyState == 4 && this.status == 200) {
-                                   setInterval(parseFeed(this), 10000);
+                                   parseFeed(this);
                                }
                             };
                             xhttp.open("GET", "https://spreadsheets.google.com/feeds/list/1RbvEAtAvqr79s5FQx0X0f4t9LYxzf0cIy8_w6sOi6MQ/2/public/full/cokwr");
