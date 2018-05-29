@@ -103,11 +103,12 @@ function parseFeed(xml) {
   document.getElementById("CharacterName04").innerHTML = xmlDoc.getElementsByTagName("gsx:c09")[0].childNodes[0].nodeValue;
   document.getElementById("CharacterTitle04").innerHTML = xmlDoc.getElementsByTagName("gsx:c10")[0].childNodes[0].nodeValue;
 }
-</script>
 
 // first page load
 initDatastream();
 setInterval(initDatastream, 5000); // 2 seconds.
+
+</script>
 
 </body>
 </html>
