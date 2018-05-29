@@ -58,7 +58,7 @@
 </style>
 <title></title>
 </head>
-<body onload="setInterval(initDatastream(),5000)">
+<body>
 	
 <div class="CharName" id="CharacterName01"></div>
 <div class="CharTitle" id="CharacterTitle01"></div>
@@ -104,5 +104,10 @@ function parseFeed(xml) {
   document.getElementById("CharacterTitle04").innerHTML = xmlDoc.getElementsByTagName("gsx:c10")[0].childNodes[0].nodeValue;
 }
 </script>
+
+// first page load
+initDatastream();
+setInterval(initDatastream, 5000); // 2 seconds.
+
 </body>
 </html>
