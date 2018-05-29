@@ -81,11 +81,7 @@ gapi.load('auth2', function() {
 <script>
 function initDatastream() {
   var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      parseFeed(this);
-    }
-  };
+  parseFeed(this);
   xhttp.open("GET", "https://spreadsheets.google.com/feeds/list/1RbvEAtAvqr79s5FQx0X0f4t9LYxzf0cIy8_w6sOi6MQ/2/public/full/cokwr");
   xhttp.send();
 }
