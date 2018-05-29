@@ -82,22 +82,17 @@ gapi.load('auth2', function() {
 function getData() {
   var xhttp = new XMLHttpRequest();
   xhttp.open("GET", "https://spreadsheets.google.com/feeds/list/1RbvEAtAvqr79s5FQx0X0f4t9LYxzf0cIy8_w6sOi6MQ/2/public/full/cokwr");
-  xhttp.send();
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      var xmlDoc = xml.responseXML;
-      document.getElementById("AdventureTitle").innerHTML = xmlDoc.getElementsByTagName("gsx:c01")[0].childNodes[0].nodeValue;
-      document.getElementById("AdventureDescription").innerHTML = xmlDoc.getElementsByTagName("gsx:c02")[0].childNodes[0].nodeValue;
-      document.getElementById("CharacterName01").innerHTML = xmlDoc.getElementsByTagName("gsx:c03")[0].childNodes[0].nodeValue;
-      document.getElementById("CharacterTitle01").innerHTML = xmlDoc.getElementsByTagName("gsx:c04")[0].childNodes[0].nodeValue;
-      document.getElementById("CharacterName02").innerHTML = xmlDoc.getElementsByTagName("gsx:c05")[0].childNodes[0].nodeValue;
-      document.getElementById("CharacterTitle02").innerHTML = xmlDoc.getElementsByTagName("gsx:c06")[0].childNodes[0].nodeValue;
-      document.getElementById("CharacterName03").innerHTML = xmlDoc.getElementsByTagName("gsx:c07")[0].childNodes[0].nodeValue;
-      document.getElementById("CharacterTitle03").innerHTML = xmlDoc.getElementsByTagName("gsx:c08")[0].childNodes[0].nodeValue;
-      document.getElementById("CharacterName04").innerHTML = xmlDoc.getElementsByTagName("gsx:c09")[0].childNodes[0].nodeValue;
-      document.getElementById("CharacterTitle04").innerHTML = xmlDoc.getElementsByTagName("gsx:c10")[0].childNodes[0].nodeValue;
-    }
-  }
+    var xmlDoc = xml.responseXML;
+    document.getElementById("AdventureTitle").innerHTML = xmlDoc.getElementsByTagName("gsx:c01")[0].childNodes[0].nodeValue;
+    document.getElementById("AdventureDescription").innerHTML = xmlDoc.getElementsByTagName("gsx:c02")[0].childNodes[0].nodeValue;
+    document.getElementById("CharacterName01").innerHTML = xmlDoc.getElementsByTagName("gsx:c03")[0].childNodes[0].nodeValue;
+    document.getElementById("CharacterTitle01").innerHTML = xmlDoc.getElementsByTagName("gsx:c04")[0].childNodes[0].nodeValue;
+    document.getElementById("CharacterName02").innerHTML = xmlDoc.getElementsByTagName("gsx:c05")[0].childNodes[0].nodeValue;
+    document.getElementById("CharacterTitle02").innerHTML = xmlDoc.getElementsByTagName("gsx:c06")[0].childNodes[0].nodeValue;
+    document.getElementById("CharacterName03").innerHTML = xmlDoc.getElementsByTagName("gsx:c07")[0].childNodes[0].nodeValue;
+    document.getElementById("CharacterTitle03").innerHTML = xmlDoc.getElementsByTagName("gsx:c08")[0].childNodes[0].nodeValue;
+    document.getElementById("CharacterName04").innerHTML = xmlDoc.getElementsByTagName("gsx:c09")[0].childNodes[0].nodeValue;
+    document.getElementById("CharacterTitle04").innerHTML = xmlDoc.getElementsByTagName("gsx:c10")[0].childNodes[0].nodeValue;
 };
 </script> 
 </body>
