@@ -82,13 +82,13 @@
                             var xhttp = new XMLHttpRequest();
                             xhttp.onreadystatechange = function() {
                                if (this.readyState == 4 && this.status == 200) {
-                                   parseFeed(this);
+                                   setInterval(parseFeed(this), 10000);
                                }
                             };
                             xhttp.open("GET", "https://spreadsheets.google.com/feeds/list/1RbvEAtAvqr79s5FQx0X0f4t9LYxzf0cIy8_w6sOi6MQ/2/public/full/cokwr");
                             xhttp.send();
 
-                            setInterval(function parseFeed(xml) {
+                            function parseFeed(xml) {
                                var xmlDoc = xml.responseXML;
                                document.getElementById("AdventureTitle").innerHTML =
                                xmlDoc.getElementsByTagName("gsx:c01")[0].childNodes[0].nodeValue;
@@ -110,7 +110,7 @@
                                xmlDoc.getElementsByTagName("gsx:c09")[0].childNodes[0].nodeValue;
                                document.getElementById("CharacterTitle04").innerHTML =
                                xmlDoc.getElementsByTagName("gsx:c10")[0].childNodes[0].nodeValue;
-                            }, 10000);
+                            };
 </script> 
 </body>
 </html>
