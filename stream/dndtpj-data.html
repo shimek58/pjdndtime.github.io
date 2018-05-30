@@ -118,6 +118,9 @@ function parseFeed(xml) {
   document.getElementById("CharacterTitle03").innerHTML = xmlDoc.getElementsByTagName("gsx:c08")[0].childNodes[0].nodeValue;
   document.getElementById("CharacterName04").innerHTML = xmlDoc.getElementsByTagName("gsx:c09")[0].childNodes[0].nodeValue;
   document.getElementById("CharacterTitle04").innerHTML = xmlDoc.getElementsByTagName("gsx:c10")[0].childNodes[0].nodeValue;
+  document.getElementById("AdvList1").innerHTML = xmlDoc.getElementsByTagName("gsx:c11")[0].childNodes[0].nodeValue;
+  document.getElementById("AdvList2").innerHTML = xmlDoc.getElementsByTagName("gsx:c12")[0].childNodes[0].nodeValue;
+  document.getElementById("AdvList3").innerHTML = xmlDoc.getElementsByTagName("gsx:c13")[0].childNodes[0].nodeValue;
 }
 
 // first page load
