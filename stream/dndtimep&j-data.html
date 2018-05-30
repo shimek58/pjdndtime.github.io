@@ -4,60 +4,73 @@
 
 <style>
 @font-face {
-	font-family: "NodestoCaps";
-	src: url("/Fonts/Nodesto%20Caps%20Condensed%20Bold.woff2") format("woff2"), url("/Fonts/Nodesto%20Caps%20Condensed%20Bold.woff") format("woff");
+  font-family: "NodestoCaps";
+  src: url("/Fonts/Nodesto%20Caps%20Condensed%20Bold.woff2") format("woff2"), url("/Fonts/Nodesto%20Caps%20Condensed%20Bold.woff") format("woff");
 }
 @font-face {
-	font-family: "ScalySansCapsBold";
-	src: url("/Fonts/Scaly%20Sans%20Caps%20Bold.woff2") format("woff2"), url("/Fonts/Scaly%20Sans%20Caps%20Bold.woff") format("woff");
+  font-family: "ScalySansCapsBold";
+  src: url("/Fonts/Scaly%20Sans%20Caps%20Bold.woff2") format("woff2"), url("/Fonts/Scaly%20Sans%20Caps%20Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "ZatannaMisdirection";
+  src: url("/Fonts/Zatanna%20Misdirection.woff2") format("woff2"), url("/Fonts/Zatanna%20Misdirection.woff") format("woff");
 }
 .AdvName {
-	font-family: NodestoCaps;
-	font-size: 42px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: white;
-	text-shadow: 0 0 4px #000000;
-	margin-top: 5px;
+  font-family: NodestoCaps;
+  font-size: 42px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: 0 0 4px #000000;
+  margin-top: 5px;
 }
 .AdvDesc {
-	font-family: ScalySansCapsBold;
-	font-size: 22px;
-	font-weight: bold;
-	color: white;
-	text-shadow: 0 0 4px #000000;
-	margin-left: 3px;
+  font-family: ScalySansCapsBold;
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 0 4px #000000;
+  margin-left: 3px;
+}
+.AdvList {
+  font-family: ZatannaMisdirection;
+  font-size: 28px;
+  color: black;
+  text-align: right;
 }
 .CharName {
-	font-family: NodestoCaps;
-	font-size: 38px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: black;
-	width: 308px;
-	height: 38px;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	letter-spacing: -0.25px;
+  font-family: NodestoCaps;
+  font-size: 38px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: black;
+  width: 308px;
+  height: 38px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  letter-spacing: -0.25px;
 }
 .CharTitle {
-	font-family: NodestoCaps;
-	font-size: 20px;
-	font-weight: bold;
-	text-transform: uppercase;
-	margin-top: -2px;
-	color: black;
-	width: 310px;
-	height: 22px;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	padding-right: 6px;
+  font-family: NodestoCaps;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: -2px;
+  color: black;
+  width: 310px;
+  height: 22px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-right: 6px;
 }
 </style>
+	
 <title></title>
+	
 </head>
+	
 <body>
 	
 <div class="CharName" id="CharacterName01"></div>
@@ -68,6 +81,9 @@
 <div class="CharTitle" id="CharacterTitle03"></div>
 <div class="CharName" id="CharacterName04"></div>
 <div class="CharTitle" id="CharacterTitle04"></div>
+<div class="AdvList" id="AdvList1"></div>
+<div class="AdvList" id="AdvList2"></div>
+<div class="AdvList" id="AdvList3"></div>
 <div class="AdvName" id="AdventureTitle"></div>
 <div class="AdvDesc" id="AdventureDescription"></div>
 
