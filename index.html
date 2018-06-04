@@ -1,126 +1,103 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to DnDTime</title>
-	<meta charset="UTF-8">
-	<meta content="width=device-width, initial-scale=1" name="viewport">
-	<link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet">
-	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-	<link href="/Graphics/favicon.png" rel="icon" type="image/png">
-	<link href="dndtime.css" rel="stylesheet">
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	<link href="/nanogallery2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript" src="/nanogallery2/dist/jquery.nanogallery2.min.js"></script>
+  <title>Welcome to DnDTime</title>
+  <meta charset="UTF-8">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet">
+  <script crossorigin="anonymous" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" src="https://code.jquery.com/jquery-3.3.1.slim.min.js">
+  </script>
+  <script crossorigin="anonymous" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js">
+  </script>
+  <script crossorigin="anonymous" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/graphics/favicon.png" rel="icon" type="image/png">
+  <link href="dndtime.css" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascript">
+  </script>
+  <link href="/nanogallery2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+  <script src="/nanogallery2/dist/jquery.nanogallery2.min.js" type="text/javascript">
+  </script>
 </head>
 <body onload="loadContent()">
-	<span id="welcome"></span><span id="about"></span><span id="fanart"></span><span id="faq"></span><span id="items"></span><span id="playing"></span><span id="signups"></span><span id="roster"></span><span id="shop"></span>
-	<div style="margin: auto; overflow-x: hidden; height:100%;">
-		<!-- Navbar -->
-		<div class="w3-top">
-			<div class="w3-bar w3-black w3-card">
-					<a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-					<a class="w3-bar-item w3-button w3-padding-large" href="#welcome" onclick="setTimeout(loadContent, 200);">Welcome</a>
-					<a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#signups" onclick="setTimeout(loadContent, 200);">Sign Up To Play</a>
-					<a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#shop" onclick="setTimeout(loadContent, 200);">Bartholomew's Shop</a>
-				<div class="w3-dropdown-hover w3-hide-small">
-					<button class="w3-padding-large w3-button" title="More">More <i class="fa fa-caret-down"></i></button>
-					<div class="w3-dropdown-content w3-bar-block w3-card-4">
-						<a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#about" onclick="setTimeout(loadContent, 200);">About the Show</a>
-						<a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#playing" onclick="setTimeout(loadContent, 200);">Playing in DnDTime</a>
-						<a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#fanart" onclick="setTimeout(loadContent, 200);">Fan Art</a>
-						<a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#heroes" onclick="setTimeout(loadContent, 200);">The Heroes of DnDTime</a>
-						<a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#items" onclick="setTimeout(loadContent, 200);">The Magic of DnDTime</a>
-						<a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#players" onclick="setTimeout(loadContent, 200);">The Players of DnDTime</a>
-						<a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#faq" onclick="setTimeout(loadContent, 200);">Frequently Asked Questions</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Navbar on small screens -->
-		<div class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" id="navDemo" style="margin-top:46px">
-			<a class="w3-bar-item w3-button w3-padding-large" href="#welcome" onclick="setTimeout(loadContent, 200);">Welcome</a>
-			<a class="w3-bar-item w3-button w3-padding-large" href="#signups" onclick="setTimeout(loadContent, 200);">Sign Up To Play</a>
-			<a class="w3-bar-item w3-button w3-padding-large" href="#shop" onclick="setTimeout(loadContent, 200);">Bartholomew's Shop</a>
-			<a class="w3-bar-item w3-button w3-padding-large" href="#about" onclick="setTimeout(loadContent, 200);">About the Stream</a>
-			<a class="w3-bar-item w3-button w3-padding-large" href="#playing" onclick="setTimeout(loadContent, 200);">Playing in DnDTime</a>
-			<a class="w3-bar-item w3-button w3-padding-large" href="#fanart" onclick="setTimeout(loadContent, 200);">Fan Art</a>
-			<a class="w3-bar-item w3-button w3-padding-large" href="#heroes" onclick="setTimeout(loadContent, 200);">The Heroes of DnDTime</a>
-			<a class="w3-bar-item w3-button w3-padding-large" href="#items" onclick="setTimeout(loadContent, 200);">The Magic of DnDTime</a>
-			<a class="w3-bar-item w3-button w3-padding-large" href="#players" onclick="setTimeout(loadContent, 200);">The Players of DnDTime</a>
-			<a class="w3-bar-item w3-button w3-padding-large" href="#faq" onclick="setTimeout(loadContent, 200);">Frequently Asked Questions</a>
-		</div>
-		<!-- Title Area & Audio Player -->
-		<div class="TitleFont" style="line-height: 90%; margin-top: 75px;">
-			PETE AND JEREMY'S DNDTIME
-		</div><br>
-		<div style="text-align: center; font-size: 10px">
-			Pete and Jeremy's DnDTime Theme Song<br>
-			<audio controls="" id="audioplayer"><source src="/Music/Pete%20and%20Jeremy's%20DnDTime%20Theme%20Song.mp3" type="audio/mp3"></audio>
-		</div><br>
-		<!-- Start Page content -->
-		<div id="DnDTimeAjaxObject" style="margin-right: 10%; margin-left: 10%;">
-			<div>
-				<div class="HeadFont">
-					Welcome to Pete and Jeremy's DnDTime
-				</div><br>
-				<br>
-				<div class="BodyFont">
-					We are a Dungeons and Dragons live stream starring you, the viewer! We air every Friday at 9:00 PM EST on Twitch.TV. Check out our community Discord server, Twitch.TV channel, Roll20 LFG posting, and social media links below. We use Discord as our primary means of communication, so check out the #announcements text channel for updates!
-				</div><br>
-				<hr>
-				<br>
-				<a href="https://discord.gg/u3sMTvJ"><img alt="Join on Discord" src="/Graphics/Discord.png"></a> <a href="https://www.twitch.tv/dndtime"><img alt="Follow on Twitch.TV" src="/Graphics/TwitchTV.png"></a> <a href="https://app.roll20.net/lfg/listing/77757/pete-and-jeremys-d-and-d-time"><img alt="Join on Roll20" src="/Graphics/Roll20.png"></a> <a href="https://twitter.com/dnd_time"><img alt="Follow on Twitter" src="/Graphics/Twitter.png"></a><br>
-				<hr>
-				<br>
-				<div class="HeadFont">
-					About Us
-				</div><br>
-				<br>
-				<div class="BodyFont">
-					Pete and Jeremy are two average guys who love table top RPGs, like Dungeons & Dragons. We see tabletop role playing games as a unique medium to explore the process of collaborative storytelling. We created this show, Pete and Jeremy's DnDTime, because we wanted to share our love for Dungeons & Dragons with our viewers and directly engage them in the storytelling process in a way that conventional live-streams can't.<br>
-					<br>
-					<hr>
-					<br>
-					Conventional Dungeons & Dragons live-streams are long-form campaigns with a consistent cast of characters and long-term overarching plots.<br>
-					<br>
-					DnDTime is not. Instead, it is made up of three, unrelated, one-hour-long adventures with a cast of players drawn from our audience. This unique format allows for an unorthodox style of play that promotes creativity, improvisation, and a diverse cast of characters. The rapidly changing cast and lack of continuity keeps things fresh and allows us to take greater narrative risks in our storytelling.<br>
-					<br>
-					<hr>
-					<br>
-					Since we've started the stream, DnDTime has grown into a real community of players and Dungeon Masters who all share a love for Dungeons and Dragons. We're a friendly and open community, and we sincerely hope that you'll think about being a part of it.
-				</div><br>
-				<br>
-			</div>
-		</div><!-- End Page Content -->
+ <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Pete & Jeremy's DnDTime</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#welcome">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#signups">Sign Up</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#shop">Bartholomew's Shop</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<!-- End Navbar -->
+<!-- Title Area & Audio Player -->
+    <div class="TitleFont" style="line-height: 90%; margin-top: 75px;">
+      PETE AND JEREMY'S DNDTIME
+    </div><br>
+    <div style="text-align: center; font-size: 10px">
+      Pete and Jeremy's DnDTime Theme Song<br>
+      <audio controls="" id="audioplayer"><source src="/Music/Pete%20and%20Jeremy's%20DnDTime%20Theme%20Song.mp3" type="audio/mp3"></audio>
+    </div><br>
+    <!-- Start Page content -->
+    <div id="DnDTimeAjaxObject" style="margin-right: 10%; margin-left: 10%;">
+      <div>
+        <div class="HeadFont">
+          Welcome to Pete and Jeremy's DnDTime
+        </div><br>
+        <br>
+        <div class="BodyFont">
+          We are a Dungeons and Dragons live stream starring you, the viewer! We air every Friday at 9:00 PM EST on Twitch.TV. Check out our community Discord server, Twitch.TV channel, Roll20 LFG posting, and social media links below. We use Discord as our primary means of communication, so check out the #announcements text channel for updates!
+        </div><br>
+        <hr>
+        <br>
+        <a href="https://discord.gg/u3sMTvJ"><img alt="Join on Discord" src="/Graphics/Discord.png"></a> <a href="https://www.twitch.tv/dndtime"><img alt="Follow on Twitch.TV" src="/Graphics/TwitchTV.png"></a> <a href="https://app.roll20.net/lfg/listing/77757/pete-and-jeremys-d-and-d-time"><img alt="Join on Roll20" src="/Graphics/Roll20.png"></a> <a href="https://twitter.com/dnd_time"><img alt="Follow on Twitter" src="/Graphics/Twitter.png"></a><br>
+        <hr>
+        <br>
+        <div class="HeadFont">
+          About Us
+        </div><br>
+        <br>
+        <div class="BodyFont">
+          Pete and Jeremy are two average guys who love table top RPGs, like Dungeons & Dragons. We see tabletop role playing games as a unique medium to explore the process of collaborative storytelling. We created this show, Pete and Jeremy's DnDTime, because we wanted to share our love for Dungeons & Dragons with our viewers and directly engage them in the storytelling process in a way that conventional live-streams can't.<br>
+          <br>
+          <hr>
+          <br>
+          Conventional Dungeons & Dragons live-streams are long-form campaigns with a consistent cast of characters and long-term overarching plots.<br>
+          <br>
+          DnDTime is not. Instead, it is made up of three, unrelated, one-hour-long adventures with a cast of players drawn from our audience. This unique format allows for an unorthodox style of play that promotes creativity, improvisation, and a diverse cast of characters. The rapidly changing cast and lack of continuity keeps things fresh and allows us to take greater narrative risks in our storytelling.<br>
+          <br>
+          <hr>
+          <br>
+          Since we've started the stream, DnDTime has grown into a real community of players and Dungeon Masters who all share a love for Dungeons and Dragons. We're a friendly and open community, and we sincerely hope that you'll think about being a part of it.
+        </div><br>
+        <br>
+      </div>
+    </div><!-- End Page Content -->
 		<script>
-		                  // Used to toggle the menu on small screens when clicking on the menu button
-		                  function myFunction() {
-		                      var x = document.getElementById("navDemo");
-		                      if (x.className.indexOf("w3-show") == -1) {
-		                          x.className += " w3-show";
-		                      } else {
-		                          x.className = x.className.replace(" w3-show", "");
-		                      }
-		                  }
-		                  // When the user clicks anywhere outside of the modal, close it
-		                  var modal = document.getElementById('ticketModal');
-		                  window.onclick = function(event) {
-		                          if (event.target == modal) {
-		                              modal.style.display = "none";
-		                          }
-		                      }
-		                  // Load Content
-		                  function loadContent() {
-		                      var dynamicContent = location.hash.substr(1); // Give the URL parameter a variable name
-		                      var xhttp = new XMLHttpRequest();
-		                      xhttp.onreadystatechange = function() {
-		                          if (this.readyState == 4 && this.status == 200) {
-		                              document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
-		                          }
-		                      };
-		                      xhttp.open("GET", dynamicContent + ".txt", true);
-		                      xhttp.send();
-		                  }
+		// Load Content
+		function loadContent() {
+		  var dynamicContent = location.hash.substr(1); // Give the URL parameter a variable name
+		  var xhttp = new XMLHttpRequest();
+		  xhttp.onreadystatechange = function() {
+		    if (this.readyState == 4 && this.status == 200) {
+		      document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
+		    }
+		  };
+		  xhttp.open("GET", dynamicContent + ".txt", true);
+		  xhttp.send();
+		}
 		</script>
 	</div>
 </body>
