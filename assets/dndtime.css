@@ -1,151 +1,161 @@
 @font-face {
-  /* Font created by /u/Solbera on Reddit */
-  font-family: "Nodesto Caps Condensed Bold";
-  src: url("NodestoCapsCondensedBold.woff2") format("woff2");
+	/* Font created by /u/Solbera on Reddit */
+	font-family: "Nodesto Caps Condensed Bold";
+	src: url("NodestoCapsCondensedBold.woff2") format("woff2");
 }
-
 .TitleFont {
-  font-family: Nodesto Caps Condensed Bold;
-  font-weight: normal;
-  font-size: calc(20px + 4.0vw);
-  text-align: center;
-  color: white;
-  text-shadow: 1px 1px calc(0.05vw) #000000, -1px 1px calc(0.05vw) #000000, 1px -1px calc(0.05vw) #000000, -1px -1px calc(0.05vw) #000000;
-  -webkit-text-stroke-width: calc(0.1vw);
-  -webkit-text-stroke-color: black;
+	font-family: Nodesto Caps Condensed Bold;
+	font-weight: normal;
+	font-size: calc(36px + 3.0vw);
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px calc(0.05vw) #000000, -1px 1px calc(0.05vw) #000000, 1px -1px calc(0.05vw) #000000, -1px -1px calc(0.05vw) #000000;
+	-webkit-text-stroke-width: calc(0.1vw);
+	-webkit-text-stroke-color: black;
 }
-
 .HeadFont {
-  font-family: 'Spectral SC', serif;
-  font-weight: bold;
-  font-size: calc(18px + 0.5vw);
-  font-variant: small-caps;
-  text-align: left;
-  color: #58180d;
-  border-bottom: 2px solid #cdb376;
-  display: inline-block;
-  line-height: 0.8;
+	font-family: 'Spectral SC', serif;
+	font-weight: bold;
+	font-size: calc(22px + 0.4vw);
+	font-variant: small-caps;
+	text-align: left;
+	color: #58180d;
+	border-bottom: 2px solid #cdb376;
+	display: inline-block;
+	line-height: 0.9;
 }
-
 .SubHeadFont {
-  font-family: 'Spectral SC', serif;
-  font-weight: bold;
-  font-size: calc(18px + 0.5vw);
-  font-variant: small-caps;
-  text-align: left;
-  color: #58180d;
+	font-family: 'Spectral SC', serif;
+	font-weight: bold;
+	font-size: calc(22px + 0.4vw);
+	font-variant: small-caps;
+	text-align: left;
+	color: #58180d;
 }
-
 .BodyFont {
-  font-family: 'Spectral', serif;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 1.25;
-  text-align: left;
-  color: black;
+	font-family: 'Spectral', serif;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 1.25;
+	text-align: left;
+	color: black;
 }
-
 .TableTitleFont {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: bold;
-  font-size: 14px;
-  font-variant: small-caps;
-  text-align: left;
-  color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	font-variant: small-caps;
+	text-align: left;
+	color: black;
 }
-
 table {
-  width: 100%;
+	width: 100%;
 }
-
 table, th, td {
-  border-collapse: collapse;
+	border-collapse: collapse;
 }
-
 th, td {
-  padding: 5px;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: normal;
-  font-size: 8.5px;
-  text-align: left;
-  color: black;
+	padding: 5px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: normal;
+	font-size: 8.5px;
+	text-align: left;
+	color: black;
 }
-
 table tr:nth-child(even) {
-  background-color: #e3e5bd;
+	background-color: #e3e5bd;
 }
-
 table th {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: bold;
-  font-size: 8.5px;
-  text-align: left;
-  color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 8.5px;
+	text-align: left;
+	color: black;
 }
-
 #audioplayer {
-  width: 325px;
+	width: 325px;
 }
-
 hr {
-  height: 2px;
-  border: none;
-  color: rgb(0, 0, 0);
-  background-color: rgb(0, 0, 0);
-  opacity: 0.3;
+	height: 2px;
+	border: none;
+	color: rgb(0, 0, 0);
+	background-color: rgb(0, 0, 0);
+	opacity: 0.3;
 }
-
 body {
-  background-image: url("bg.jpg");
+	background-image: url("bg.jpg");
 }
-
 @media screen and (min-width: 1200px) {
-body {width: 1200px; margin: auto;}
+	body {
+		width: 1200px;
+		margin: auto;
+	}
 }
-
 .topnav {
-  overflow: hidden;
-  background-color: #333;
-  font-family: 'Source Sans Pro', sans-serif;
+	overflow: hidden;
+	background-color: #333;
+	font-family: 'Source Sans Pro', sans-serif;
 }
-
 .topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
 }
-
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+	background-color: #ddd;
+	color: black;
 }
-
 .topnav .icon {
-  display: none;
+	float: right;
+	display: block;
 }
-
-@media screen and (max-width: 600px) {
-  .topnav a:not(:first-child) {display: none;}
-  .topnav a.icon {
-    float: right;
-    display: block;
-  }
+.topnav a:not(:nth-child(-n+8)):not(.icon) {
+	display: none;
 }
-
+@media screen and (max-width: 1150px) {
+	.topnav a:not(:nth-child(-n+7)):not(.icon) {
+		display: none;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.topnav a:not(:nth-child(-n+6)):not(.icon) {
+		display: none;
+	}
+}
+@media screen and (max-width: 800px) {
+	.topnav a:not(:nth-child(-n+5)):not(.icon) {
+		display: none;
+	}
+}
+@media screen and (max-width: 725px) {
+	.topnav a:not(:nth-child(-n+4)):not(.icon) {
+		display: none;
+	}
+}
 @media screen and (max-width: 600px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  .topnav.responsive a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
+	.topnav a:not(:nth-child(-n+3)):not(.icon) {
+		display: none;
+	}
+}
+@media screen and (max-width: 425px) {
+	.topnav a:not(:nth-child(-n+2)):not(.icon) {
+		display: none;
+	}
+}
+.topnav.responsive {
+	position: relative;
+}
+.topnav.responsive .icon {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.topnav.responsive a {
+	float: none !important;
+	display: block !important;
+	text-align: left !important;
 }
