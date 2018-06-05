@@ -1,81 +1,92 @@
 @font-face {
-  font-family: "NodestoCaps";
-  src: url("NodestoCapsCondensedBold.woff2") format("woff2"), url("NodestoCapsCondensedBold.woff") format("woff");
+  /* Font created by /u/Solbera on Reddit */
+  font-family: "Nodesto Caps Condensed Bold";
+  src: url("NodestoCapsCondensedBold.woff2") format("woff2");
 }
-/* Font created by /u/Solbera on Reddit */
-
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600|Spectral|Spectral+SC:600');
-/* font-family: 'Source Sans Pro', sans-serif; font-family: 'Spectral', serif; font-family: 'Spectral SC', serif; */
 
 .TitleFont {
-  font-family: NodestoCapsCondensedBold;
+  font-family: Nodesto Caps Condensed Bold;
   font-weight: normal;
-  font-size: calc(24px + 5.0vw);
+  font-size: calc(20px + 4.0vw);
   text-align: center;
   color: white;
-  text-shadow: 1px 1px 1px #000000, -1px 1px 1px #000000, 1px -1px 1px #000000, -1px -1px 1px #000000;
-  -webkit-text-stroke-width: 2px;
+  text-shadow: 1px 1px calc(0.05vw) #000000, -1px 1px calc(0.05vw) #000000, 1px -1px calc(0.05vw) #000000, -1px -1px calc(0.05vw) #000000;
+  -webkit-text-stroke-width: calc(0.1vw);
   -webkit-text-stroke-color: black;
 }
+
 .HeadFont {
   font-family: 'Spectral SC', serif;
   font-weight: bold;
-  font-size: 24px;
+  font-size: calc(18px + 0.5vw);
+  font-variant: small-caps;
   text-align: left;
   color: #58180d;
   border-bottom: 2px solid #cdb376;
   display: inline-block;
   line-height: 0.8;
 }
+
 .SubHeadFont {
   font-family: 'Spectral SC', serif;
   font-weight: bold;
-  font-size: 20px;
+  font-size: calc(18px + 0.5vw);
+  font-variant: small-caps;
   text-align: left;
   color: #58180d;
 }
+
 .BodyFont {
   font-family: 'Spectral', serif;
   font-weight: normal;
-  font-size: calc(14px + 0.4vw);
+  font-size: 16px;
+  line-height: 1.25;
   text-align: left;
   color: black;
 }
+
 .TableTitleFont {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
-  font-size: calc(14px);
+  font-size: 14px;
   font-variant: small-caps;
   text-align: left;
   color: black;
 }
+
 table {
   width: 100%;
 }
+
 table, th, td {
   border-collapse: collapse;
 }
+
 th, td {
   padding: 5px;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: normal;
-  font-size: calc(8.5px;
+  font-size: 8.5px;
   text-align: left;
   color: black;
 }
+
 table tr:nth-child(even) {
   background-color: #e3e5bd;
 }
+
 table th {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
-  font-size: calc(8.5px);
+  font-size: 8.5px;
   text-align: left;
   color: black;
 }
+
 #audioplayer {
   width: 325px;
 }
+
 hr {
   height: 2px;
   border: none;
@@ -83,12 +94,19 @@ hr {
   background-color: rgb(0, 0, 0);
   opacity: 0.3;
 }
+
 body {
   background-image: url("bg.jpg");
 }
+
+@media screen and (min-width: 1200px) {
+body {width: 1200px; margin: auto;}
+}
+
 .topnav {
   overflow: hidden;
   background-color: #333;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .topnav a {
