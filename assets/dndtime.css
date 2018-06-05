@@ -1,6 +1,6 @@
 @font-face {
   font-family: "NodestoCaps";
-  src: url("/assets/NodestoCapsCondensedBold.woff2") format("woff2"), url("/assets/NodestoCapsCondensedBold.woff") format("woff");
+  src: url("NodestoCapsCondensedBold.woff2") format("woff2"), url("NodestoCapsCondensedBold.woff") format("woff");
 }
 /* Font created by /u/Solbera on Reddit */
 
@@ -8,19 +8,19 @@
 /* font-family: 'Source Sans Pro', sans-serif; font-family: 'Spectral', serif; font-family: 'Spectral SC', serif; */
 
 .TitleFont {
-  font-family: NodestoCaps;
+  font-family: NodestoCapsCondensedBold;
   font-weight: normal;
   font-size: calc(24px + 5.0vw);
   text-align: center;
   color: white;
-  text-shadow: 1px 1px 2px #000000, -1px 1px 2px #000000, 1px -1px 2px #000000, -1px -1px 2px #000000;
-  -webkit-text-stroke-width: 1px;
+  text-shadow: 1px 1px 1px #000000, -1px 1px 1px #000000, 1px -1px 1px #000000, -1px -1px 1px #000000;
+  -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
 }
 .HeadFont {
-  font-family: MrEavesSmallCaps;
+  font-family: 'Spectral SC', serif;
   font-weight: bold;
-  font-size: calc(24px + 0.9vw);
+  font-size: 24px;
   text-align: left;
   color: #58180d;
   border-bottom: 2px solid #cdb376;
@@ -28,23 +28,24 @@
   line-height: 0.8;
 }
 .SubHeadFont {
-  font-family: MrEavesSmallCaps;
+  font-family: 'Spectral SC', serif;
   font-weight: bold;
-  font-size: calc(20px + 0.8vw);
+  font-size: 20px;
   text-align: left;
   color: #58180d;
 }
 .BodyFont {
-  font-family: BookInsanity;
+  font-family: 'Spectral', serif;
   font-weight: normal;
   font-size: calc(14px + 0.4vw);
   text-align: left;
   color: black;
 }
 .TableTitleFont {
-  font-family: ScalySansCapsBold;
-  font-weight: normal;
-  font-size: calc(11pt + .6vw);
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  font-size: calc(14px);
+  font-variant: small-caps;
   text-align: left;
   color: black;
 }
@@ -56,9 +57,9 @@ table, th, td {
 }
 th, td {
   padding: 5px;
-  font-family: ScalySans;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: normal;
-  font-size: calc(8.5pt + .4vw);
+  font-size: calc(8.5px;
   text-align: left;
   color: black;
 }
@@ -66,9 +67,9 @@ table tr:nth-child(even) {
   background-color: #e3e5bd;
 }
 table th {
-  font-family: ScalySansBold;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
-  font-size: calc(8.5pt + .4vw);
+  font-size: calc(8.5px);
   text-align: left;
   color: black;
 }
@@ -83,5 +84,5 @@ hr {
   opacity: 0.3;
 }
 body {
-  background-image: url("Graphics/Background.jpg");
+  background-image: url("bg.jpg");
 }
