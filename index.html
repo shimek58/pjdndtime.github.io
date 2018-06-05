@@ -1,28 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Pete & Jeremy's DnDTime</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="assets/favicon.png" rel="icon" type="image/png">
-  <link href="assets/dndtime.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600|Spectral+SC:600|Spectral:400,400i,600,600i" rel="stylesheet">
+	<title>Pete & Jeremy's DnDTime</title>
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<link href="assets/favicon.png" rel="icon" type="image/png">
+	<link href="assets/dndtime.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600|Spectral+SC:700|Spectral:400,400i,600,600i" rel="stylesheet">
 </head>
 <body onload="loadContent()">
-	<!-- Navbar -->
-	<div class="topnav" id="myTopnav">
-		<a href="#welcome" onclick="setTimeout(loadContent, 200);">Home</a> <a href="#signups" onclick="setTimeout(loadContent, 200);">Sign Up</a> <a href="#shop" onclick="setTimeout(loadContent, 200);">Bartholomew's Shop</a> <a href="#about" onclick="setTimeout(loadContent, 200);">About DnDTime</a> <a href="#playing" onclick="setTimeout(loadContent, 200);">Play in DnDTime</a> <a href="#fanart" onclick="setTimeout(loadContent, 200);">Fan Art</a> <a href="#heroes" onclick="setTimeout(loadContent, 200);">Heroes of DnDTime</a> <a href="#items" onclick="setTimeout(loadContent, 200);">Magic of DnDTime</a> <a href="#players" onclick="setTimeout(loadContent, 200);">Our Players</a> <a href="#faq" onclick="setTimeout(loadContent, 200);">FAQ</a> <a class="icon" href="javascript:void(0);" onclick="navFunction()"><i class="fa fa-bars"></i></a>
-	</div><!-- End Navbar -->
-	<!-- Title Area & Audio Player -->
-	<div class="TitleFont" style="line-height: 90%; margin-top: 75px;">
+	<div class="topnav" id="topnavigationbar">
+		<a href="#welcome" onclick="setTimeout(loadContent, 200);">Home</a><a href="#signups" onclick="setTimeout(loadContent, 200);">Sign Up</a><a href="#shop" onclick="setTimeout(loadContent, 200);">Bartholomew's Shop</a><a href="#about" onclick="setTimeout(loadContent, 200);">About DnDTime</a><a href="#playing" onclick="setTimeout(loadContent, 200);">Play in DnDTime</a><a href="#fanart" onclick="setTimeout(loadContent, 200);">Fan Art</a><a href="#heroes" onclick="setTimeout(loadContent, 200);">Heroes of DnDTime</a><a href="#items" onclick="setTimeout(loadContent, 200);">Magic of DnDTime</a><a href="#players" onclick="setTimeout(loadContent, 200);">Our Players</a><a href="#faq" onclick="setTimeout(loadContent, 200);">FAQ</a><a class="icon" href="javascript:void(0);" onclick="navFunction()"><i class="fa fa-bars"></i></a>
+	</div>
+	<div class="TitleFont" style="line-height: 90%; padding-top: 10px;">
 		PETE AND JEREMY'S DNDTIME
-	</div><br>
-	<div style="text-align: center; font-size: 10px">
-		Pete and Jeremy's DnDTime Theme Song<br>
+	</div>
+	<div style="text-align: center; font-size: 10px; margin-top: 5px;">
+		Pete and Jeremy's DnDTime - Theme Music<br>
 		<audio controls="" id="audioplayer"><source src="/assets/PJDnDTimeTheme.mp3" type="audio/mp3"></audio>
-	</div><br>
-	<!-- Start Page content -->
-	<div id="DnDTimeAjaxObject" style="margin-right: 10%; margin-left: 10%;">
+	</div><!-- Start Page content -->
+	<div id="DnDTimeAjaxObject" style="margin-top: 15px;">
 		<div>
 			<div class="HeadFont">
 				Welcome to Pete and Jeremy's DnDTime
@@ -55,29 +52,29 @@
 			</div><br>
 			<br>
 		</div>
-	</div>
-</body>
-<script>
-// Load Content
-function loadContent() {
-	var dynamicContent = location.hash.substr(1); // Give the URL parameter a variable name
-	var xhttp = new XMLHttpRequest();
-	xhttp.onreadystatechange = function() {
-		if (this.readyState == 4 && this.status == 200) {
-			document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
-		}
-	};
-	xhttp.open("GET", dynamicContent + ".txt", true);
-	xhttp.send();
-}
-// Navbar Function
-function navFunction() {
-	var x = document.getElementById("myTopnav");
-	if (x.className === "topnav") {
-		x.className += " responsive";
-	} else {
-		x.className = "topnav";
+	</div><!-- End Page content -->
+	<script>
+	// Load Content
+	function loadContent() {
+		var dynamicContent = location.hash.substr(1);
+		var xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
+			}
+		};
+		xhttp.open("GET", dynamicContent + ".txt", true);
+		xhttp.send();
 	}
-}
-</script>
+	// Navbar Function
+	function navFunction() {
+		var x = document.getElementById("topnavigationbar");
+		if (x.className === "topnav") {
+			x.className += " responsive";
+		} else {
+			x.className = "topnav";
+		}
+	}
+	</script>
+</body>
 </html>
