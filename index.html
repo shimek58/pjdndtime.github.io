@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pete & Jeremy's DnDTime</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="assets/favicon.png" rel="icon" type="image/png">
+  <link href="assets/dndtime.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600|Spectral+SC:600|Spectral:400,400i,600,600i" rel="stylesheet">
+</head>
+<body onload="loadContent()">
+	<!-- Navbar -->
+	<div class="topnav" id="myTopnav">
+		<a href="#welcome" onclick="setTimeout(loadContent, 200);">Home</a> <a href="#signups" onclick="setTimeout(loadContent, 200);">Sign Up</a> <a href="#shop" onclick="setTimeout(loadContent, 200);">Bartholomew's Shop</a> <a href="#about" onclick="setTimeout(loadContent, 200);">About DnDTime</a> <a href="#playing" onclick="setTimeout(loadContent, 200);">Play in DnDTime</a> <a href="#fanart" onclick="setTimeout(loadContent, 200);">Fan Art</a> <a href="#heroes" onclick="setTimeout(loadContent, 200);">Heroes of DnDTime</a> <a href="#items" onclick="setTimeout(loadContent, 200);">Magic of DnDTime</a> <a href="#players" onclick="setTimeout(loadContent, 200);">Our Players</a> <a href="#faq" onclick="setTimeout(loadContent, 200);">FAQ</a> <a class="icon" href="javascript:void(0);" onclick="navFunction()"><i class="fa fa-bars"></i></a>
+	</div><!-- End Navbar -->
+	<!-- Title Area & Audio Player -->
+	<div class="TitleFont" style="line-height: 90%; margin-top: 75px;">
+		PETE AND JEREMY'S DNDTIME
+	</div><br>
+	<div style="text-align: center; font-size: 10px">
+		Pete and Jeremy's DnDTime Theme Song<br>
+		<audio controls="" id="audioplayer"><source src="/assets/PJDnDTimeTheme.mp3" type="audio/mp3"></audio>
+	</div><br>
+	<!-- Start Page content -->
+	<div id="DnDTimeAjaxObject" style="margin-right: 10%; margin-left: 10%;">
+		<div>
+			<div class="HeadFont">
+				Welcome to Pete and Jeremy's DnDTime
+			</div><br>
+			<br>
+			<div class="BodyFont">
+				We are a Dungeons and Dragons live stream starring you, the viewer! We air every Friday at 9:00 PM EST on Twitch.TV. Check out our community Discord server, Twitch.TV channel, Roll20 LFG posting, and social media links below. We use Discord as our primary means of communication, so check out the #announcements text channel for updates!
+			</div><br>
+			<hr>
+			<br>
+			<a href="https://discord.gg/u3sMTvJ"><img alt="Join on Discord" src="/Graphics/Discord.png"></a> <a href="https://www.twitch.tv/dndtime"><img alt="Follow on Twitch.TV" src="/Graphics/TwitchTV.png"></a> <a href="https://app.roll20.net/lfg/listing/77757/pete-and-jeremys-d-and-d-time"><img alt="Join on Roll20" src="/Graphics/Roll20.png"></a> <a href="https://twitter.com/dnd_time"><img alt="Follow on Twitter" src="/Graphics/Twitter.png"></a><br>
+			<hr>
+			<br>
+			<div class="HeadFont">
+				About Us
+			</div><br>
+			<br>
+			<div class="BodyFont">
+				Pete and Jeremy are two average guys who love table top RPGs, like Dungeons & Dragons. We see tabletop role playing games as a unique medium to explore the process of collaborative storytelling. We created this show, Pete and Jeremy's DnDTime, because we wanted to share our love for Dungeons & Dragons with our viewers and directly engage them in the storytelling process in a way that conventional live-streams can't.<br>
+				<br>
+				<hr>
+				<br>
+				Conventional Dungeons & Dragons live-streams are long-form campaigns with a consistent cast of characters and long-term overarching plots.<br>
+				<br>
+				DnDTime is not. Instead, it is made up of three, unrelated, one-hour-long adventures with a cast of players drawn from our audience. This unique format allows for an unorthodox style of play that promotes creativity, improvisation, and a diverse cast of characters. The rapidly changing cast and lack of continuity keeps things fresh and allows us to take greater narrative risks in our storytelling.<br>
+				<br>
+				<hr>
+				<br>
+				Since we've started the stream, DnDTime has grown into a real community of players and Dungeon Masters who all share a love for Dungeons and Dragons. We're a friendly and open community, and we sincerely hope that you'll think about being a part of it.
+			</div><br>
+			<br>
+		</div>
+	</div>
+</body>
+<script>
+// Load Content
+function loadContent() {
+	var dynamicContent = location.hash.substr(1); // Give the URL parameter a variable name
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
+		}
+	};
+	xhttp.open("GET", dynamicContent + ".txt", true);
+	xhttp.send();
+}
+// Navbar Function
+function navFunction() {
+	var x = document.getElementById("myTopnav");
+	if (x.className === "topnav") {
+		x.className += " responsive";
+	} else {
+		x.className = "topnav";
+	}
+}
+</script>
+</html>
