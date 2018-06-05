@@ -1,32 +1,9 @@
 /* Fonts created by /u/Solbera on Reddit */
 	@font-face {
 	font-family: "NodestoCaps";
-	src: url("/Fonts/Nodesto%20Caps%20Condensed%20Bold.woff2") format("woff2"), url("/Fonts/Nodesto%20Caps%20Condensed%20Bold.woff") format("woff");
+	src: url("/fonts/NodestoCapsCondensedBold.woff2") format("woff2"), url("/fonts/NodestoCapsCondensedBold.woff") format("woff");
 	}
-	@font-face {
-	font-family: "MrEavesSmallCaps";
-	src: url("/Fonts/Mr%20Eaves%20Small%20Caps.woff2") format("woff2"), url("/Fonts/Mr%20Eaves%20Small%20Caps.woff") format("woff");
-	}
-	@font-face {
-	font-family: "BookInsanity";
-	src: url("/Fonts/BookinsanityRemakeRegular.woff2") format("woff2"), url("/Fonts/BookinsanityRemakeRegular.woff") format("woff");
-	}
-	@font-face {
-	font-family: "ZatannaMisdirection";
-	src: url("/Fonts/Zatanna%20Misdirection.woff2") format("woff2"), url("/Fonts/Zatanna%20Misdirection.woff") format("woff");
-	}
-	@font-face {
-	font-family: "ScalySansCapsBold";
-	src: url("/Fonts/Scaly%20Sans%20Caps%20Bold.woff2") format("woff2"), url("/Fonts/Scaly%20Sans%20Caps%20Bold.woff") format("woff");
-	}
-	@font-face {
-	font-family: "ScalySansBold";
-	src: url("/Fonts/Scaly%20Sans%20Bold.woff2") format("woff2"), url("/Fonts/Scaly%20Sans%20Bold.woff") format("woff");
-	}
-	@font-face {
-	font-family: "ScalySans";
-	src: url("/Fonts/Scaly%20Sans.woff2") format("woff2"), url("/Fonts/Scaly%20Sans.woff") format("woff");
-	}
+	@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600|Spectral|Spectral+SC:600');
 	.TitleFont {
 	font-family:NodestoCaps;
 	font-weight:normal;
