@@ -162,6 +162,7 @@ body {
 .paper {
 	background: #f1f1f1;
 	padding: 30px;
+	height:100%;
 	position: relative;
 }
 .paper, .paper::before, .paper::after {
