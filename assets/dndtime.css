@@ -43,7 +43,7 @@
 .TableTitleFont {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: bold;
-	font-size: 14px;
+	font-size: 22px;
 	font-variant: small-caps;
 	text-align: left;
 	color: black;
@@ -58,7 +58,7 @@ th, td {
 	padding: 5px;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: normal;
-	font-size: 8.5px;
+	font-size: 16px;
 	text-align: left;
 	color: black;
 }
@@ -68,7 +68,7 @@ table tr:nth-child(even) {
 table th {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: bold;
-	font-size: 8.5px;
+	font-size: 16px;
 	text-align: left;
 	color: black;
 }
