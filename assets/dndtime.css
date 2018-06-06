@@ -8,8 +8,11 @@ h1 {
 	font-weight: normal;
 	font-size: calc(36px + 3.0vw);
 	text-align: center;
+	margin-top: -15px;
 	color: white;
-	line-height: 90%;
+	line-height: 1.25;
+	margin-top: 20px;
+	margin-bottom: 10px;
 	text-shadow: 1px 1px calc(0.05vw) #000000, -1px 1px calc(0.05vw) #000000, 1px -1px calc(0.05vw) #000000, -1px -1px calc(0.05vw) #000000;
 	-webkit-text-stroke-width: calc(0.1vw);
 	-webkit-text-stroke-color: black;
@@ -21,6 +24,8 @@ h2 {
 	font-variant: small-caps;
 	text-align: left;
 	color: #58180d;
+	margin-top: 20px;
+	margin-bottom: 10px;
 	border-bottom: 2px solid #cdb376;
 	display: inline-block;
 	line-height: 0.9;
@@ -32,6 +37,8 @@ h3 {
 	font-variant: small-caps;
 	text-align: left;
 	color: #58180d;
+	margin-top: 20px;
+	margin-bottom: 10px;
 }
 .music {
 	text-align: center;
@@ -48,6 +55,8 @@ p {
 	line-height: 1.25;
 	text-align: left;
 	color: black;
+	margin-top: 20px;
+	margin-bottom: 10px;
 }
 pre {
 	font-family: 'Spectral', serif;
