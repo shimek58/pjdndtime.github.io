@@ -3,6 +3,9 @@
 	font-family: "Nodesto Caps Condensed Bold";
 	src: url("NodestoCapsCondensedBold.woff2") format("woff2");
 }
+#document {
+	background: transparent !important;
+}
 .TitleFont {
 	font-family: Nodesto Caps Condensed Bold;
 	font-weight: normal;
