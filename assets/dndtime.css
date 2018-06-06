@@ -167,6 +167,7 @@ body {
 	padding: 30px;
 	height:100%;
 	position: relative;
+	overflow: visible;
 }
 .paper, .paper::before, .paper::after {
 	/* Styles to distinguish sheets from one another */
