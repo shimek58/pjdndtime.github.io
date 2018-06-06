@@ -42,7 +42,7 @@
 <i style="font-size: calc(7pt + .2vw);">Generally speaking, if you roll a 1, something terrible will happen. If you roll below a 10, you'll get some non-magical garbage like Bartholomew's Lunch. If you roll between an 11 and 25, you'll get some unimpressive minor magical item. If you roll between a 26 and 75, you'll get a random magical consumable. Between 75 and 300, lie items fit for a Storied Hero. Between 301 and 600 lie items fit for a Fabled Hero. Between 601 and 900 lie items fit for a Mythic Hero. Above 900 lies legendary items of great and terrible power.</i><br>
 <br>
 <div class="BodyFont">
-	Interested in sharing your own creative spark with DnDTime? Check out <a href="#enchanting">Bartholomew's Guide to Enchanting</a> and then <a href="https://docs.google.com/forms/d/e/1FAIpQLScm1Q5HW0q0y-kl1jzJU0EUOyHv8JOne9F6hoHaSDCE02jfiQ/viewform">Submit Your Own Item</a> for the Big Bag Bonanza! Not every item will make it in, but if an item you designed is pulled from the bag, you will be rewarded a 100 Bartholomew Bucks creators reward and credited on the stream for your creation.
+	Interested in sharing your own creative spark with DnDTime? Check out <a href="#enchanting" onclick="setTimeout(loadContent, 200);">Bartholomew's Guide to Enchanting</a> and then <a href="https://docs.google.com/forms/d/e/1FAIpQLScm1Q5HW0q0y-kl1jzJU0EUOyHv8JOne9F6hoHaSDCE02jfiQ/viewform">Submit Your Own Item</a> for the Big Bag Bonanza! Not every item will make it in, but if an item you designed is pulled from the bag, you will be rewarded a 100 Bartholomew Bucks creators reward and credited on the stream for your creation.
 </div><br>
 <hr>
 <br>
