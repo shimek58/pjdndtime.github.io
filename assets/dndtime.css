@@ -163,7 +163,8 @@ body {
 	text-align: left !important;
 }
 .paper {
-	background: #f1f1f1;
+	/* background: #f1f1f1; */
+	background-image: url(bg.jpg);
 	padding: 30px;
 	height:100%;
 	position: relative;
@@ -179,7 +180,8 @@ body {
 	position: absolute;
 	height: 95%;
 	width: 99%;
-	background-color: #eee;
+	/* background: #f1f1f1; */
+	background-image: url(bg.jpg);
 }
 .paper::before {
 	right: 15px;
