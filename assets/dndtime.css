@@ -178,7 +178,7 @@ body {
 .paper::before, .paper::after {
 	content: "";
 	position: absolute;
-	height: 95%;
+	height: 99%;
 	width: 99%;
 	/* background: #f1f1f1; */
 	background-image: url(bg.jpg);
