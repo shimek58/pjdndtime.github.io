@@ -190,10 +190,11 @@ body {
 
 .paper {
 	background-image: url(bg.jpg);
-	padding: 30px;
 	height: 100%;
-	position: relative;
+	margin-top: 10px;
 	overflow: visible;
+	padding: 30px;
+	position: relative;	
 }
 
 .paper, .paper::before, .paper::after {
