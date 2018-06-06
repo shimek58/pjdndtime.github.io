@@ -19,7 +19,7 @@ h1 {
 	-webkit-text-stroke-color: black;
 }
 
-h2 h3 {
+h2.h3 {
 	color: #58180d;
 	font-family: 'Spectral SC', serif;
 	font-size: calc(22px + 0.4vw);
