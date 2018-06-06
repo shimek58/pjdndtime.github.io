@@ -83,7 +83,7 @@ hr {
 	opacity: 0.3;
 }
 body {
-	background-image: url("bg.jpg");
+	background:transparent;
 }
 @media screen and (min-width: 1200px) {
 	body {
