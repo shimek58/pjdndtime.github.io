@@ -28,27 +28,37 @@
 		</div><!-- End Page content -->
 	</div>
 	<script>
-	   // Load Content
-	   function loadContent() {
-	       var dynamicContent = location.hash.substr(1);
-	       var xhttp = new XMLHttpRequest();
-	       xhttp.onreadystatechange = function() {
-	           if (this.readyState == 4 && this.status == 200) {
-	               document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
-	           }
-	       };
-	       xhttp.open("GET", dynamicContent + ".txt", true);
-	       xhttp.send();
-	   }
-	   // Navbar Function
-	   function navFunction() {
-	       var x = document.getElementById("topnavigationbar");
-	       if (x.className === "topnav") {
-	           x.className += " responsive";
-	       } else {
-	           x.className = "topnav";
-	       }
-	   }
+		// Load Content
+		function loadContent() {
+			var dynamicContent = location.hash.substr(1);
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function() {
+				if (this.readyState == 4 && this.status == 200) {
+					document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
+				}
+			};
+			xhttp.open("GET", dynamicContent + ".txt", true);
+			xhttp.send();
+		}
+		// Navbar FunctionS
+		function navFunction() {
+			var x = document.getElementById("topnavigationbar");
+			if (x.className === "topnav") {
+				x.className += " responsive";
+			} else {
+				x.className = "topnav";
+			}
+		}
+		// window.onscroll = function() {stickyNav()};
+		// var navbar = document.getElementById("topnavigationbar");
+		// var sticky = topnavigationbar.offsetTop;
+		// function stickyNav() {
+		// 	If (window.pageYOffset >= sticky) {
+		// 		topnavigationbar.classList.add("sticky")
+		// 	} else {
+		// 		topnavigationbar.classList.remove("sticky");
+		// 	}
+		// }
 	</script>
 	<script src="https://embed.twitch.tv/embed/v1.js"></script>
 	<script type="text/javascript">
