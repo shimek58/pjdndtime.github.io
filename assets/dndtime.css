@@ -121,6 +121,7 @@ body {
 .topnav {
 	overflow: hidden;
 	background-color: #333;
+	flex: 1;
 	font-family: 'Source Sans Pro', sans-serif;
 	position: fixed;
 	top: 0;
