@@ -4,6 +4,11 @@
 	src: url("NodestoCapsCondensedBold.woff2") format("woff2");
 }
 
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
 h1 {
 	color: white;
 	font-family: Nodesto Caps Condensed Bold;
@@ -97,9 +102,6 @@ table th {
 
 body {
 	background: #F1F1F1;
-	display: -webkit-flex;
-	display: flex;
-	flex-direction: column;
 }
 
 @media screen and (min-width: 1200px) {
