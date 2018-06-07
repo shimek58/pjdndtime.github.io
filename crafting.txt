@@ -1,1 +1,0 @@
-<iframe allowtransparency="true" frameborder="0" height="800" marginheight="0" marginwidth="0" src="https://docs.google.com/document/d/e/2PACX-1vQS6hj_T_5HgPoGG-NeGl3Uo3YkwL31K_52EbZEquFw2Hs5JW-wWxdc6kXWEjvLwgDJ4KsGsj2hF5HF/pub?embedded=true" style="background: transparent;" width="100%">Loading...</iframe>
