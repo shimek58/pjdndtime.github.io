@@ -97,6 +97,9 @@ table th {
 
 body {
 	background: #F1F1F1;
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
 }
 
 @media screen and (min-width: 1200px) {
