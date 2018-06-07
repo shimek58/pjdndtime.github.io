@@ -17,26 +17,14 @@
 		<p class="music">Pete and Jeremy's DnDTime - Theme Music<br>
 		<audio controls="" id="audioplayer"><source src="assets/PJDnDTimeTheme.mp3" type="audio/mp3"></audio></p>
 		<div id="DnDTimeAjaxObject">
-			<div>
-				<div id="twitch-embed"></div>
-				<script src="https://embed.twitch.tv/embed/v1.js"></script>
-				<h2>Welcome to Pete and Jeremy's DnDTime</h2>
-				<p>
-					We are a Dungeons and Dragons live stream starring you, the viewer! We air every Friday at 9:00 PM EST on Twitch.TV. Check out our community Discord server, Twitch.TV channel, Roll20 LFG posting, and social media links below. We use Discord as our primary means of communication, so check out the #announcements text channel for updates!
-				</p>
-				<h2>About Us</h2>
-				<p>
-					Pete and Jeremy are two average guys who love table top RPGs, like Dungeons & Dragons. We see tabletop role playing games as a unique medium to explore the process of collaborative storytelling. We created this show, Pete and Jeremy's DnDTime, because we wanted to share our love for Dungeons & Dragons with our viewers and directly engage them in the storytelling process in a way that conventional live-streams can't.
-				</p>
-				<p>
-					Conventional Dungeons & Dragons live-streams are long-form campaigns with a consistent cast of characters and long-term overarching plots.
-				<br>
-					DnDTime is not. Instead, it is made up of three, unrelated, one-hour-long adventures with a cast of players drawn from our audience. This unique format allows for an unorthodox style of play that promotes creativity, improvisation, and a diverse cast of characters. The rapidly changing cast and lack of continuity keeps things fresh and allows us to take greater narrative risks in our storytelling.
-				</p>
-				<p>
-					Since we've started the stream, DnDTime has grown into a real community of players and Dungeon Masters who all share a love for Dungeons and Dragons. We're a friendly and open community, and we sincerely hope that you'll think about being a part of it.
-				</p>
-			</div>
+			<div id="twitch-embed"></div>
+			<h2>Welcome to Pete and Jeremy's DnDTime</h2>
+			<p>We are a Dungeons and Dragons live stream starring you, the viewer! We air every Friday at 9:00 PM EST on Twitch.TV. Check out our community Discord server, Twitch.TV channel, Roll20 LFG posting, and social media links below. We use Discord as our primary means of communication, so check out the #announcements text channel for updates!</p>
+			<h2>About Us</h2>
+			<p>Pete and Jeremy are two average guys who love table top RPGs, like Dungeons & Dragons. We see tabletop role playing games as a unique medium to explore the process of collaborative storytelling. We created this show, Pete and Jeremy's DnDTime, because we wanted to share our love for Dungeons & Dragons with our viewers and directly engage them in the storytelling process in a way that conventional live-streams can't.</p>
+			<p>Conventional Dungeons & Dragons live-streams are long-form campaigns with a consistent cast of characters and long-term overarching plots.
+				<br>DnDTime is not. Instead, it is made up of three, unrelated, one-hour-long adventures with a cast of players drawn from our audience. This unique format allows for an unorthodox style of play that promotes creativity, improvisation, and a diverse cast of characters. The rapidly changing cast and lack of continuity keeps things fresh and allows us to take greater narrative risks in our storytelling.</p>
+			<p>Since we've started the stream, DnDTime has grown into a real community of players and Dungeon Masters who all share a love for Dungeons and Dragons. We're a friendly and open community, and we sincerely hope that you'll think about being a part of it.</p>
 		</div><!-- End Page content -->
 	</div>
 	<script>
@@ -62,11 +50,19 @@
 	       }
 	   }
 	</script>
+	<script src="https://embed.twitch.tv/embed/v1.js"></script>
 	<script type="text/javascript">
-		new Twitch.Embed("twitch-embed", {
-			width: 100%,
-			height: 100%,
-			channel: "dndtime"
+		var embed = new Twitch.Embed("twitch-embed", {
+			width: 854,
+			height: 480,
+			channel: "dndtime",
+			layout: "video",
+			autoplay: false
+		});
+
+		embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
+			var player = embed.getPlayer();
+			player.play();
 		});
 	</script>
 </body>
