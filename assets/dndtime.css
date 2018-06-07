@@ -5,8 +5,15 @@
 }
 
 html, body {
-    margin: 0;
-    height: 100%;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+body {
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
 }
 
 h1 {
@@ -195,9 +202,8 @@ body {
 
 .paper {
 	background-image: url(bg.jpg);
-	height: 100%;
+	flex: 1;
 	margin-top: 10px;
-	overflow: visible;
 	padding: 30px;
 	position: relative;	
 }
