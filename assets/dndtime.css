@@ -122,6 +122,8 @@ body {
 	overflow: hidden;
 	background-color: #333;
 	font-family: 'Source Sans Pro', sans-serif;
+	position: fixed;
+	top: 0;
 }
 
 .topnav a {
