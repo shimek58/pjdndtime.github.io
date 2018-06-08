@@ -119,14 +119,8 @@ body {
 .topnav {
 	overflow: hidden;
 	background-color: #333;
+	clear: left;
 	font-family: 'Source Sans Pro', sans-serif;
-}
-
-.sticky + .paper {
-	padding-top: 60px;
-}
-
-.sticky {
 	position: fixed;
 	top: 0;
 	z-index: 99;
@@ -210,7 +204,7 @@ body {
 
 .paper {
 	background-image: url(bg.jpg);
-	margin-top: 10px;
+	margin-top: 40px;
 	padding: 30px;
 	position: relative;	
 }
