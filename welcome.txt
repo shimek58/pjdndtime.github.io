@@ -1,6 +1,6 @@
-<div id="twitch-embed"></div>
 <h2>Welcome to Pete and Jeremy's DnDTime</h2>
 <p>We are a Dungeons and Dragons live stream starring you, the viewer! We air every Friday at 9:00 PM EST on Twitch.TV. Check out our community Discord server, Twitch.TV channel, Roll20 LFG posting, and social media links below. We use Discord as our primary means of communication, so check out the #announcements text channel for updates!</p>
+<div id="twitch-embed"></div>
 <h2>About Us</h2>
 <p>Pete and Jeremy are two average guys who love table top RPGs, like Dungeons & Dragons. We see tabletop role playing games as a unique medium to explore the process of collaborative storytelling. We created this show, Pete and Jeremy's DnDTime, because we wanted to share our love for Dungeons & Dragons with our viewers and directly engage them in the storytelling process in a way that conventional live-streams can't.</p>
 <p>Conventional Dungeons & Dragons live-streams are long-form campaigns with a consistent cast of characters and long-term overarching plots.
