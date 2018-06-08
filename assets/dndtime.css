@@ -110,9 +110,15 @@ body {
 }
 
 @media screen and (min-width: 1200px) {
-	body {
+	body, .topnav {
 		width: 1200px;
 		margin: auto;
+	}
+}
+
+@media screen and (max-width: 1200px) {
+	.topnav {
+		width: 100%;
 	}
 }
 
@@ -204,9 +210,10 @@ body {
 
 .paper {
 	background-image: url(bg.jpg);
-	margin-top: 50px;
+	margin-top: 60px;
 	padding: 30px;
-	position: relative;	
+	position: relative;
+	min-height: calc(100vh - 150px);
 }
 
 .paper, .paper::before, .paper::after {
