@@ -48,16 +48,6 @@
 				x.className = "topnav";
 			}
 		}
-		window.onscroll = function() {stickyNav()};
-		var topnavigationbar = document.getElementById("topnavigationbar");
-		var sticky = topnavigationbar.offsetTop;
-		function stickyNav() {
-			if (window.pageYOffset >= sticky) {
-				topnavigationbar.classList.add("sticky")
-			} else {
-				topnavigationbar.classList.remove("sticky");
-			}
-		}
 	</script>
 </body>
 </html>
