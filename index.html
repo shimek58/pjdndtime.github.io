@@ -49,16 +49,16 @@
 				x.className = "topnav";
 			}
 		}
-		// window.onscroll = function() {stickyNav()};
-		// var navbar = document.getElementById("topnavigationbar");
-		// var sticky = topnavigationbar.offsetTop;
-		// function stickyNav() {
-		// 	If (window.pageYOffset >= sticky) {
-		// 		topnavigationbar.classList.add("sticky")
-		// 	} else {
-		// 		topnavigationbar.classList.remove("sticky");
-		// 	}
-		// }
+		window.onscroll = function() {stickyNav()};
+		var navbar = document.getElementById("topnavigationbar");
+		var sticky = topnavigationbar.offsetTop;
+		function stickyNav() {
+			If (window.pageYOffset >= sticky) {
+				topnavigationbar.classList.add("sticky")
+			} else {
+				topnavigationbar.classList.remove("sticky");
+			}
+		}
 	</script>
 	<script src="https://embed.twitch.tv/embed/v1.js"></script>
 	<script type="text/javascript">
