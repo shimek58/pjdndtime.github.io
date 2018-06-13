@@ -1,6 +1,11 @@
 <h2>Player Queue</h2>
 <p>Register to play in this Friday's episode of <u><b>Pete & Jeremy's DnDTime</u></b>. The queue opens each week on Monday and closes on Thursday, whereafter we will announce that week's players on our <a href="https://discord.gg/u3sMTvJ">Discord Server</a>. We reserve game one each week to prioritize new players, so don't be afraid if you've never played with us before! For the other games, we choose players based on their <b>points</b>. A player gains points for watching <a href="https://twitch.tv/dndtime">our stream</a>. Each cumulative hour watched earns one point. Every time a player participates in <u><b>Pete & Jeremy's DnDTime</u></b>, their point total is halved. This makes it accessible for new players to be able to jump into the rotation while still rewarding our loyal viewers. Attempts to abuse our point system will result in a ban from participation in <u><b>Pete & Jeremy's DnDTime</u></b></p>
-<p>The queue resets every week, so remember to enter when you want to play!</p><BR>
+<p>The queue resets every week, so remember to enter when you want to play!</p>
+<br>
+<div id="SignupFormOFF" style="display:none">
+<p>Signups for <u><b>Pete & Jeremy's DnDTime</u></b> are open Sunday through Wednessdays. Come back then!</p>
+</div>
+<div id="SignupFormON" style="display:block">
 <h2>Pete & Jeremy's DnDTime Signups</h2>
 <p><small><a href="https://drive.google.com/open?id=1TOlMudQXcNlaqHsi9hnvsmXRfnaQ8ucUojsKYbKZhPg">Alternate direct link to google form.</a></small></p>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse">
@@ -73,3 +78,15 @@
 	<!-- SUBMIT BUTTON -->
 	<p><input class="button" type="submit" value="Submit"></p>
 </form>
+</div>
+<script>
+  function showhide() {
+    var date = new Date();
+    var ddate = d.getDay();
+    var signupON = document.getElementById('SignupFormON');
+    var signupOFF = document.getElementById('SignupFormOFF');
+    signupON.style.display = (signupON.style.display == 'block') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'none' : 'block';
+    signupOFF.style.display = (signupOFF.style.display == 'none') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'block' : 'none';
+  }
+  showhide();
+</script>
