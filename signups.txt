@@ -68,10 +68,10 @@
 				Choose
 			</option>
 			<option value="Agree">
-				I agree to the Pete and Jeremy's DnDTime Legal Agreement
+				I AGREE
 			</option>
 			<option value="Disagree">
-				I do not agree to the Pete and Jeremy's DnDTime Legal Agreement
+				I DO NOT AGREE
 			</option>
 		</select>
 	</div>
