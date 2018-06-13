@@ -1,18 +1,20 @@
 <h2>Player Queue</h2>
 <p>Register to play in this Friday's episode of <u><b>Pete & Jeremy's DnDTime</u></b>. The queue opens each week on Monday and closes on Thursday, whereafter we will announce that week's players on our <a href="https://discord.gg/u3sMTvJ">Discord Server</a>. We reserve game one each week to prioritize new players, so don't be afraid if you've never played with us before! For the other games, we choose players based on their <b>points</b>. A player gains points for watching <a href="https://twitch.tv/dndtime">our stream</a>. Each cumulative hour watched earns one point. Every time a player participates in <u><b>Pete & Jeremy's DnDTime</u></b>, their point total is halved. This makes it accessible for new players to be able to jump into the rotation while still rewarding our loyal viewers. Attempts to abuse our point system will result in a ban from participation in <u><b>Pete & Jeremy's DnDTime</u></b></p>
 <p>The queue resets every week, so remember to enter when you want to play!</p>
-<h1>Pete & Jeremy's DnDTime Signups</h1>
-<p><small><a href="https://drive.google.com/open?id=1TOlMudQXcNlaqHsi9hnvsmXRfnaQ8ucUojsKYbKZhPg">Direct link to goole form.</a>.</small></p>
+<h2>Pete & Jeremy's DnDTime Signups</h2>
+<p><small><a href="https://drive.google.com/open?id=1TOlMudQXcNlaqHsi9hnvsmXRfnaQ8ucUojsKYbKZhPg">Alternate direct link to google form.</a></small></p>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse">
 	<!-- SINGLE LINE TEXT FIELD -->
 	<h2>Twitch.TV Username</h2>
-	<p>Do not include any spaces</p>
+	<p><i>Do not include any spaces</i></p>
 	<label for="twitch"></label>
 	<input id="twitch" name="entry.192629599" type="text" required>
+	<br><br>
 	<!-- SINGLE LINE TEXT FIELD -->
 	<h2>Discord Username</h2>
 	<label for="discord"></label>
 	<input id="discord" name="entry.1864134744" type="text" required>
+	<br><br>
 	<!-- CHECKBOXES -->
 	<h2>Tier Preference</h2>
 	<p>Characters in <strong><u>Pete & Jeremy's DnDTime</u></strong> have an adventuring tier based on their level. Please select the tiers that you are interested in playing and for which you have a character of the appropriate level. Do not sign up for a tier for which you do not have an eligible character.</p>
