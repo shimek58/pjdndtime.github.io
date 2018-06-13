@@ -209,8 +209,8 @@ body {
 }
 
 .notpaper {
-	margin-top: 20px;
-	padding: 30px;
+	margin-top: 40px;
+	padding: 20px;
 	position: relative;
 	min-height: calc(100vh - 150px);
 }
