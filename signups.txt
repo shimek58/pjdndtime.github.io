@@ -68,7 +68,7 @@ function showhide() {
 	var ddate = date.getDay();
 	var signupON = document.getElementById('SignupFormON');
 	var signupOFF = document.getElementById('SignupFormOFF');
-	signupON.style.display = (signupON.style.display == 'block') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'none' : 'block';
+	signupON.style.display = (signupON.style.display == 'block') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'none' : 'block',
 	signupOFF.style.display = (signupOFF.style.display == 'none') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'block' : 'none';
 }
 </script>
