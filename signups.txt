@@ -8,7 +8,7 @@
 <div id="SignupFormON" style="display:block">
 <h2>Pete & Jeremy's DnDTime Signups</h2>
 <p><small><a href="https://drive.google.com/open?id=1TOlMudQXcNlaqHsi9hnvsmXRfnaQ8ucUojsKYbKZhPg">Alternate direct link to google form.</a></small></p>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse">
+<form id="signupForm">
 	<!-- SINGLE LINE TEXT FIELD -->
 	<h3>Twitch.TV Username</h3>
 	<p><i>Do not include any spaces</i></p>
@@ -76,7 +76,7 @@
 		</select>
 	</div>
 	<!-- SUBMIT BUTTON -->
-	<p><input class="button" type="submit" value="Submit"></p>
+	<p><input class="button" type="submit" value="Sign Up"></p>
 </form>
 </div>
 <script>
@@ -89,4 +89,21 @@
     signupOFF.style.display = (signupOFF.style.display == 'none') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'block' : 'none';
   }
   showhide();
+  jQuery('#signupForm').on('submit', function (e) {
+    if (document.getElementById("signupForm").checkValidity()) {
+        e.preventDefault();
+        jQuery.ajax({
+            url: 'https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse',
+            method: 'POST',
+            data: jQuery('#signupForm').serialize(),
+            success: function () {
+                alert("Sign Up Successful");
+            },
+	    error: function () {
+                alert("Error. Please fill out entire form.");
+            }
+        })
+    }
+    return true;
+});
 </script>
