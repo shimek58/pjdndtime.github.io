@@ -6,7 +6,7 @@
 </div>
 <div id="SignupFormON" style="display:block" onload="showhide()">
 	<h2>Pete & Jeremy's DnDTime Signups</h2>
-	<form action="" method="post" id="signupForm">
+	<form id="signupForm">
 		<!-- SINGLE LINE TEXT FIELD -->
 		<h3>Twitch.TV Username</h3>
 		<p><i>Do not include any spaces</i></p><label for="twitch"></label> <input id="twitch" name="entry.192629599" required="" type="text"><br>
@@ -77,5 +77,16 @@ function showhide() {
 	signupON.style.display = (signupON.style.display == 'block') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'none' : 'block';
 	signupOFF.style.display = (signupOFF.style.display == 'none') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'block' : 'none';
 }
-
+$("#signupForm").submit(function(e) {
+	var url = "https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse"; // the script where you handle the form input.
+	$.ajax({
+		type: "POST",
+		url: url,
+		data: $("#signupForm").serialize(), // serializes the form's elements.
+		success: function(data) {
+			alert(data); // show response from the php script.
+		}
+	});
+	e.preventDefault(); // avoid to execute the actual submit of the form.
+});
 </script>
