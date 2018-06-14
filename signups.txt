@@ -71,9 +71,21 @@ function showhide() {
 	signupON.style.display = (signupON.style.display == 'block') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'none' : 'block';
 	signupOFF.style.display = (signupOFF.style.display == 'none') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'block' : 'none';
 }
-$(function() {
-	$('#signupForm').ajaxForm(function() {
-		alert("Signup Successful!");
+
+$(document).ready(function() {
+	// bind form using ajaxForm 
+	$('#signupForm').ajaxForm({
+		beforeSubmit: validate
 	});
 });
+
+function validate(formData, jqForm, options) {
+	for (var i = 0; i < formData.length; i++) {
+		if (!formData[i].value) {
+			alert('Please fill out the entire form.');
+			return false;
+		}
+	}
+	alert('Signup Successful!');
+}
 </script>
