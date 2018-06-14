@@ -8,7 +8,7 @@
 	<h2>Pete & Jeremy's DnDTime Signups</h2>
 	<form action="https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse" method="post" target="_blank">
 		<h3>Twitch.TV Username</h3>
-		<p><label for="twitch"></label> <input id="twitch" name="entry.192629599" required="" type="text"><small><i>Do not include any spaces</i></small></p><br>
+		<p><label for="twitch"></label> <input id="twitch" name="entry.192629599" required="" type="text"><small><i> Do not include any spaces</i></small></p><br>
 		<h3>Discord Username</h3>
 		<p><label for="discord"></label> <input id="discord" name="entry.1864134744" required="" type="text"></p><br>
 		<h3>Tier Preference</h3>
@@ -47,7 +47,7 @@
 		<div class="input-wrap select-box">
 			<select name="entry.889205209" required="">
 				<option value="Agree">I AGREE</option>
-				<option disabled selected value="Disagree">I DO NOT AGREE</option>
+				<option value="Disagree">I DO NOT AGREE</option>
 			</select>
 		</div>
 		<input type="submit" value="Sign Up!">
