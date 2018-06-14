@@ -6,7 +6,7 @@
 </div>
 <div id="SignupFormON" style="display:block">
 	<h2>Pete & Jeremy's DnDTime Signups</h2>
-	<form action="https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse" id="signupForm">
+	<form action="https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse">
 		<!-- SINGLE LINE TEXT FIELD -->
 		<h3>Twitch.TV Username</h3>
 		<p><i>Do not include any spaces</i></p><label for="twitch"></label> <input id="twitch" name="entry.192629599" required="" type="text"><br>
@@ -58,8 +58,8 @@
 				<option value="Agree">I AGREE</option>
 				<option value="Disagree">I DO NOT AGREE</option>
 			</select>
-		</div><!-- SUBMIT BUTTON -->
-		<p><input class="button" type="submit" value="Sign Up"></p>
+		</div>
+		<input type="submit" value"Sign Up!" target="_blank" method="post">
 	</form>
 </div>
 <script>
@@ -70,22 +70,5 @@ function showhide() {
 	var signupOFF = document.getElementById('SignupFormOFF');
 	signupON.style.display = (signupON.style.display == 'block') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'none' : 'block';
 	signupOFF.style.display = (signupOFF.style.display == 'none') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'block' : 'none';
-}
-
-$(document).ready(function() {
-	// bind form using ajaxForm 
-	$('#signupForm').ajaxForm({
-		beforeSubmit: validate
-	});
-});
-
-function validate(formData, jqForm, options) {
-	for (var i = 0; i < formData.length; i++) {
-		if (!formData[i].value) {
-			alert('Please fill out the entire form.');
-			return false;
-		}
-	}
-	alert('Signup Successful!');
 }
 </script>
