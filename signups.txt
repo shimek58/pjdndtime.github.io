@@ -4,7 +4,7 @@
 <div id="SignupFormOFF" style="display:none">
 	<p>Signups for <u><strong>Pete & Jeremy's DnDTime</strong></u> are open Sunday through Wednessdays. Come back then!</p>
 </div>
-<div id="SignupFormON" style="display:block">
+<div id="SignupFormON" style="display:block" onload="showhide()">
 	<h2>Pete & Jeremy's DnDTime Signups</h2>
 	<form action="" method="post" id="signupForm">
 		<!-- SINGLE LINE TEXT FIELD -->
