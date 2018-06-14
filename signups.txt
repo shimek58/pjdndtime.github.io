@@ -77,17 +77,5 @@ function showhide() {
 	signupON.style.display = (signupON.style.display == 'block') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'none' : 'block';
 	signupOFF.style.display = (signupOFF.style.display == 'none') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'block' : 'none';
 }
-$(function() {
-	$('#signupForm').on('submit', function(e) {
-		$.ajax({
-			type: 'post',
-			url: 'https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse',
-			data: $('#signupForm').serialize(),
-			success: function() {
-				alert("Signup Successful!");
-			}
-		});
-		e.preventDefault();
-	});
-});
+
 </script>
