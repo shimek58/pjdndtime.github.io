@@ -6,7 +6,7 @@
 </div>
 <div id="SignupFormON" style="display:block">
 	<h2>Pete & Jeremy's DnDTime Signups</h2>
-	<form id="signupForm" name="signupForm" onsubmit="submitForm()">
+	<form action="https://docs.google.com/forms/d/e/1FAIpQLSfmHQlJSo91YWr8z8fV9vEoml5IZOrlnDW_4DfRIbt1XZwfFQ/formResponse" method="post" id="signupForm">
 		<!-- SINGLE LINE TEXT FIELD -->
 		<h3>Twitch.TV Username</h3>
 		<p><i>Do not include any spaces</i></p><label for="twitch"></label> <input id="twitch" name="entry.192629599" required="" type="text"><br>
@@ -78,18 +78,7 @@ function showhide() {
 	signupOFF.style.display = (signupOFF.style.display == 'none') && ((ddate == 4) || (ddate == 5) || (ddate == 6)) ? 'block' : 'none';
 }
 showhide();
-
-function submitForm() {
-	$.ajax({
-		url: 'https://drive.google.com/open?id=1TOlMudQXcNlaqHsi9hnvsmXRfnaQ8ucUojsKYbKZhP/formResponse',
-		type: 'post',
-		data: $('#signupForm').serialize(),
-		success: function() {
-			alert("Submission Successful");
-		},
-		success: function() {
-			alert("ERROR. Please fill out form.");
+$('#signupForm').submit(function(e) {
+			e.preventDefault(); //prevents the default action
 		}
-	});
-}
 </script>
