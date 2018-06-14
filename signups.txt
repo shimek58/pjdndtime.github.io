@@ -7,7 +7,7 @@
 </div>
 <div id="SignupFormON" style="display:block">
 <h2>Pete & Jeremy's DnDTime Signups</h2>
-<form action="submitForm()" id="signupForm">
+<form id="signupForm" onSubmit="submitForm()">
 	<!-- SINGLE LINE TEXT FIELD -->
 	<h3>Twitch.TV Username</h3>
 	<p><i>Do not include any spaces</i></p>
