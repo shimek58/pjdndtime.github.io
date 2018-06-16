@@ -34,6 +34,7 @@
 			xhttp.onreadystatechange = function() {
 				if (this.readyState == 4 && this.status == 200) {
 					document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
+					showhide();
 				}
 			};
 			xhttp.open("GET", dynamicContent + ".txt", true);
@@ -47,6 +48,14 @@
 			} else {
 				x.className = "topnav";
 			}
+		}
+		function showhide() {
+			var d = new Date();
+			var dd = d.getDay();
+			var signupON = document.getElementById('signupEnabled');
+			var signupOFF = document.getElementById('signupDisabled');
+			signupON.style.display = (signupON.style.display == 'block') && ((dd == 4) || (dd == 5) || (dd == 6)) ? 'none' : 'block';
+			signupOFF.style.display = (signupOFF.style.display == 'none') && ((dd == 4) || (dd == 5) || (dd == 6)) ? 'block' : 'none';
 		}
 	</script>
 </body>
