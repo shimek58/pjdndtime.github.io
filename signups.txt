@@ -1,7 +1,7 @@
 <h2>Player Queue</h2>
 <p>Register to play in this Friday's episode of <u><strong>Pete & Jeremy's DnDTime</strong></u>. The queue opens each week on Monday and closes on Thursday, whereafter we will announce that week's players on our <a href="https://discord.gg/u3sMTvJ">Discord Server</a>. We reserve game one each week to prioritize new players, so don't be afraid if you've never played with us before! For the other games, we choose players based on their <strong>points</strong>. A player gains points for watching <a href="https://twitch.tv/dndtime">our stream</a>. Each cumulative hour watched earns one point. Every time a player participates in <u><strong>Pete & Jeremy's DnDTime</strong></u>, their point total is halved. This makes it accessible for new players to be able to jump into the rotation while still rewarding our loyal viewers. Attempts to abuse our point system will result in a ban from participation in <u><strong>Pete & Jeremy's DnDTime</strong></u></p>
 <p>The queue resets every week, so remember to enter when you want to play!</p><br>
-<div id="signupDisabled" style="display:none" onload="showhide()">
+<div id="signupDisabled" style="display:none">
 	<p>Signups for <u><strong>Pete & Jeremy's DnDTime</strong></u> are open Sunday through Wednessdays. Come back then!</p>
 </div>
 <div id="signupEnabled" style="display:block">
@@ -53,13 +53,3 @@
 		<input type="submit" value="Sign Up!">
 	</form>
 </div>
-<script>
-function showhide() {
-	var d = new Date();
-	var dd = d.getDay();
-	var signupON = document.getElementById('signupEnabled');
-	var signupOFF = document.getElementById('signupDisabled');
-	signupON.style.display = (signupON.style.display == 'block') && ((dd == 4) || (dd == 5) || (dd == 6)) ? 'none' : 'block';
-	signupOFF.style.display = (signupOFF.style.display == 'none') && ((dd == 4) || (dd == 5) || (dd == 6)) ? 'block' : 'none';
-}
-</script>
