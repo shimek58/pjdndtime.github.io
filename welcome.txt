@@ -1,11 +1,11 @@
 <h2>Welcome to DnDTime!</h2>
 <p>DnDTime is a Twitch.tv channel and Discord community dedicated to 5th Edition Dungeons & Dragons (D&D). Our premier show, <strong><u>Pete & Jeremy's DnDTime</strong></u>, is an ongoing series of one-shot adventures featuring our viewers! Hop on over to the <a href="#playing" onclick="setTimeout(loadContent, 200);">Playing in DnDTime</a> section to learn more about the game, then <a href="#signups" onclick="setTimeout(loadContent, 200);">sign up to play</a>! We use Discord as our primary means of communication and Roll20 for all table-top functionality, so check us out!</p><br>
 <p><div class="fabbox">
-<div class="tooltip"><a href="https://twitch.tv/dndtime" style="color:#6441A4"><i class="fab fa-twitch"></i><span class="tooltiptext">Twitch.TV/DnDTime</span></a></div>
-<div class="tooltip"><a href="https://discord.gg/u3sMTvJ" style="color:#7289DA"><i class="fab fa-discord"></i><span class="tooltiptext">Discord.GG/u3sMTvJ</span></a></div>
-<div class="tooltip"><a href="https://twitter.com/DnD_Time" style="color:#1DA1F2"><i class="fab fa-twitter"></i><span class="tooltiptext">Twitter.com/DnD_Time</span></a></div>
-<div class="tooltip"><a href="https://www.youtube.com/channel/UCgRhAXT4KEzPhPGhU_BBsSA" style="color:#FF0000"><i class="fab fa-youtube"></i><span class="tooltiptext">YouTube</span></a></div>
-<div class="tooltip"><a href="https://app.roll20.net/lfg/listing/77757/"><i class="fab"><img src="assets/roll20.png" style="width:8.5vw;height:8.5vw;"></i><span class="tooltiptext">Roll20.net</span></a></div>
+<div><a href="https://twitch.tv/dndtime" style="color:#6441A4"><i class="fab fa-twitch"></i></a></div>
+<div><a href="https://discord.gg/u3sMTvJ" style="color:#7289DA"><i class="fab fa-discord"></i></a></div>
+<div><a href="https://twitter.com/DnD_Time" style="color:#1DA1F2"><i class="fab fa-twitter"></i></a></div>
+<div><a href="https://www.youtube.com/channel/UCgRhAXT4KEzPhPGhU_BBsSA" style="color:#FF0000"><i class="fab fa-youtube"></i></a></div>
+<div><a href="https://app.roll20.net/lfg/listing/77757/"><i class="fab"><img src="assets/roll20.png" style="width:8.5vw;height:8.5vw;"></i></a></div>
 </div></p>
 <h2>Our Content</h2>
 <p>We stream all sorts of D&D-related content throughout the week on <a href="https://twitch.tv/dndtime">Twitch.tv</a>:</p>
