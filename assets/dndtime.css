@@ -10,7 +10,7 @@
 
 .fabbox {
 	font-size: 8.4vw;
-	width: 100%;
+	width: 95%;
 	-webkit-justify-content: space-between; /* Safari 6.1+ */
 	display: flex;
 	justify-content: space-between;
