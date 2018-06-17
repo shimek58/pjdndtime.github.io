@@ -4,6 +4,11 @@
 	src: url("NodestoCapsCondensedBold.woff2") format("woff2");
 }
 
+.fabbox {
+	font-size: 20vw;
+    text-align:center;
+}
+
 .fab:hover { 
     opacity: 0.5;
 }
