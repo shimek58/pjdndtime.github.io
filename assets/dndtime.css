@@ -10,7 +10,10 @@
 
 .fabbox {
 	font-size: 8vw;
-	text-align:center;
+	width: 100%;
+	-webkit-justify-content: space-between; /* Safari 6.1+ */
+	display: flex;
+	justify-content: space-between;
 }
 
 .fab:hover { 
