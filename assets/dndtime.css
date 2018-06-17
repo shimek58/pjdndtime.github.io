@@ -17,10 +17,19 @@
 	justify-content: space-between;
 }
 
+.r20 {
+	width: 8.25vw;
+	height: 8.25vw;
+}
+
 @media screen and (min-width: 1200px) {
-  .fabbox {
-     font-size: 150px;
-  }
+	.fabbox {
+		font-size: 150px;
+	}
+	.r20 {
+		width: 150px;
+		height: 150px;
+	}
 }
 
 .fab:hover { 
