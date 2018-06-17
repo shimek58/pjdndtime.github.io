@@ -4,13 +4,17 @@
 	src: url("NodestoCapsCondensedBold.woff2") format("woff2");
 }
 
+.bucks {
+	font-size: 90%;
+}
+
 .fabbox {
 	font-size: 20vw;
-    text-align:center;
+	text-align:center;
 }
 
 .fab:hover { 
-    opacity: 0.5;
+	opacity: 0.5;
 }
 
 html, body {
