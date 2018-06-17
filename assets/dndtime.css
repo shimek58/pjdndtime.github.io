@@ -4,6 +4,10 @@
 	src: url("NodestoCapsCondensedBold.woff2") format("woff2");
 }
 
+.fab:hover { 
+    opacity: 0.5;
+}
+
 html, body {
 	margin: 0;
 	padding: 0;
