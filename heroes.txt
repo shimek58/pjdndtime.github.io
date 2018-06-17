@@ -1,3 +1,4 @@
 <h2>The Heroes of DnDTime</h2>
 <p>Behold! The valiant heroes of Pete & Jeremy's DnDTime. Check up on your favorite heroes and their cool stuff below! Also be sure to check out the <strong><a href="#hallofheroes">Hall of Heroes</a></strong>! A page dedicated to our characters who have been able to reach the coveted Myth Tier within Pete & Jeremy's DnDTime.</p>
-<br><div data-type="AwesomeTableView" data-viewID="-LARAu0RS-8ylCqUQ0Gj"></div>
+<br>
+<iframe height="700px" width="100%" frameborder="0" style="border:none;" src="https://view-awesome-table.com/-LARAu0RS-8ylCqUQ0Gj/view"></iframe>
