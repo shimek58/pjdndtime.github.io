@@ -1,3 +1,3 @@
 <h2>Fan Art</h2>
-<p>Check out the awesome fanart drawn by members of the DnDTime community! If you've drawn something that you want to share, reach out to DM.Jeremy or DM.Pete on the DnDTime discord server!</p>
+<p>Check out some of the awesome fanart drawn by members of the DnDTime community!</p>
 <iframe src="fanart.html" frameborder="0" height="525px" width="100%"></iframe>
