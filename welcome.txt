@@ -5,7 +5,7 @@
 <div><a href="https://discord.gg/u3sMTvJ" style="color:#7289DA"><i class="fab fa-discord"></i></a></div>
 <div><a href="https://twitter.com/DnD_Time" style="color:#1DA1F2"><i class="fab fa-twitter"></i></a></div>
 <div><a href="https://www.youtube.com/channel/UCgRhAXT4KEzPhPGhU_BBsSA" style="color:#FF0000"><i class="fab fa-youtube"></i></a></div>
-<div><a href="https://app.roll20.net/lfg/listing/77757/"><i class="fab"><img src="assets/roll20.png" style="width:8.25vw;height:8.25vw;"></i></a></div>
+<div><a href="https://app.roll20.net/lfg/listing/77757/"><i class="fab"><img class="r20" src="assets/roll20.png"></i></a></div>
 </div>
 <h2>Our Content</h2>
 <p>We stream all sorts of D&D-related content throughout the week!</p>
