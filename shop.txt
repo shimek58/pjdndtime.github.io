@@ -97,34 +97,34 @@
 <tr>
 <th>Cap of Water Breathing</th>
 <td>While wearing this cap underwater, you can speak its command word as an action to create a bubble of air around your head. It allows you to breathe normally underwater. This bubble stays with you until you speak the command word again, the cap is removed, or you are no longer underwater.</td>
-<td>600 <span class="bucks">฿฿</span></td>
+<td style="white-space:nowrap">600 <span class="bucks">฿฿</span></td>
 </tr>
 <tr>
 <th>Helm of Telepathy</th>
 <td>Requires Attunement. While wearing this helm, you can use an action to cast the detect thoughts spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply — using a bonus action to do so — while your focus on it continues.<br>
 While focusing on a creature with detect thoughts, you can use an action to cast the suggestion spell (save DC 13) from the helm on that creature. Once used, the suggestion property can't be used again until the next dawn.</td>
-<td>600 <span class="bucks">฿฿</span></td>
+<td style="white-space:nowrap">600 <span class="bucks">฿฿</span></td>
 </tr>
 <tr>
 <th>Flame Tongue</th>
 <td>Requires Attunement. You can use a bonus action to speak this magic sword' command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</td>
-<td>1,200 <span class="bucks">฿฿</span></td>
+<td style="white-space:nowrap">1,200 <span class="bucks">฿฿</span></td>
 </tr>
 <tr>
 <th>Ring of Resistance</th>
 <td>When you purchase this ring, choose a damage type that is not bludgeoning, piercing or slashing. You have resistance to that damage type while wearing this ring.</td>
-<td>1,200 <span class="bucks">฿฿</span></td>
+<td style="white-space:nowrap">1,200 <span class="bucks">฿฿</span></td>
 </tr>
 <tr>
 <th>Dwarven Plate</th>
 <td>Requires Attunement. While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 feet.</td>
-<td>1,800 <span class="bucks">฿฿</span></td>
+<td style="white-space:nowrap">1,800 <span class="bucks">฿฿</span></td>
 </tr>
 <tr>
 <th>Carpet of Flying, 3 ft. x 5 ft.</th>
 <td>You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.<br>
 A 3 ft. x 5 ft. carpet can carry up to 200 lb. at a fly speed of 80 feet. A carpet can carry up to twice this weight, but it flies at half speed if it carries more than its normal capacity.</td>
-<td>1,800 <span class="bucks">฿฿</span></td>
+<td style="white-space:nowrap">1,800 <span class="bucks">฿฿</span></td>
 </tr>
 </table></p>
 <h3>Bartholomew's Choice</h3>
