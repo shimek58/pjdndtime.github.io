@@ -17,6 +17,12 @@
 	justify-content: space-between;
 }
 
+@media screen and (min-width: 1200px) {
+  .fabbox {
+     font-size: 170px;
+  }
+}
+
 .fab:hover { 
 	opacity: 0.5;
 }
