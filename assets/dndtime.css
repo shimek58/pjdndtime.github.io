@@ -153,6 +153,8 @@ table th {
 	overflow: hidden;
 	background-color: #333;
 	clear: left;
+	display: flex;
+	justify-content: space-around;
 	font-family: 'Source Sans Pro', sans-serif;
 	position: fixed;
 	top: 0;
@@ -160,12 +162,12 @@ table th {
 }
 .topnav a {
 	float: left;
-	display: block;
 	color: #f2f2f2;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 	font-size: 17px;
+	
 }
 .topnav a:hover {
 	background-color: #ddd;
@@ -173,13 +175,11 @@ table th {
 }
 .topnav .icon {
 	float: right;
-	display: block;
-}
-.topnav a:not(:nth-child(-n+8)):not(.icon) {
 	display: none;
 }
 .topnav.responsive {
 	position: relative;
+	display: block !important;
 }
 .topnav.responsive .icon {
 	position: absolute;
@@ -210,18 +210,16 @@ table th {
 		width: 100%;
 	}
 }
-@media screen and (max-width: 1150px) {
-	.topnav a:not(:nth-child(-n+7)):not(.icon) {
-		display: none;
-	}
-}
 @media screen and (max-width: 1000px) {
-	.topnav a:not(:nth-child(-n+6)):not(.icon) {
+	.topnav a:not(:nth-child(-n+8)):not(.icon) {
 		display: none;
 	}
+	.topnav .icon {
+		display: block;
+	}
 }
-@media screen and (max-width: 800px) {
-	.topnav a:not(:nth-child(-n+5)):not(.icon) {
+@media screen and (max-width: 880px) {
+	.topnav a:not(:nth-child(-n+6)):not(.icon) {
 		display: none;
 	}
 }
