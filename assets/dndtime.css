@@ -60,7 +60,6 @@ h2, h3 {
 	color: #58180d;
 	display: inline-block;
 	font-family: 'Spectral SC', serif;
-	font-size: calc(22px + 0.4vw);
 	font-variant: small-caps;
 	font-weight: bold;
 	line-height: 0.9;
@@ -69,11 +68,13 @@ h2, h3 {
 }
 
 h2 {
-	border-bottom: 2px solid #cdb376;
+	border-bottom: 2px solid transparent;
+	font-size: calc(22px + 0.4vw);
 }
 
 h3 {
-	border-bottom: 2px solid transparent;
+	border-bottom: 2px solid #cdb376;
+	font-size: calc(18px + 0.4vw);
 }
 
 .music {
