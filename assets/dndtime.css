@@ -223,7 +223,7 @@ table th {
 		display: none;
 	}
 }
-@media screen and (max-width: 725px) {
+@media screen and (max-width: 750px) {
 	.topnav a:not(:nth-child(-n+4)):not(.icon) {
 		display: none;
 	}
