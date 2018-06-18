@@ -193,10 +193,10 @@ table th {
 }
 @media screen and (min-width: 1920px) {
 	.fabbox {
-		font-size: 150px;
+		font-size: 130px;
 	}
 	.r20 {
-		width: 150px;
+		width: 130px;
 	}
 }
 @media screen and (min-width: 1200px) {
