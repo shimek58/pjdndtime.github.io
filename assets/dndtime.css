@@ -139,10 +139,7 @@ th, td {
 	text-align: left;
 	color: black;
 }
-.chartable tr:nth-child(even){
-	background-color: #FDF1DC !important;
-}
-.pbhtable tr:nth-child(even) {
+.list-table tr:nth-child(even) {
 	background-color: #e3e5bd;
 }
 .topnav {
