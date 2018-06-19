@@ -228,7 +228,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	</tr>
 <!-- Reactions -->
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><h4>Reactions</h4><hr style="border-color:#922610; margin-top:0px;"></td>
+		<td class="tablehero""><h4>Reactions</h4><hr style="border-color:#922610; margin-top:0px;"></td>
 	</tr>
 	<tr>
 		<td colspan="6" style="padding:1px !important;">
