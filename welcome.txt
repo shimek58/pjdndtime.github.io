@@ -9,7 +9,7 @@
 </div>
 <h2>Our Content</h2>
 <p>We stream all sorts of D&D-related content throughout the week!</p>
-<p><strong>DnDTime Talks.</strong>A talkshow where Pete and Jeremy discuss all things D&D! Each show runs one hour and covers topics ranging from book reviews, to player and dungeon master advice. Wednesdays at 6:30 PM PT - Weekly.</p>
+<p><strong>DnDTime Talks.</strong> A talkshow where Pete and Jeremy discuss all things D&D! Each show runs one hour and covers topics ranging from book reviews, to player and dungeon master advice. Wednesdays at 6:30 PM PT - Weekly.</p>
 <p><strong>Pete & Jeremy's DnDTime.</strong> Self-contained, one-shot adventures featuring our viewers! Each adventure runs no longer than one and a half hours, and there are three adventures each week. Adventures are completely self-contained and follow no particular storyline. Fridays at 6:00 PM PT - Weekly.</p>
 <p><strong>DnDTime Behind the Screen.</strong> Learn to prepare simple and engaging one-shot adventures using Roll20! Each show runs about two hours. Jeremy walks through converting 4th Edition <a href="http://www.dmsguild.com/product/110211/">Dungeon Delve</a> adventures for 5th Edition D&D, and sets up the adventure in Roll20. Saturdays at 1:00 PM PT - Two shows per month see the weekly schedule on Discord.</p>
 <p><strong>DnDTime Delves.</strong> Good old-fashioned one-shot dungeon crawl adventures! Each adventure runs between three and four hours. Jeremy runs a cast of four characters through the adventures prepped in <strong>DnDTime Behind the Screen</strong>. Games are self-contained and quite deadly. Sundays at 6:00 PM PT - Two shows per month see the weekly schedule on Discord.</p>
