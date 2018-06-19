@@ -144,8 +144,6 @@ th, td {
 	padding:1px !important;
 }
 .tablehero0 tr:nth-child(even){
-	colspan=6;
-	padding:1px !important;
 	background-color: #FDF1DC !important;
 }
 table tr:nth-child(even) {
