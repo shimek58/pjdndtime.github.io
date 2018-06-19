@@ -139,11 +139,11 @@ th, td {
 	text-align: left;
 	color: black;
 }
-.hero {
+.tablehero {
 	colspan=6;
 	padding:1px !important;
 }
-.hero tr:nth-child(even){
+.tablehero tr:nth-child(even){
 	colspan=6;
 	padding:1px !important;
 	background-color: #FDF1DC !important;
