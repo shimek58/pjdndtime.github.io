@@ -1,4 +1,4 @@
-<h3 style="margin-top:0px !important;">Kurogan, The Great and Powerful</h3>
+<h3 style="margin-top:0px !important;">Kurogan, the Great and Powerful</h3>
 <p>
 Long ago, a golden Dragonborn was hatched to clan on the brink of a war. A war that they could never have forseen. Demons; The most evil creatures of creatures; Known to ravage and destroy all that might stand before them. On the brink of the demonic onslaught, in an attempt to save the newly hatched dragonborn, the clan sent him on a raft down the nearby river. That hatching was eventually found and brought to a small human orphanage. The Dragonborn known as Kurogan was born on that day.
 </p><p>
@@ -10,9 +10,9 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	</tr>
 	<tr>
 		<th style="text-align:left;" colspan="6">
-			<h2>
+			<h5>
 			Kurogan, the Great and Powerful
-			</h2>
+			</h5>
 		</th>
 	</tr>
 	<tr>
