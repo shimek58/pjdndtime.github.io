@@ -139,6 +139,15 @@ th, td {
 	text-align: left;
 	color: black;
 }
+.hero {
+	colspan=6;
+	padding:1px !important;
+}
+.hero tr:nth-child(even){
+	colspan=6;
+	padding:1px !important;
+	background-color: #FDF1DC !important;
+}
 table tr:nth-child(even) {
 	background-color: #e3e5bd;
 }
