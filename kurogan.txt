@@ -6,7 +6,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 </p><br>
 <table  style="width:100%; background-color:#FDF1DC !important;">
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><div style="width:calc(100% + 6px); margin-left:-3px; margin-top: -3px; height:6px; background-color:#E69A28;" colspan="6"></div></td>
+		<td class="tablehero"><div style="width:calc(100% + 6px); margin-left:-3px; margin-top: -3px; height:6px; background-color:#E69A28;" colspan="6"></div></td>
 	</tr>
 	<tr>
 		<th style="text-align:left;" colspan="6">
@@ -16,37 +16,37 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</th>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 		<small><i>
 		Medium dragonborn (gold), neutral good
 		</small></i>
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<hr style="border-color:#922610">
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 		<strong>Armor Class</strong> 
 		19 (splint mail and shield)
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 		<strong>Hit Points</strong> 
 		64 (7d10 + 14)
 	</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 		<strong>Speed</strong> 
 		30ft., fly 30ft. (Wings of Flying)
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<hr style="border-color:#922610">
 		</td>
 	</tr>
@@ -67,48 +67,48 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		<th style="padding:1px !important;text-align:center !important;">9 (–1)</th>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<hr style="border-color:#922610">
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><strong>Saving Throws</strong> 
+		<td class="tablehero"><strong>Saving Throws</strong> 
 		Str +8, Con +5
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><strong>Skills</strong> 
+		<td class="tablehero"><strong>Skills</strong> 
 		Acrobatics +5, History +4, Perception +3, Persuasion +2
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><strong>Damage Resistances</strong> 
+		<td class="tablehero"><strong>Damage Resistances</strong> 
 		fire
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><strong>Senses</strong> 
+		<td class="tablehero"><strong>Senses</strong> 
 		passive Perception 13
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><strong>Languages</strong> 
+		<td class="tablehero"><strong>Languages</strong> 
 		Abyssal, Common, Draconic
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><strong>Level</strong> 
+		<td class="tablehero"><strong>Level</strong> 
 		7
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<hr style="border-color:#922610">
 		</td>
 	</tr>
 	<!-- Non-Action Abilities & Magic Item Features -->
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Action Surge (1/short rest).
 			</strong></i> 
@@ -117,7 +117,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Right Hand of the Monkey.
 			</strong></i> 
@@ -126,7 +126,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Spellcasting.
 			</strong></i> 
@@ -135,7 +135,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			String of Getting Thrown Objects Back After You've Thrown Them.
 			</strong></i> 
@@ -145,10 +145,10 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	</tr>
 	<!-- Actions -->
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><h4>Actions</h4><hr style="border-color:#922610; margin-top:0px;"></td>
+		<td class="tablehero"><h4>Actions</h4><hr style="border-color:#922610; margin-top:0px;"></td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Extra Attack (variant Eldritch Knight).
 			</strong></i> 
@@ -157,7 +157,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Dragonblade Greatsword.
 			</strong> 
@@ -168,7 +168,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Reaver.
 			</strong> 
@@ -178,7 +178,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Breath Weapon (1/long rest).
 			</strong></i> 
@@ -187,7 +187,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Growstone (1/long rest).
 			</strong></i> 
@@ -196,7 +196,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Jar of Bees (consumable).
 			</strong></i> 
@@ -206,10 +206,10 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	</tr>
 <!-- Bonus Actions -->
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><h4>Bonus Actions</h4><hr style="border-color:#922610; margin-top:0px;"></td>
+		<td class="tablehero"><h4>Bonus Actions</h4><hr style="border-color:#922610; margin-top:0px;"></td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Second Wind (1/short rest).
 			</strong></i> 
@@ -218,7 +218,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Sexy Vampire Costume (1/long rest).
 			</strong></i> 
@@ -231,7 +231,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		<td class="tablehero""><h4>Reactions</h4><hr style="border-color:#922610; margin-top:0px;"></td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Protection.
 			</strong></i> 
@@ -241,10 +241,10 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	</tr>
 <!-- Spellcasting -->
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><h4>Spellcasting</h4><hr style="border-color:#922610; margin-top:0px;"></td>
+		<td class="tablehero"><h4>Spellcasting</h4><hr style="border-color:#922610; margin-top:0px;"></td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			Cantrips.
 			</strong><br> 
@@ -253,7 +253,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			1st Level (4 slots).
 			</strong><br> 
@@ -262,7 +262,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;">
+		<td class="tablehero">
 			<strong><i>
 			2nd Level (2 slots). 
 			</strong><br> 
@@ -271,6 +271,6 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6" style="padding:1px !important;"><div style="width:calc(100% + 6px); margin-left:-3px; margin-bottom: -3px; height:6px; background-color:#E69A28;" colspan="6"></div></td>
+		<td class="tablehero"><div style="width:calc(100% + 6px); margin-left:-3px; margin-bottom: -3px; height:6px; background-color:#E69A28;" colspan="6"></div></td>
 	</tr>
 </table>
