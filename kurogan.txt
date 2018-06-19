@@ -214,6 +214,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 			Second Wind (1/short rest).
 			</strong></i> 
 			Kurogan's regains 1d10 + 7 Hit Points.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
