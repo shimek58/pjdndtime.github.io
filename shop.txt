@@ -48,7 +48,7 @@ Although you can trade items freely between your own characters, sometimes you e
 Characters have access any of the base armors listed below at no charge. However, Bartholomew can transmute your existing armor into an upgraded armor for a small fee.
 </p>
 <h4>Armor Upgrades</h4>
-<p><table style="width:100%">
+<p><table class="list-table">
 <tr>
 <th>Armor Type</th>
 <th>Base Armor</th>
@@ -91,7 +91,7 @@ Potions.</strong>
 Potions of healing can be used to restore hit points (HP) during an adventure and come in an limitless variety of flavors. Some favorites include Cherry, Coffee, and Vanilla, however Bartholomew's favorites tend to be more abstract like Enthusiasm or Taxes.<br>A silght deviation from the normal rules of 5th Edition D&D, in <strong><u>Pete & Jeremy's DnDTime</strong></u> drinking a potion takes a bonus action, while feeding a potion to an unconscious ally takes an action.
 </p>
 <h4>Healing Potion Prices</h4>
-<p><table style="width:100%">
+<p><table class="list-table">
 <tr>
 <th></th>
 <th>Potion of Healing</th>
@@ -121,7 +121,7 @@ Bartholomew, being a very powerful wizard, knows every spell in existance. For a
 Every so often, a new set of classic Dungeons and Dragons items are made available for sale. These items are randomly selected and are priced at a premium based on their rarity.
 </p>
 <h4>Items on Display</h4>
-<p><table style="width:100%">
+<p><table class="list-table">
 <tr>
 <th>Item</th>
 <th>Description</th>
