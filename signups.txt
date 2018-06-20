@@ -55,5 +55,3 @@
 		<input type="submit" value="Sign Up!">
 	</form>
 </div>
-<div id="nullspace" style="width:100%;height:100px;">
-</div>
