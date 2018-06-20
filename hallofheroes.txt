@@ -1,6 +1,6 @@
 <div style="text-align:center;">
 <h2>The Hall of Heroes</h2>
-<p>Reaching the mythic tier of adventuring is no small feat; Each of these heroes have battled through over 21 adventures and faced the toughest challenges that <strong>Pete & Jeremy's DnDTime</strong> has yet to offer…</p><br>
+<p>Reaching the mythic tier of adventuring is no small feat; Each of these heroes have battled through over 21 adventures and faced the toughest challenges that we have yet to offer…</p><br>
 <p>But is this the culmination of their success?</p><br>
 <p>Have these heroes truly reached the pinnacle?</p><br>
 <p>Or have they only just opened the door, to greatness.</p>
