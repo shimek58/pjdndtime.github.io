@@ -48,7 +48,7 @@
 	<div style="height:100%; width: 100px;" id="nullspace"></div>
 	<script>
 	          // Load Content
-	          function loadContent() {
+		function loadContent() {
 	          	var dynamicContent = location.hash.substr(1);
 	          	var xhttp = new XMLHttpRequest();
 	          	xhttp.onreadystatechange = function() {
@@ -60,6 +60,7 @@
 	          	xhttp.open("GET", dynamicContent + ".txt", true);
 	          	xhttp.send();
 	          }
+		window.addEventListener('hashchange', loadContent());
 	          // Navbar FunctionS
 	          function navFunction() {
 	          	var x = document.getElementById("topnavigationbar");
