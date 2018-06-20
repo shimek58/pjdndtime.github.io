@@ -18,7 +18,7 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 	<tr>
 		<td colspan="6">
 		<small><i>
-		Medium wood elf, neutral good
+		Medium humanoid (wood elf), neutral good
 		</small></i>
 		</td>
 	</tr>
@@ -42,7 +42,7 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 	<tr>
 		<td colspan="6">
 		<strong>Speed</strong> 
-		35ft.,
+		35ft.
 		</td>
 	</tr>
 	<tr>
