@@ -53,10 +53,10 @@ We aim to be an open and friendly community for everyone, so be patient and resp
 </tr>
 <tr>
 <th>Salary</th>
-<th colspan="3">100 Bartholomew Bucks</td>
-<th colspan="3">200 Bartholomew Bucks</td>
-<th colspan="3">300 Bartholomew Bucks</td>
-<th colspan="3">400 Bartholomew Bucks</td>
+<th colspan="3">100 <span class="bucks">฿฿</span></td>
+<th colspan="3">200 <span class="bucks">฿฿</span></td>
+<th colspan="3">300 <span class="bucks">฿฿</span></td>
+<th colspan="3">400 <span class="bucks">฿฿</span></td>
 </tr>
 <tr>
 <th></th>
