@@ -4,7 +4,7 @@ Bartholomew's Shop offers a variety of magical goods and services ranging from w
 </p>
 <h3>Bartholomew's Big Bag Bonanza</h3>
 <p>
-The signature option at Bartholomew's Shop. Throughout countless years of adventuring, Bartholomew's personal Bag of Holding has become quite the managerie of magical curios. For a price, you may reach into the bag and pull a random magical item from within. This bag has been used for just about everything; You may find the legendary weapon Zhjivjals, a blade forged of pure shadow by the legendary spirit smiths of Ysyk'Tor!… Or if luck is not on your side, you might just end up with Bartholomew's lunch. The Big Bag Bonanza houses hundreds of unique magical items, so try your luck!
+The signature option at Bartholomew's Shop. Throughout countless years of adventuring, Bartholomew's personal Bag of Holding has become quite the menagerie of magical curios. For a price, you may reach into the bag and pull a random magical item from within. This bag has been used for just about everything; You may find the legendary weapon Zhjivjals, a blade forged of pure shadow by the legendary spirit smiths of Ysyk'Tor!… Or if luck is not on your side, you might just end up with Bartholomew's lunch. The Big Bag Bonanza houses hundreds of unique magical items, so try your luck!
 </p>
 <h4>One Pull from Bartholomew's Big Bag Bonanza</h4>
 <p><table class="list-table">
@@ -36,7 +36,7 @@ The signature option at Bartholomew's Shop. Throughout countless years of advent
 <p><strong>
 Submitting Magic Items.
 </strong> 
-Interested in sharing your own creative spark with DnDTime? Read <a href="#enchanting" onclick="setTimeout(loadContent);">Bartholomew's Guide to Enchanting</a>, then <a href="https://docs.google.com/forms/d/e/1FAIpQLScm1Q5HW0q0y-kl1jzJU0EUOyHv8JOne9F6hoHaSDCE02jfiQ/viewform">submit your own items</a> for Bartholomew's Big Bag Bonanza. Not every item will make it into the bag, and Pete and Jeremy reserve the right to tweak and adjust as we see fit. When an item that you designed is pulled, you will recieve a 100 <span class="bucks">฿฿</span> creators reward and be credited on the stream for your contribution.
+Interested in sharing your own creative spark with DnDTime? Read <a href="#enchanting">Bartholomew's Guide to Enchanting</a>, then <a href="https://docs.google.com/forms/d/e/1FAIpQLScm1Q5HW0q0y-kl1jzJU0EUOyHv8JOne9F6hoHaSDCE02jfiQ/viewform">submit your own items</a> for Bartholomew's Big Bag Bonanza. Not every item will make it into the bag, and Pete and Jeremy reserve the right to tweak and adjust as we see fit. When an item that you designed is pulled, you will recieve a 100 <span class="bucks">฿฿</span> creators reward and be credited on the stream for your contribution.
 </p>
 <p><strong>
 Trash Time.
@@ -183,4 +183,4 @@ A 3 ft. x 5 ft. carpet can carry up to 200 lb. at a fly speed of 80 feet. A carp
 <p>
 Little known fact, Bartholomew loves money. Rumor has it that if you give him a big enough pile of it (lets say 5,000 <span class="bucks">฿฿</span>), he will use his near-limitless magic to craft for you a legendary artifact of awesome power.
 </p>
-<h2><a href="#backroom" onclick="setTimeout(loadContent);">The Back Room…</a></h2>
+<h2><a href="#backroom">The Back Room…</a></h2>
