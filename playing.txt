@@ -27,7 +27,7 @@
 <h3>Character Progression</h3>
 <p>Every time you participate in <u><strong>Pete & Jeremy's DnDTime</u></strong>, you gain 100 Bartholomew Bucks (<span class="bucks">฿฿</span>) and your character gains 1 experience point (XP). In our game, leveling up follows a mathematical sequence known as triangular numbers; The minimum XP required to reach level ‘L’ equals L×(L−1)÷2; You can also think of it as: Every time you reach a level, you need to earn an additional amount of XP equal to that level to level up again; Once you reach level 5, you’ll need 5 more XP to reach 6. Characters are grouped into 'Tiers' of adventuring, based on their levels (see below). Your <span class="bucks">฿฿</span> and XP rewards increase as you increase in tier.</p>
 <h4>Character Salary and Tier by Level</h4>
-<table style="width:100%">
+<table class="list-table">
 <tr>
 <th></th>
 <th colspan="3">Story Tier</th>
