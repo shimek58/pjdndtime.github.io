@@ -1,19 +1,35 @@
-<h2>The Rules of DnDTime</h2>
-<p>We have a few requirements for participating in Pete and Jeremy's DnDTime:
-<ul>
-<li>Your audio quality must be reasonably clear. Push-to-Talk is strongly encouraged while playing!</li>
-<li>When you play, you are expected to interact with the established adventure. Our one-hour adventure format cannot accommodate those who go off on their own to do something unrelated to the adventure.</li>
-<li>Be respectful of other players. Rude or hateful behavior will not be tolerated and may result in a ban from DnDTime, at our sole discretion.</li>
-<li>You MUST consent to the Legal Agreement in our Player Queue. The agreement serves to protect our content on Youtube, Twitch and other platforms from potential take-down claims.</li>
-</ul>
-We aim to be an open and friendly community for everyone, so be patient and respectful of newer players. Cursing is acceptable in DnDTime as long as it is not overly excessive or hateful.</p>
-<h2>Building a Character</h2>
-<p>Once you have posted on our Roll20 Looking For Game posting, we will provide you with a digital character sheet in the staging lobby on Roll20. For those new to Dungeons & Dragons, the following may not make a ton of sense. Feel free to ask for help on our Discord Server, or check out the free <a href="http://dnd.wizards.com/articles/features/basicrules">Basic Rules</a> for guidance.</p>
-<p>All DnDTime characters begin at level one. All DnDTime character start with the Standard Array for their ability scores (plus their racial bonuses). Homebrew content is, without exception, disallowed for character creation in DnDTime. The Unearthed Arcana series is also disallowed. Character creation is limited to content from the following published Dungeons and Dragons Fifth Edition sources: Elemental Evil Player's Companion, Sword Coast Adventurer's Guide, Volo's Guide to Monsters, Xanathar's Guide to Everything, and The Player's Handbook. Summoning abilities are restricted to summoning no more than one creature at any given time for sake of expediting play. The optional "Feats" rule is disallowed in DnDTime. The optional Multi-Classing rule is also disallowed.</p>
-<h2>Character Progression</h2>
-<p>Each time you participate in DnDTime, you earn one experience point. For your character to reach the next level, they must accumulate a number of experience points equal to their current level once having reached that level. This formula makes leveling fast early on, but slower at higher levels. In DnDTime, heroes are separated into four tiers based on their character's level: Story, Fable, Myth, and Legend. As a character moves up in tier, they gain access to better items in Bartholomew's Shop, gain a higher salary, and are challenged with more difficult quests. In order to move up a tier, a character must first accumulate the appropriate amount of experience and then complete a boss battle!</p>
-<h2>Player Salaries by Tier and Level</h2>
-<p><table style="width:100%">
+<h2>The Rules</h2>
+<h3>Code of Conduct</h3>
+<p>Whether in Discord, Twitch chat, or our games, <u><strong>Pete & Jeremy's DnDTime</u></strong> is an open and friendly community for everyone, irrespective of age, disability, ethnicity, gender, religion, sex, game experience, character choices, etcetera.</p>
+<p>▪ You must be respectful of all other players; Bullying or harassment of any sort is strictly prohibited.</p>
+<p>▪ Pay attention to not talk over others; Just because a player is less comfortable putting themselves out there doesn’t mean they don’t have something to say!</p>
+<p>▪ Do not take advantage of Pete and Jeremy’s flexibility. Attempts to manipulate the systems we have put in place to run the show (points system, signups, etcetera) will not be tolerated.</p>
+<p>▪ Do not be flagrantly offensive; If you’re concerned that an idea that you’ve come up with might be offensive, uncouth, or otherwise inappropriate for our show, please err on the side of caution and come up with something else.</p>
+<h3>Technical Requirements</h3>
+<p> We take great pride in the production of our content. To be on the stream and participate in our shows, you must have:</p>
+<p>▪ A microphone with decent audio quality; Most headset or usb microphones are acceptable while most built-in laptop microphones or webcam microphones are not.</p>
+<p>▪ Minimal background noise; Discord’s Push-to-Talk feature is required during the stream if you have any major background noise.</p>
+<p>▪ A reliable internet connection; Please do not participate if you are going to disconnect every few minutes as it can be quite disruptive.</p>
+<h2>Participating in DnDTime</h2>
+<p>Now that you understand our rules, lets dive into how you can play in <u><strong>Pete & Jeremy's DnDTime</u></strong>!
+<h3>Joining DnDTime</h3>
+<p>If you haven't already, join our <a href="https://discord.gg/u3sMTvJ">discord server</a>, <a href="https://app.roll20.net/lfg/listing/77757/">make a post on our Roll20 LFG</a>, and <a href="#signups">sign up to play here on our website</a>. Once you've done that, ask a Party Leader on discord to invite you from your Roll20 post and give you a character sheet in Roll20. Then start making your character.</p>
+<h3>Building a Character for DnDTime</h3>
+<p>If you're completely unfamiliar with Dungeons & Dragons (D&D), you will want to check out the <a href="http://dnd.wizards.com/products/tabletop/players-basic-rules">'Step-by-Step Character Creation' section in Chapter 1 of the D&D Free Basic Rules</a>. Feel free to ask around in discord if you're still confused or just want some help.</p>
+<p>Besides the basics of building a character for D&D, we have the following rules for how to make your DnDTime Heroes:</p>
+<p>▪ Your character starts at level 1.</p>
+<p>▪ We use the standard array for determining ability scores (15, 14, 13, 12, 10, 8).</p>
+<p>▪ You may use character options from any official published material. See the complete list of <a href="https://en.wikipedia.org/wiki/List_of_Dungeons_%26_Dragons_rulebooks#Dungeons_&_Dragons_5th_edition">official "Wizard RPG Team" products</a> for details.</p>
+<p>▪ The Feat and Multiclassing options from the <u>Players' Handbook</u> are not allowed.</p>
+<p>▪ A given character may only ever have one summoned creature at a given time, regardless of the source of the summoning or the description of the spell.</p>
+<p>▪ Homebrew content is not allowed, with the exception of character options created during <a href="#brews"><strong>DnDTime Brews</strong></a></p>
+<p>▪ For starting equipment, use the armor provided by your class (if any). All other mundane (i.e. non-magical) adventuring gear, tools, and weapons are free.</p>
+<h3>Character Progression</h3>
+<p>Every time you participate in <u><strong>Pete & Jeremy's DnDTime</u></strong>, you gain 100 Bartholomew Bucks (<span class="bucks">฿฿</span>) and your character gains 1 experience point (XP). In our game, leveling up follows a mathematical sequence known as triangular numbers; The minimum XP required to reach level ‘L’ equals L×(L−1)÷2; You can also think of it as: Every time you reach a level, you need to earn an additional amount of XP equal to that level to level up again; Once you reach level 5, you’ll need 5 more XP to reach 6.</p>
+</p>Characters are grouped into 'Tiers' of adventuring, based on their levels (see below). Your <span class="bucks">฿฿</span> and XP rewards increase as you increase in tier.</p>
+<h4>Character Salary and Tier by Level</h4>
+<p>
+<table style="width:100%">
 <tr>
 <th></th>
 <th colspan="3">Story Tier</th>
@@ -53,20 +69,17 @@ We aim to be an open and friendly community for everyone, so be patient and resp
 </tr>
 <tr>
 <th>Salary</th>
-<th colspan="3">100 <span class="bucks">฿฿</span></td>
-<th colspan="3">200 <span class="bucks">฿฿</span></td>
-<th colspan="3">300 <span class="bucks">฿฿</span></td>
-<th colspan="3">400 <span class="bucks">฿฿</span></td>
+<td colspan="3">100 <span class="bucks">฿฿</span></td>
+<td colspan="3">200 <span class="bucks">฿฿</span></td>
+<td colspan="3">300 <span class="bucks">฿฿</span></td>
+<td colspan="3">400 <span class="bucks">฿฿</span></td>
 </tr>
-<tr>
-<th></th>
-<th colspan="10"><i><small>Each character must complete a Boss Battle tier between each Tier to continue gaining XP and level up!</small></i></td>
-</tr>
-</table></p>
-<h2>Boss Battles</h2>
-<p>Once four heroes have reached the requisite levels of experience, they are sent to battle one of our unique and deadly bosses. A spin on our Wheel of Bosses determines their foe, which range from ferocious dragons to the enigmatic Rhyme Slime. As long as at least one character survives to defeat the boss, everyone in the party is considered to be victorious and gets to share in the spoils of victory. Victory in a boss battle rewards double the normal slary of a character's new tier and a special bonus reward specific to each tier.</p>
-<p>Fabled Battles: Our hero is rewarded with a title to be displayed on stream whenever they play. Additionally, NPCs throughout the land of DnDTime have a chance at recognizing characters of Fable Tier status for their accomplishments.</p>
-<p>Mythic Battles: No character has progressed far enough to discover the Myth Tier reward yet!</p>
-<p>Legendary Battles: No character has progressed far enough to discover the Legend Tier reward yet!</p>
-<h2>Quest Failure and Death</h2>
-<p>In the world of DnDTime death is a mere inconvenience. If a character dies during an adventure, they are resurrected in Bartholomew's Shop after the adventure. As long as the party succeeds on the quest, the dead character will still gain an equal share of the rewards. If a party fails to complete the quest, they will still earn experience but will not earn any Bartholomew Bucks.</p>
+</table>
+</p>
+<h3>Boss Battles</h3>
+<p>In order to level up into a new tier, a hero must first complete a boss battle against one of our unique and deadly bosses. A few of our past bosses include the dastardly revenant Bradus Deadwalker, the pernicious Riddle Boy, and the wicked hag coven, the Bitter Sisters. A boss battle will be scheduled once four characters reach the appropriate level to participate and sign up. As long as at least one character survives to defeat the boss, everyone in the party is considered to be victorious and shares in the spoils. Victory in a boss battle rewards double the normal salary of a character's new tier and a special bonus reward specific to each tier.</p>
+<p><strong>Fabled Battle.</strong> Upon defeating one of our fabled bosses, a character earns a title of their choosing to be displayed on stream whenever they play.</p>
+<p><strong>Mythic Battle.</strong> Upon defeating one of our mythic bosses, a character is granted nobility throughout the Lands of DnDTime, gaining with that loyal followers and a small stronghold of their design.</p>
+<p><strong>Lefendary Battle.</strong> No such hero has yet reached this level.</p>
+<h3>Character Death</h3>
+<p>Character death is a mere inconvenience in <u><strong>Pete & Jeremy's DnDTime</u></strong>. Whenever a character dies, they are resurrected free of charge in Bartholomew's Shop after the adventure. Character death has no impact on <span class="bucks">฿฿</span> or XP earned.</p>
