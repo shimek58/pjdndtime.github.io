@@ -20,7 +20,7 @@ Do you dare try and stop her?
 	<tr>
 		<td colspan="6">
 		<small><i>
-		Medium half-elf, lawful evil
+		Medium humanoid (half-elf), lawful evil
 		</small></i>
 		</td>
 	</tr>
@@ -38,7 +38,7 @@ Do you dare try and stop her?
 	<tr>
 		<td colspan="6">
 		<strong>Hit Points</strong> 
-		64 (7d10 + 14)
+		60 (7d10 + 14)
 	</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ Do you dare try and stop her?
 	</tr>
 	<tr>
 		<td colspan="6"><strong>Senses</strong> 
-		passive Perception 11
+		darkvision 60ft., passive Perception 11
 		</td>
 	</tr>
 	<tr>
@@ -139,18 +139,18 @@ Do you dare try and stop her?
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Darkvision.
+			Divine Smite.
 			</strong></i> 
-			Thanks to their elf blood, Switch has superior vision in dark and dim Conditions. Switch can see in dim light within 60 feet of them as if it were bright light, and in Darkness as if it were dim light. Switch can’t discern color in Darkness, only shades of gray.
+			When Switch hits a creature with a melee weapon Attack, they can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each Spell Level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an Undead or a fiend.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Divine Smite.
+			Fey Ancestry.
 			</strong></i> 
-			When Switch hits a creature with a melee weapon Attack, they can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each Spell Level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an Undead or a fiend.
+			Switch has advantage on saving throws against being charmed, and magic can't put them to sleep. 
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
