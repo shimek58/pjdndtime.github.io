@@ -1,4 +1,4 @@
-<h2>The Rules</h2>
+<h2>The Rules</h2><br><br>
 <h3>Code of Conduct</h3>
 <p>Whether in Discord, Twitch chat, or our games, <u><strong>Pete & Jeremy's DnDTime</u></strong> is an open and friendly community for everyone, irrespective of age, disability, ethnicity, gender, religion, sex, game experience, character choices, etcetera.</p>
 <p>▪ You must be respectful of all other players; Bullying or harassment of any sort is strictly prohibited.</p>
@@ -9,7 +9,7 @@
 <p> We take great pride in the production of our content. To be on the stream and participate in our shows, you must have:</p>
 <p>▪ A microphone with decent audio quality; Most headset or usb microphones are acceptable while most built-in laptop microphones or webcam microphones are not.</p>
 <p>▪ Minimal background noise; Discord’s Push-to-Talk feature is required during the stream if you have any major background noise.</p>
-<p>▪ A reliable internet connection; Please do not participate if you are going to disconnect every few minutes as it can be quite disruptive.</p>
+<p>▪ A reliable internet connection; Please do not participate if you are going to disconnect every few minutes as it can be quite disruptive.</p><br>
 <h2>Participating in DnDTime</h2>
 <p>Now that you understand our rules, lets dive into how you can play in <u><strong>Pete & Jeremy's DnDTime</u></strong>!
 <h3>Joining DnDTime</h3>
@@ -22,13 +22,11 @@
 <p>▪ You may use character options from any official published material. See the complete list of <a href="https://en.wikipedia.org/wiki/List_of_Dungeons_%26_Dragons_rulebooks#Dungeons_&_Dragons_5th_edition">official "Wizard RPG Team" products</a> for details.</p>
 <p>▪ The Feat and Multiclassing options from the <u>Players' Handbook</u> are not allowed.</p>
 <p>▪ A given character may only ever have one summoned creature at a given time, regardless of the source of the summoning or the description of the spell.</p>
-<p>▪ Homebrew content is not allowed, with the exception of character options created during <a href="#brews"><strong>DnDTime Brews</strong></a></p>
+<p>▪ Homebrew content is not allowed, with the exception of character options created during <a href="#brews"><strong>DnDTime Brews</strong></a>.</p>
 <p>▪ For starting equipment, use the armor provided by your class (if any). All other mundane (i.e. non-magical) adventuring gear, tools, and weapons are free.</p>
 <h3>Character Progression</h3>
-<p>Every time you participate in <u><strong>Pete & Jeremy's DnDTime</u></strong>, you gain 100 Bartholomew Bucks (<span class="bucks">฿฿</span>) and your character gains 1 experience point (XP). In our game, leveling up follows a mathematical sequence known as triangular numbers; The minimum XP required to reach level ‘L’ equals L×(L−1)÷2; You can also think of it as: Every time you reach a level, you need to earn an additional amount of XP equal to that level to level up again; Once you reach level 5, you’ll need 5 more XP to reach 6.</p>
-</p>Characters are grouped into 'Tiers' of adventuring, based on their levels (see below). Your <span class="bucks">฿฿</span> and XP rewards increase as you increase in tier.</p>
+<p>Every time you participate in <u><strong>Pete & Jeremy's DnDTime</u></strong>, you gain 100 Bartholomew Bucks (<span class="bucks">฿฿</span>) and your character gains 1 experience point (XP). In our game, leveling up follows a mathematical sequence known as triangular numbers; The minimum XP required to reach level ‘L’ equals L×(L−1)÷2; You can also think of it as: Every time you reach a level, you need to earn an additional amount of XP equal to that level to level up again; Once you reach level 5, you’ll need 5 more XP to reach 6. Characters are grouped into 'Tiers' of adventuring, based on their levels (see below). Your <span class="bucks">฿฿</span> and XP rewards increase as you increase in tier.</p>
 <h4>Character Salary and Tier by Level</h4>
-<p>
 <table style="width:100%">
 <tr>
 <th></th>
@@ -75,7 +73,6 @@
 <td colspan="3">400 <span class="bucks">฿฿</span></td>
 </tr>
 </table>
-</p>
 <h3>Boss Battles</h3>
 <p>In order to level up into a new tier, a hero must first complete a boss battle against one of our unique and deadly bosses. A few of our past bosses include the dastardly revenant Bradus Deadwalker, the pernicious Riddle Boy, and the wicked hag coven, the Bitter Sisters. A boss battle will be scheduled once four characters reach the appropriate level to participate and sign up. As long as at least one character survives to defeat the boss, everyone in the party is considered to be victorious and shares in the spoils. Victory in a boss battle rewards double the normal salary of a character's new tier and a special bonus reward specific to each tier.</p>
 <p><strong>Fabled Battle.</strong> Upon defeating one of our fabled bosses, a character earns a title of their choosing to be displayed on stream whenever they play.</p>
