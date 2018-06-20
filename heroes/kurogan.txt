@@ -18,7 +18,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	<tr>
 		<td colspan="6">
 		<small><i>
-		Medium dragonborn (gold), neutral good
+		Medium humanoid (gold dragonborn), neutral good
 		</small></i>
 		</td>
 	</tr>
@@ -36,7 +36,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	<tr>
 		<td colspan="6">
 		<strong>Hit Points</strong> 
-		64 (7d10 + 14)
+		60 (7d10 + 14)
 	</td>
 	</tr>
 	<tr>
