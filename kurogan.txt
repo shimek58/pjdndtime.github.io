@@ -64,7 +64,7 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		<th style="text-align:center !important;">14 (+2)</th>
 		<th style="text-align:center !important;">12 (+1)</th>
 		<th style="text-align:center !important;">10 (+0)</th>
-		<th style="text-align:center !important;">9 (–1)</th>
+		<th style="text-align:center !important;"> 9 (–1)</th>
 	</tr>
 	<tr>
 		<td colspan="6">
