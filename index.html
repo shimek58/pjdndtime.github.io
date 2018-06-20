@@ -47,38 +47,40 @@
 	</div>
 	<div style="height:100%; width: 100px;" id="nullspace"></div>
 	<script>
-	          // Load Content
-		function loadContent() {
-	          	var dynamicContent = location.hash.substr(1);
-	          	var xhttp = new XMLHttpRequest();
-	          	xhttp.onreadystatechange = function() {
-	          		if (this.readyState == 4 && this.status == 200) {
-	          			document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
-	          			showhide();
-	          		}
-	          	};
-	          	xhttp.open("GET", dynamicContent + ".txt", true);
-	          	xhttp.send();
-	          }
-		window.addEventListener('hashchange', loadContent);
-	          // Navbar FunctionS
-	          function navFunction() {
-	          	var x = document.getElementById("topnavigationbar");
-	          	if (x.className === "topnav") {
-	          		x.className += " responsive";
-	          	} else {
-	          		x.className = "topnav";
-	          	}
-	          }
+// Load Content
+function loadContent() {
+	var dynamicContent = location.hash.substr(1);
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			document.getElementById("DnDTimeAjaxObject").innerHTML = this.responseText;
+			showhide();
+		}
+	};
+	xhttp.open("GET", dynamicContent + ".txt", true);
+	xhttp.send();
+}
+window.addEventListener('hashchange', loadContent);
 
-	          function showhide() {
-	          	var d = new Date();
-	          	var dd = d.getDay();
-	          	var signupON = document.getElementById('signupEnabled');
-	          	var signupOFF = document.getElementById('signupDisabled');
-	          	signupON.style.display = (signupON.style.display == 'block') && ((dd == 4) || (dd == 5) || (dd == 6)) ? 'none' : 'block';
-	          	signupOFF.style.display = (signupOFF.style.display == 'none') && ((dd == 4) || (dd == 5) || (dd == 6)) ? 'block' : 'none';
-	          }
+// Navbar FunctionS
+function navFunction() {
+	var x = document.getElementById("topnavigationbar");
+	if (x.className === "topnav") {
+		x.className += " responsive";
+	} else {
+		x.className = "topnav";
+	}
+}
+
+// Hide & Show Signups Based on Date
+function showhide() {
+	var d = new Date();
+	var dd = d.getDay();
+	var signupON = document.getElementById('signupEnabled');
+	var signupOFF = document.getElementById('signupDisabled');
+	signupON.style.display = (signupON.style.display == 'block') && ((dd == 4) || (dd == 5) || (dd == 6)) ? 'none' : 'block';
+	signupOFF.style.display = (signupOFF.style.display == 'none') && ((dd == 4) || (dd == 5) || (dd == 6)) ? 'block' : 'none';
+}
 	</script>
 </body>
 </html>
