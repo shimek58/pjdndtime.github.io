@@ -114,18 +114,18 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Fey Ancestry.
+			Disciple of Life.
 			</strong></i> 
-			Lance has advantage on saving throws against being charmed, and magic can't put him to sleep.
+			Whenever Lance uses a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Trance.
+			Fey Ancestry.
 			</strong></i> 
-			Lance doesn't need to sleep. Instead, he meditates deeply, remaining semiconscious, for 4 hours a day. After resting in this way, he gains the same benefit that a human does from 8 hours of sleep.
+			Lance has advantage on saving throws against being charmed, and magic can't put him to sleep.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
@@ -141,6 +141,15 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 	<tr>
 		<td colspan="6">
 			<strong><i>
+			Ritual Casting.
+			</strong></i> 
+			Lance can cast a cleric spell as a ritual if that spell has the ritual tag and he has the spell prepared.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<strong><i>
 			Spellcasting.
 			</strong></i> 
 			Lance is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks).
@@ -150,37 +159,18 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Spellcasting.
-			</strong></i> 
-			Lance can cast a cleric spell as a ritual if that spell has the ritual tag and he has the spell prepared.
-			<br><div style="height:4px;width:100%;">&nbsp;</div>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<strong><i>
-			Destroy Undead (CR 1/2).
-			</strong></i> 
-			When an undead of CR 1/2 or lower fails its saving throw against Lance's Channel Divinity: Turn Undead feature, the creature is instantly destroyed.
-			<br><div style="height:4px;width:100%;">&nbsp;</div>
-		</td>
-	</tr>
-		<tr>
-		<td colspan="6">
-			<strong><i>
-			Disciple of Life.
-			</strong></i> 
-			Whenever Lance uses a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
-			<br><div style="height:4px;width:100%;">&nbsp;</div>
-		</td>
-	</tr>
-	
-	<tr>
-		<td colspan="6">
-			<strong><i>
 			Spellguard Shield.
 			</strong></i> 
 			Lance has adavantage on saving throws against spells and other magical effects and spell attacks have disadvantage against him.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<strong><i>
+			Trance.
+			</strong></i> 
+			Lance doesn't need to sleep. Instead, he meditates deeply, remaining semiconscious, for 4 hours a day. After resting in this way, he gains the same benefit that a human does from 8 hours of sleep.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
@@ -211,18 +201,18 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Channel Divinity: Turn Undead (2 channel divinity/short rest).
+			Channel Divinity: Preserve Life (2 channel divinity/short rest).
 			</strong></i> 
-			As an action, Lance presents his holy symbol and speaks a prayer censuring the undead. Each undead that can see or hear him within 30 feet of him must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from Lance as it can, and it can't willingly move to a space within 30 feet of him. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. When an undead of CR 1/2 or lower fails its saving throw, the creature is instantly destroyed.
+			As an action, Lance presents his holy symbol and evokes healing energy that can restore 35 hit points. He chooses any creatures within 30 feet of him, and divides those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Channel Divinity: Preserve Life (2 channel divinity/short rest).
+			Channel Divinity: Turn Undead (2 channel divinity/short rest).
 			</strong></i> 
-			As an action, Lance presents his holy symbol and evokes healing energy that can restore 35 hit points. He chooses any creatures within 30 feet of him, and divides those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
+			As an action, Lance presents his holy symbol and speaks a prayer censuring the undead. Each undead that can see or hear him within 30 feet of him must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from Lance as it can, and it can't willingly move to a space within 30 feet of him. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. When an undead of CR 1/2 or lower fails its saving throw, the creature is instantly destroyed.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
