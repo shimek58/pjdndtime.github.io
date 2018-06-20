@@ -9,3 +9,4 @@
 <a href="heroes/#selcress"><h2>Selcress of the Frozen Crown</h2></a><br>
 <a href="heroes/#lance"><h2>Lance Silverblood, the Silver Heirophant</h2></a><br>
 <a href="heroes/#switch"><h2>Sylias 'Switch' Galanodel, the Judge</h2></a><br>
+</div>
