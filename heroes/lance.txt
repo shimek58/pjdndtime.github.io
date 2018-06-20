@@ -18,7 +18,7 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 	<tr>
 		<td colspan="6">
 		<small><i>
-		Medium human, neutral good
+		Medium wood elf, neutral good
 		</small></i>
 		</td>
 	</tr>
@@ -88,7 +88,7 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 	</tr>
 	<tr>
 		<td colspan="6"><strong>Languages</strong> 
-		Common, Elvish, Celestial, Draconic
+		Celestial, Common, Draconic, Elvish
 		</td>
 	</tr>
 	<tr>
@@ -102,6 +102,15 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 		</td>
 	</tr>
 	<!-- Non-Action Abilities & Magic Item Features -->
+	<tr>
+		<td colspan="6">
+			<strong><i>
+			Blessed Healer.
+			</strong></i> 
+			When Lance casts a spell of 1st level or higher that restores hit points to a creature other than him, he regains hit points equal to 2 + the spell's level.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
@@ -165,15 +174,7 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
-	<tr>
-		<td colspan="6">
-			<strong><i>
-			Blessed Healer.
-			</strong></i> 
-			When Lance casts a spell of 1st level or higher that restores hit points to a creature other than him, he regains hit points equal to 2 + the spell's level.
-			<br><div style="height:4px;width:100%;">&nbsp;</div>
-		</td>
-	</tr>
+	
 	<tr>
 		<td colspan="6">
 			<strong><i>
@@ -212,7 +213,7 @@ Though he speaks little of it, the events of Lance’s childhood have remained h
 			<strong><i>
 			Channel Divinity: Turn Undead (2 channel divinity/short rest).
 			</strong></i> 
-			As an action, Lance presents his holy symbol and speaks a prayer censuring the undead. Each undead that can see or hear him within 30 feet of him must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from Lance as it can, and it can't willingly move to a space within 30 feet of him. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+			As an action, Lance presents his holy symbol and speaks a prayer censuring the undead. Each undead that can see or hear him within 30 feet of him must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from Lance as it can, and it can't willingly move to a space within 30 feet of him. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. When an undead of CR 1/2 or lower fails its saving throw, the creature is instantly destroyed.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
