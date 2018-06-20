@@ -52,7 +52,7 @@
 				<option value="Agree">I AGREE</option>
 				<option value="Disagree">I DO NOT AGREE</option>
 			</select>
-		</div>
+		</div><br>
 		<input type="submit" value="Sign Up!">
 	</form>
 </div>
