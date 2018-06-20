@@ -112,7 +112,7 @@ She has a fondness for monstrosities that most adventurers would find repulsive 
 			<strong><i>
 			Adamantine Splint Mail.
 			</strong></i> 
-			All critical hits made against Switch are instead treated as normal hits.
+			Critical hits made against Switch are instead treated as normal hits.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
@@ -274,7 +274,7 @@ She has a fondness for monstrosities that most adventurers would find repulsive 
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Divine Sense (4/long rest)
+			Divine Sense (4/long rest).
 			</strong></i> 
 			The presence of strong evil registers on Switch's senses like a noxious odor, and powerful good rings like heavenly music in their ears. As an action, Switch can open their awareness to detect such forces. Until the end of their next turn, they know the location of any celestial, fiend, or Undead within 60 feet of them that is not behind total cover. Switch knows the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity. Within the same radius, Switch also detects the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
@@ -283,7 +283,7 @@ She has a fondness for monstrosities that most adventurers would find repulsive 
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Grenade (3, consumed)
+			Grenade (3, consumed).
 			</strong></i> 
 			Switch can use an action to detach a grenade from their bandolier and throw it up to 60 feet away. When it reaches the end of its trajectory, the grenade detonates as a 3rd-level fireball spell (save DC 15). Switch can hurl multiple grenades, or even the whole bandolier, as one action. When their do so, increase the level of the fireball by 1 for each grenade beyond the first.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
@@ -292,7 +292,7 @@ She has a fondness for monstrosities that most adventurers would find repulsive 
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Lay on Hands (35HP/long rest).
+			Lay on Hands (35 hit point/long rest).
 			</strong></i> 
 			Switch's blessed touch can heal wounds. As an action, Switch can touch a creature and draw power from their pool of hit points (35 hit points) to restore a number of hit points to that creature, up to the maximum amount remaining in the pool. Alternatively, Switch can expend 5 hit points from the pool of Healing to cure the target of one disease or neutralize one poison affecting it. Switch can cure multiple Diseases and neutralize multiple Poisons with a single use of Lay on Hands, expending hit points separately for each one. This feature has no effect on Undead and constructs.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
