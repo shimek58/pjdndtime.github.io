@@ -119,6 +119,15 @@ After receiving her power for a hefty price, Selcress dealt with their competito
 	<tr>
 		<td colspan="6">
 			<strong><i>
+			<a href="choice/#crystalcollar">Crystal Collar.</a>
+			</strong></i> 
+			Selcress gains the benefits of the Crystal Collar.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<strong><i>
 			Dark One's Blessing.
 			</strong></i> 
 			 When Selcress reduces a hostile creature to 0 hit points, she gains 11 temporary hit points.
@@ -170,7 +179,15 @@ After receiving her power for a hefty price, Selcress dealt with their competito
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
-
+		<tr>
+		<td colspan="6">
+			<strong><i>
+			Trance.
+			</strong></i> 
+			Lance doesn't need to sleep. Instead, he meditates deeply, remaining semiconscious, for 4 hours a day. After resting in this way, he gains the same benefit that a human does from 8 hours of sleep.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
@@ -192,15 +209,6 @@ After receiving her power for a hefty price, Selcress dealt with their competito
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Trance.
-			</strong></i> 
-			Lance doesn't need to sleep. Instead, he meditates deeply, remaining semiconscious, for 4 hours a day. After resting in this way, he gains the same benefit that a human does from 8 hours of sleep.
-			<br><div style="height:4px;width:100%;">&nbsp;</div>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<strong><i>
 			Voice of the Chain Master.
 			</strong></i> 
 			Selcress can communicate telepathically with Levi and perceive through his senses as long as they are on the same plane of existence. Additionally, while perceiving through Levi's senses, Selcress can also speak through Levi in her own voice.
@@ -210,15 +218,6 @@ After receiving her power for a hefty price, Selcress dealt with their competito
 	<!-- Actions -->
 	<tr>
 		<td colspan="6"><h4>Actions</h4><hr style="border-color:#922610; margin-top:0px;"></td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<strong><i>
-			Extra Attack (variant Eldritch Knight).
-			</strong></i> 
-			When Kurogan takes the Attack action on his turn, he may make two attacks instead of one. Alternatively, when Kurogan takes the Cast a Spell action on his turn and casts a cantrip, he may make a weapon attack as a bonus action.
-			<br><div style="height:4px;width:100%;">&nbsp;</div>
-		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
