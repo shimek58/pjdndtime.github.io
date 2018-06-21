@@ -1,0 +1,41 @@
+<h2>DnDTime Brews</h2>
+<p>
+<strong>DnDTime Brews</strong> is a show on <a href="https://twitch.tv/dndtime">Twitch.TV</a> two Sundays each month where Pete and Jeremy make high quality homebrew character options! Below you can find a catalog of all of the character options we have made and cleared for use in <strong>Pete & Jeremy's DnDTime</strong>.
+</p>
+<p>
+<strong>Revisions.</strong>Pete and Jeremy reserve the right to edit and revise any aspect of the character options presented herein. Once made and announced, revisions will apply to all characters using these character options for all future adventures.
+</p>
+<h3>Homebrew Races</h3>
+<h4>Race & Subrace Variants</h4>
+<p><table class="list-table">
+<tr>
+<th>Race</th>
+<th>Subrace</th>
+<th>ASI</th>
+<th>Size</th>
+</tr>
+<tr>
+<th>Bunnyfolk</th>
+<td><a href="#brews/race/bunnyfolk">Bunnyfolk</a></td>
+<td>Cha +1, Dex +2</td>
+<td>Small</td>
+</tr>
+<tr>
+<th>Floran</th>
+<td><a href="#brews/race/blossomer">Blossomer</a>, <a href="#brews/race/fungal">Fungal</a>, <a href="#brews/race/lumberling">Lumberling</a></td>
+<td>Con +2, Variable</td>
+<td>Medium</td>
+</tr>
+</table></p>
+<h3>Homebrew Classes</h3>
+<p>
+None available currently.
+</p>
+<h3>Homebrew Spells</h3>
+<p>
+None available currently.
+</p>
+<h3>Homebrew Subclasses</h3>
+<p>
+None available currently.
+</p>
