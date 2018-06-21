@@ -119,7 +119,7 @@ After receiving her power for a hefty price, Selcress dealt with their competito
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			<a href="choice/#crystalcollar">Crystal Collar.</a>
+			<a href="#choice/crystalcollar">Crystal Collar.</a>
 			</strong></i> 
 			Selcress gains the benefits of the Crystal Collar.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
@@ -166,7 +166,7 @@ After receiving her power for a hefty price, Selcress dealt with their competito
 			<strong><i>
 			Pact Magic.
 			</strong></i> 
-			Selcress is a 7th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). When selcress casts a spell of 3rd level or lower from her Pact Magic feature, she casts it at 4th level.
+			Selcress is a 7th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). When Selcress casts a spell of 3rd level or lower from her Pact Magic feature, she casts it at 4th level.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
