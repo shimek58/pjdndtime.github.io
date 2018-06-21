@@ -1,8 +1,8 @@
-<h3 style="margin-top:0px !important;">Kurogan, the Great and Powerful</h3>
+<h3 style="margin-top:0px !important;">Selcress, of the Frozen Crown</h3>
 <p>
-Long ago, a golden Dragonborn was hatched to clan on the brink of a war. A war that they could never have forseen. Demons; The most evil creatures of creatures; Known to ravage and destroy all that might stand before them. On the brink of the demonic onslaught, in an attempt to save the newly hatched dragonborn, the clan sent him on a raft down the nearby river. That hatching was eventually found and brought to a small human orphanage. The Dragonborn known as Kurogan was born on that day.
+Selcress of the Frozen Crown was originally Selcress of House Ishal, a noble drow household in the Underdark. Her mother was a high priestess of Lolth by the name of Larshalee. Her father, a drow, warped and twisted by a demonic ritual. Her upbringing instilled in her a sense of complete and total superiority over all other beings. The only thing she believed capable of threatening her were other Drow households. After making a childish blunder which put the standing of her house in jeopardy, Selcress refused to disappoint her mother by telling her.  Instead, she sought help from a darker power, Levistus the Ice Prince of Stygia.
 </p><p>
-Although never knowing his birth family or clan, he was adopted by a young knight captain. He was raised to follow the teachings of the knight himself. The bravery and acumen of his youth soon grew him into a fierce weapon of war. However, Kurogan was not yet ready when the Demons attacked again. Once more, Kurogan had lost the life and family that he had grown to cherish. Faced with nothing and left with not but the clothes on his back, a weapon, and his loyal retainers and squire, Kurogan set out for new adventures. He found himself in the employ of a powerful wizard with the hopes of finding another place to belong. In that time, he has made many friends and gained both renown and experience. But with destiny thrust upon him, Kurogan's mind lingers on his past - and to the demons that he must one day face again.
+After receiving her power for a hefty price, Selcress dealt with their competitor on her own.  Still longing for her mother's approval, Selcress went ahead and joined Bartholomew's band of adventurers to gain both her mother's recognition and more peons for their conquest.  Eventually, she surpassed her mother in the ranks of the adventurers, growing ever stronger and showcasing her superiority.  She has it all, the power, the peons, and her mother's respect, but Selcress’ eyes turn to ever greater heights.
 </p><br>
 <table style="background-color:#FDF1DC !important;">
 	<tr>
@@ -11,14 +11,14 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	<tr>
 		<th style="text-align:left;" colspan="6">
 			<h5>
-			Kurogan, the Great and Powerful
+			Selcress, of the Frozen Crown
 			</h5>
 		</th>
 	</tr>
 	<tr>
 		<td colspan="6">
 		<small><i>
-		Medium dragonborn (gold), neutral good
+		Small humanoid (drow), neutral evil
 		</small></i>
 		</td>
 	</tr>
@@ -30,19 +30,19 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	<tr>
 		<td colspan="6">
 		<strong>Armor Class</strong> 
-		19 (splint mail and shield)
+		14 (leather armor)
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 		<strong>Hit Points</strong> 
-		64 (7d10 + 14)
+		45 (7d8 + 7)
 	</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 		<strong>Speed</strong> 
-		30ft., fly 30ft. (Wings of Flying)
+		30ft.
 		</td>
 	</tr>
 	<tr>
@@ -59,12 +59,12 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 		<th style="text-align:center !important;">CHA</th>
 	</tr>
 	<tr>
-		<th style="text-align:center !important;">20 (+5)</th>
-		<th style="text-align:center !important;">14 (+2)</th>
-		<th style="text-align:center !important;">14 (+2)</th>
+		<th style="text-align:center !important;">8 (-1)</th>
+		<th style="text-align:center !important;">16 (+3)</th>
+		<th style="text-align:center !important;">13 (+1)</th>
 		<th style="text-align:center !important;">12 (+1)</th>
 		<th style="text-align:center !important;">10 (+0)</th>
-		<th style="text-align:center !important;"> 9 (–1)</th>
+		<th style="text-align:center !important;">18 (+4)</th>
 	</tr>
 	<tr>
 		<td colspan="6">
@@ -73,27 +73,27 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	</tr>
 	<tr>
 		<td colspan="6"><strong>Saving Throws</strong> 
-		Str +8, Con +5
+		Wis +3, Cha +7
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6"><strong>Skills</strong> 
-		Acrobatics +5, History +4, Perception +3, Persuasion +2
+		Deception +7, History +4, Perception +3, Persuasion +7, Religion +4
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6"><strong>Damage Resistances</strong> 
-		fire
+		cold
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6"><strong>Senses</strong> 
-		passive Perception 13
+		darvision 120ft., passive Perception 13
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6"><strong>Languages</strong> 
-		Abyssal, Common, Draconic
+		Common, Elvish, Infernal
 		</td>
 	</tr>
 	<tr>
@@ -110,36 +110,100 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Action Surge (1/short rest).
+			Agonizing Blast.
 			</strong></i> 
-			Kurogan takes an additional action.
+			When Selcress casts eldritch blast, add her Charisma modifier to the damage it deals on a hit.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Right Hand of the Monkey.
+			Dark One's Blessing.
 			</strong></i> 
-			Kurogan can wield two handed melee weapons in his right hand as though they were one-handed. Kurogan's melee weapon attacks gain an additional 5 ft. reach (included in the attack).
+			 When Selcress reduces a hostile creature to 0 hit points, she gains 11 temporary hit points.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Spellcasting.
+			Dark One's Own Luck (1/short rest).
 			</strong></i> 
-			Kurogan is a 3rd-level spellcaster. His spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks).
+			 Selcress can call on Levistus to alter fate in her favor. When she makes an ability check or a saving throw, she can use this feature to add a d10 to her roll. She can do so after seeing the initial roll but before any of the roll's effects occur.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			String of Getting Thrown Objects Back After You've Thrown Them.
+			Fey Ancestry.
 			</strong></i> 
-			Kurogan is able to tie this magical string to any thrown weapon or item and magically recover the item after use, even if it would normally be consumed when thrown. The item may not be used again until the next dawn.
+			Selcress has advantage on saving throws against being charmed, and magic can't put her to sleep.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<strong><i>
+			Gift of the Ever-Living Ones.
+			</strong></i> 
+			Whenever Selcress regains hit points while Levi is within 100 feet of her, treat any dice rolled to determine the hit points she regains as having rolled their maximum value for her.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<strong><i>
+			Pact Magic.
+			</strong></i> 
+			Selcress is a 7th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). When selcress casts a spell of 3rd level or lower from her Pact Magic feature, she casts it at 4th level.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<strong><i>
+			Pact of the Chain.
+			</strong></i> 
+			Selcress can cast the find familiar spell as a ritual. When she casts the spell, her familiar takes the form of an imp named Levi.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td colspan="6">
+			<strong><i>
+			Stygian Wand.
+			</strong></i> 
+			Whenever Selcress casts a damaging spell she may change its damage type to cold.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<strong><i>
+			Sunlight Sensitivity.
+			</strong></i> 
+			Selcress has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when she, the target of her attack, or whatever she is trying to perceive is in direct sunlight.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<strong><i>
+			Trance.
+			</strong></i> 
+			Lance doesn't need to sleep. Instead, he meditates deeply, remaining semiconscious, for 4 hours a day. After resting in this way, he gains the same benefit that a human does from 8 hours of sleep.
+			<br><div style="height:4px;width:100%;">&nbsp;</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<strong><i>
+			Voice of the Chain Master.
+			</strong></i> 
+			Selcress can communicate telepathically with Levi and perceive through his senses as long as they are on the same plane of existence. Additionally, while perceiving through Levi's senses, Selcress can also speak through Levi in her own voice.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
@@ -159,70 +223,49 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Dragonblade Greatsword.
+			Dagger.
 			</strong> 
 			Melee Weapon Attack:
 			</i> 
-			+9 to hit, reach 10 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+			+6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 3) piercing damage.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Reaver.
+			Light Crossbow.
 			</strong> 
-			Melee Weapon Attack:</i> 
-			+8 to hit, reach 10 ft., one target. Hit: 12 (1d12 + 5) slashing damage. If this attack reduces the target to zero hit points, Kurogan may immediately make an additional attack against a different creature within his reach.
+			Ranged Weapon Attack:</i> 
+			+6 to hit, reach 80/320 ft., one target. Hit: 8 (1d8 + 3) piercing damage.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Breath Weapon (1/long rest).
-			</strong></i> 
-			Kurogan exhales fire in a 15-foot cone. Each creature in that cone must make a DC 13 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+			Rapier.
+			</strong> 
+			Ranged Weapon Attack:</i> 
+			+6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 3) piercing damage.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Growstone (1/long rest).
+			Pact of the Chain.
 			</strong></i> 
-			Kurogan grows in size as though under the effects of the Enlarge/Reduce spell. Alternatively, Kurogan can touch the Growstone to a mundane plant, causing it to rapidly grow up to 100 feet high over the course of the next minute.
+			Selcress commands Levi to use its reaction to make one attack.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Jar of Bees (consumable).
+			Rallying Banner of Enduring Vigor (1/day).
 			</strong></i> 
-			Kurogan throws this glass jar up to 30 feet at a creature of his choice. For the next minute, the bees swarm around the creature dealing 10 piercing damage at the start of that creatures' turn. Damage dealt this way ignores all resistances and immunities.
-			<br><div style="height:4px;width:100%;">&nbsp;</div>
-		</td>
-	</tr>
-<!-- Bonus Actions -->
-	<tr>
-		<td colspan="6"><h4>Bonus Actions</h4><hr style="border-color:#922610; margin-top:0px;"></td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<strong><i>
-			Second Wind (1/short rest).
-			</strong></i> 
-			Kurogan's regains 1d10 + 7 Hit Points.
-			<br><div style="height:4px;width:100%;">&nbsp;</div>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<strong><i>
-			Sexy Vampire Costume (1/long rest).
-			</strong></i> 
-			Kurogan's magically assumes the form of a bat as though transforming via the Druid's Wild Shape feature. Kurogan remains in this form for up to 1 minute or until he uses a bonus action to revert.
+			Selcress unleashes a mighty war cry and her cape flares with vivid colors inspiring all friendly creatures within 30 ft. of you. Those creatures gain 1d10 + her Charisma modifier temporary hit points.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
@@ -233,9 +276,9 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			Protection.
+			Tomb of Levistus
 			</strong></i> 
-			When an ally within 5 feet of Kurogan is targeted by an attack, Kurogan interposes his shield, imposing disadvantage on the attack roll.
+			As a reaction when Selcress takes damage, she can entomb herself in ice, which melts away at the end of her next turn. She gains 70 temporary hit points, which take as much of the triggering damage as possible. Immediately after she takes the damage, she gains vulnerability to fire damage, her speed is reduced to 0, and she is incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
@@ -248,25 +291,25 @@ Although never knowing his birth family or clan, he was adopted by a young knigh
 			<strong><i>
 			Cantrips.
 			</strong><br> 
-			Fire Bolt, Poison Spray
+			Dancing Lights, Eldritch Blast, Minor Illusion, Toll the Dead
 			</i><br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			1st Level (4 slots).
+			Drow Magic (1/long rest each).
 			</strong><br> 
-			Chromatic Orb, Protection from Evil and Good, Shield, Thunderwave
+			Darkness, Faerie Fire
 			</i><br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<strong><i>
-			2nd Level (2 slots). 
+			Pact Magic (2/short rest). 
 			</strong><br> 
-			Shatter
+			Command, Crown of Madness, Dimension Door, Enemies Abound, Finf Familiar, Fly, Hunger of Hadar, Vampiric Touch
 			</i>
 		</td>
 	</tr>
