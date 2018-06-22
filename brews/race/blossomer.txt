@@ -11,7 +11,7 @@ Blossomers are lithe and agile plantfolk. Freespirited wanderers of the forest, 
 		<td colspan="6"><div style="width:calc(100% + 6px); margin-left:-3px; margin-top: -3px; height:6px; background-color:#E69A28;" colspan="6"></div></td>
 	</tr>
 	<tr>
-		<th style="text-align:left;margin-bottom:5px;" colspan="6">
+		<th style="text-align:left;padding-bottom:5px;" colspan="6">
 			<h5>
 			Floran (Blossomer)
 			</h5>
