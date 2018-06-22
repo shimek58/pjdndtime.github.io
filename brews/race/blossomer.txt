@@ -5,7 +5,7 @@ Florans are a species of plantfolk who come in a variety of shapes and sizes and
 </p>
 <p>
 Blossomers are lithe and agile plantfolk. Freespirited wanderers of the forest, most Blossomers are naturally in tune with the gentle and innocent aspects of nature. A Blossomer's spirit is one of freedom. Even something as simple as the smell of rich soil on a cool autumn gust can leave a Blossomer in a state of blissful joy.
-</p>
+</p><br>
 <p><table style="background-color:#FDF1DC !important;">
 	<tr>
 		<td colspan="6"><div style="width:calc(100% + 6px); margin-left:-3px; margin-top: -3px; height:6px; background-color:#E69A28;" colspan="6"></div></td>
