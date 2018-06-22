@@ -1,10 +1,11 @@
-<h2>DnDTime Brews</h2><br>
-<h3>Homebrew Race: The Floran (Blossomer)</h3>
+<h3>
+Homebrew Race: The Floran (Blossomer)
+</h3>
 <p>
-Florans are a species of plantfolk who come in a variety of shapes and sizes and can live for a wide range of years, depending on the subrace. Florans and usually lovers of nature, sometimes becoming adventurers more for the excitement of exploring new places than for any monetary reward. Florans tend towards neutrality, and usually prefer not to engage in the grand conflicts of good versus evil and law versus chaos without provocation. The most common Floran and the Lands of DnDTime fall into the subcategory of Blossomer, Fungal, or Lumberling.
+Florans are a race of plantfolk who come in a variety of different shapes and sizes and can live for a wide range of years, depending on the subrace. Florans and usually lovers of nature, sometimes becoming adventurers more for the excitement of exploring new places than for any monetary reward. Florans tend towards neutrality, and usually prefer not to engage in the grand conflicts of good versus evil and law versus chaos without provocation. The most common Floran and the Lands of DnDTime fall into the subcategory of Blossomer, Fungal, or Lumberling.
 </p>
 <p>
-Blossomers are lithe and agile plantfolk. Freespirited wanderers of the forest, most Blossomers are naturally in tune with the gentle and innocent aspects of nature. A Blossomer's spirit is one of freedom. Even something as simple as the smell of rich soil on a cool autumn gust can leave a Blossomer in a state of blissful joy.
+Blossomers are lithe and agile Floran. Freespirited wanderers of the forest, most Blossomers are naturally in tune with the gentle and innocent aspects of nature. Even something so simple as the smell of freshly tilled soil wafting on a cool autumn breeze can leave a Blossomer in a state of blissful joy. For this reason, most Blossomers are quick to make friends. However, Blossomers are also known for their thorns. Blossomers tend to view people, places, and things all as equally important; The intentional destruction of any of the three has been known to send a Blossomer into a rage, or in extreme cases, a complete existential crisis.
 </p><br>
 <p><table style="background-color:#FDF1DC !important;">
 	<tr>
@@ -46,7 +47,7 @@ Blossomers are lithe and agile plantfolk. Freespirited wanderers of the forest, 
 	<tr>
 		<td colspan="6">
 			<strong><i>Age. </strong></i>
-			Race reach adulthood by age 10 and can live up to 20 years. Blossomer floran who die naturally wilt allowing them to be reborn, retaining fragments of their of their past personalities.
+			Blossomers reach adulthood by age 10 and can live up to 20 years. A blossomer floran at the end of its natural life will wilt, die, and be reborn during the next spring, retaining fragments of their of their past personalities.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
@@ -66,47 +67,50 @@ Blossomers are lithe and agile plantfolk. Freespirited wanderers of the forest, 
 	</tr>
 	<tr>
 		<td colspan="6">
-			<strong><i>Flower Power. </strong></i>
+			<strong><i>
+			Flower Power.
+			</strong></i> 
 			You know the druidcraft cantrip. You may use this cantrip to grow small quantities of fruit and spices in addition to its normal benefits.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
-			<strong><i>Photosynthesis. </strong></i>
+			<strong><i>
+			Photosynthesis.
+			</strong></i> 
 			If you spend at least 8 hours per day in direct sunlight, you do not require food for that day. Once per day, when you take a short rest in direct sunlight, you regain a number of hit points equal to 1d6 + to your level.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
-  <tr>
+	<tr>
 		<td colspan="6">
-			<strong><i>Photosynthesis. </strong></i>
-			If you spend at least 8 hours per day in direct sunlight, you do not require food for that day. Once per day, when you take a short rest in direct sunlight, you regain a number of hit points equal to 1d6 + to your level.
-			<br><div style="height:4px;width:100%;">&nbsp;</div>
-		</td>
-	</tr>
-  <tr>
-		<td colspan="6">
-			<strong><i>Natural Form. </strong></i>
+			<strong><i>
+			Natural Form.
+			</strong></i> 
 			You have advantage on Dexterity (Stealth) checks to hide in or near natural foliage.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
-  <tr>
+	<tr>
 		<td colspan="6">
-			<strong><i>Regrowth. </strong></i>
+			<strong><i>
+			Regrowth.
+			</strong></i> 
 			Over the course of a long rest, you may choose to regrow any missing limbs, and grow simple natural clothing.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
-  <tr>
+	<tr>
 		<td colspan="6">
-			<strong><i>Thorns and Petals. </strong></i>
+			<strong><i>
+			Thorns and Petals.
+			</strong></i> 
 			You know the thorn whip cantrip. Once you reach 3rd level, you can cast the charm person spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the plant growth spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.
 			<br><div style="height:4px;width:100%;">&nbsp;</div>
 		</td>
 	</tr>
-  <tr>
+	<tr>
 		<td colspan="6">
 			<strong><i>Languages. </strong></i>
 			You can speak, read, and write Common and Sylvan.
